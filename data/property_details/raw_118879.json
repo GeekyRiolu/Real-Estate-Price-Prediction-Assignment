@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118879,
+    "borrower_name": "Mr. Natvarbhai Bababhai Rathod",
+    "bank_name": "Bank of Baroda",
+    "address": "All The Piece And Parcel Of The Property 176/ A Located At Plot No. 97 101 106/2 105/1/Flat No P/404/Door No/House/Nearest Door, Adm. Land Sq Meter, Build Up Area 71.95, Carpet Area 71.95, Which Is Situated At Flat No 404, Block No P On 4Th Floor, Carpet Area Adm 65.06 Sq Mts, Built Up Area Adm 71.95 Sq Mts, Wash Area Adm 2.17 Sq Mts, Adm 108.69 Sq Mts Super Built Up Area, And Also Having Right Of Undivided Share In Land 36 Sq Mts, In The Scheme Known As Aditya Constructed On Na Land Bearing Block No 176/A (Old Block No. 176/1, 177, 179 And 196) Of Draft Town Planning Scheme No. 76 (Hathijan), Allotted Final Plot No. 97 101 +106/2, Sub Plot No. 3. Block No. 176/A Draft Town Planning Scheme No. 76 (Hathijan) Allotted Final Plot No. 105/1 Sub Plot No 4 Adm 7328 Sq Mts, Situate At Mouje Hathijan Taluka: Vatva And District: Ahmedabad Abd Registration Sub District Of Ahmedabad-11 (Aslali) City-Ahmadabad City, District-Ahmedabad, State Region-Gujarat, Country- India, Pin Code-382445 Bounded As Follows: North: Other Complex South: Flat No P401 East: Block No O West: Flat No P403 Province/State : Gujarat City/Town : Ahmedabad Area/Town : Vatva",
+    "reserve_price": 1944000,
+    "dimensions": "65.06 Sq Mt",
+    "emd": 194400,
+    "possession": null,
+    "auction_date": "2025-03-09T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Vatva",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": 382445,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 7,
+    "city_id": 938,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Branch Head Abdullah Iqbal:",
+    "ao_mobile": "9839462090",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

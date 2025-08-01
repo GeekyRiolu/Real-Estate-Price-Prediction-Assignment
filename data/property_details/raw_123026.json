@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123026,
+    "borrower_name": "Mr. Harwinder Singh",
+    "bank_name": "Hinduja Housing Finance Limited",
+    "address": "Description Property Situated At Rupnagar Tehsil And District Rupnagar (Hadbast No. 44), Area Measuring 0 Kanal 6 M Arla 6/75 Share Comprised In Khatoni No. 1527 Khasrano. 71//1 Min(0-1)10/2(0-6)Khatoni No.1328 No.Khasra 71//10/3(0-12) Khatauni No.1329 Khasra No.71//12/1(1-7) Khatauni No.1330 No. Khasra 71//9/4(1-4), Hence Total Share Comes To The Applicant Vide Sale Deed No. 654 Dated 29/5/1985 Executed By Hari Chand S/O Megh Raj S/O Tek Chand R/O Ropar In Favor Of Shanti Devi W/O Nirmal Singh R/O Village Boor Majra Tehsil And District Rupnagar, Fard/Jamabandi For The Year 2016-17 Province/State : Punjab City/Town : Ludhiana Area/Town : Roopnagar",
+    "reserve_price": 4111560,
+    "dimensions": "",
+    "emd": 411156,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Roopnagar",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 128,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474294",
+      "Branch Name": "Registered Office : Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

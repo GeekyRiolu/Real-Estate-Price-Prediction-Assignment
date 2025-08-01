@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122623,
+    "borrower_name": "M/S Sri Vijaya Sai Furnitures",
+    "bank_name": "Punjab National Bank",
+    "address": "All That Part And Piece Of Residential Vacant Land Situated At Guntur District, Prathipadu Sub District, Prathipadu Gramapanchayath Area Limits, Prathipadu Village In Survey Number Dno 968/2,968/3 Total Extent Ac.3-00 Cents, And In D.No.40/1 An Extent Of Ac-0.18 Cents, Total Extent Of Ac3-18 Cents With Land Conversion And Approved Layout Plan At Prathipadu Village, Near Door No 9-209 In Plot No 6 An Extent Of 258.34 Square Yards Of Vacant Site Is Being Bounded By: East: Site Of Plot No 7 34-4 Feet, South: Others Land 76-8 Feet, West: Others Land 30-4 Feet, North: 33 Feet Wide Road 76-8 Feet. Within These Boundaries An Extent Of 258.34 Square Yards Or 215-99 Square Meters Of Vacant Site Only Province/State : Andhra Pradesh City/Town : Guntur Area/Town : Pathipadu",
+    "reserve_price": 1450000,
+    "dimensions": "",
+    "emd": 145000,
+    "possession": null,
+    "auction_date": "2025-04-28T18:30:00.000Z",
+    "application_deadline": "2025-04-26T18:30:00.000Z",
+    "locality": "Pathipadu",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478843",
+      "Branch Name": "Circle Sastra Centre : Vijayawada"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

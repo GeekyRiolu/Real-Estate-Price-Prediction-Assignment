@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118334,
+    "borrower_name": "M/S Nk Entertainment",
+    "bank_name": "Punjab National Bank",
+    "address": "Flat No. II/S-4, 2nd Floor (Without Roof Right), Plot No. 9/2/9, Sector-0, Vaishali, Ghaziabad",
+    "reserve_price": 3400000,
+    "dimensions": "37.15 Sq. Mts. (CA)",
+    "emd": 340000,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Vaishali",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": 201010,
+    "latlong": "maps.google.com/maps?q=28.652703, 77.351908",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 26,
+    "city_id": 3280,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

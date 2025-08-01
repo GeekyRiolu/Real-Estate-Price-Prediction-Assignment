@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 119371,
+    "borrower_name": "Mr.Sojan Xavier",
+    "bank_name": "Bank of Baroda",
+    "address": "Residential Building on Survey No. 15/7/4 (Old Sy. No. 141/10/1,10/2,10/3), Block No. 41, Thiruvaniyoor, Kunnathunadu, Ernakulam",
+    "reserve_price": 3500000,
+    "dimensions": "2.72 Ares",
+    "emd": 350000,
+    "possession": null,
+    "auction_date": "2025-03-05T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Kunnathunadu",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=18.4982881, 73.9578689",
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 12,
+    "city_id": 2280,
+    "property_type_id": 33,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Authorised Officer On Tel No: , Mobile No. .",
+    "ao_mobile": "2711026 / 9446899414",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

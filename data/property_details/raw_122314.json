@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122314,
+    "borrower_name": "Sarojmittal",
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "address": "Property Measuring 115 Sq. Yds. Bearing House No. C-1106 Situated At Vakiya Gali Teliyan, Purana Mohalla, Jagadhri, Tehsil Jagadhri Inside Limits Municipal Corporation Yamunanagar-Jagadhari Province/State : Haryana City/Town : Yamunanagar Area/Town : Jagadhari,",
+    "reserve_price": 3675000,
+    "dimensions": "115 Sq. Yds",
+    "emd": 367500,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Jagadhari,",
+    "city": "Yamunanagar",
+    "state": "Haryana",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 31,
+    "state_id": 8,
+    "city_id": 3547,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479024",
+      "Branch Name": "Corporate Office : Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

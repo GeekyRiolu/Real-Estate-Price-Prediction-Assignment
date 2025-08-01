@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 506, 5th Floor, F1- Wing, Akshar Rivergate, Chavne, Panvel, Navi Mumbai",
+    "name": "Flat in Akshar Rivergate, Panvel, Navi Mumbai",
+    "application_date": "2025-08-06T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 2,
+    "built_up_area": null,
+    "total_area": "295 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "location": "Panvel",
+    "estimated_discount": "20",
+    "emd": 211500,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38792,
+    "latitude": "18.855202758497924",
+    "longitude": "73.15340885620174",
+    "min_increment": null,
+    "reserve_price": 2115000,
+    "description": null,
+    "slug": "flat-in-akshar-rivergate-panvel-navi-mumbai",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Ashish Kumar",
+    "amenities": "~6 mins walk to Garden | Within 10 mins drive to Goverment Primary Hospital | 10 min ride to Apta Railway Station",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Akshar Rivergate - Best Price",
+    "seo_keyword": "Flat in Akshar Rivergate, Panvel, Navi Mumbai",
+    "title_h1": "Buy Flat in Akshar Rivergate, Panvel, Navi Mumbai",
+    "seo_description": "Find a fantastic flat in Akshar Rivergate, located in Panvel, Navi Mumbai. This property offers excellent living space and great value for money. Explore the possibilities and consider this apartment. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-03T19:46:41.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-04T08:01:00.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38792/1751616060846_unnamed (19).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38792/1751616060930_unnamed (19).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

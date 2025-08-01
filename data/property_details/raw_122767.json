@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122767,
+    "borrower_name": "Mr. Nityanand Govind Kadam",
+    "bank_name": "ICICI Bank",
+    "address": "Description Flat No. 102, 1St Floor, Bhoomija Kunj, Constructed On C.D Hold Land Of Block No. A 375, Room No. 750 Bearing Cts No. 22625, Sheet No. 34, Ulhasnagar 4, Dist- Thane, Thane-421004. Admeasuring An Area Of Admeasuring About 444 Sq Ft Carpet Area (666 Sq Ft Builtup Area Province/State : Maharashtra City/Town : Thane Area/Town : Ulhasnagar",
+    "reserve_price": 2300000,
+    "dimensions": "444 Sq Ft",
+    "emd": 230000,
+    "possession": null,
+    "auction_date": "2025-04-21T18:30:00.000Z",
+    "application_deadline": "2025-04-19T18:30:00.000Z",
+    "locality": "Ulhasnagar",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421004,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472162",
+      "Branch Name": "Branch Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

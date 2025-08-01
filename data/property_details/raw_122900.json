@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122900,
+    "borrower_name": "Mr. Sanjay Baburaw Aglave",
+    "bank_name": "Tata Capital Housing Finance Limited",
+    "address": "Description All The Premises Bearing Flat No.104, Admeasuring About 365 Sq. Ft. (Built Up Area) I.E. 33.92 Sq. Mtrs (Built Up) On The 1St Floor, In The B-Wing, In The Building \u201cSai Khush Phase-1, Situated At Rabale, Navi Mumbai, District Thane, Maharashtra Province/State : Maharashtra City/Town : Thane Area/Town : Rabale",
+    "reserve_price": 1650000,
+    "dimensions": "365 Sq. Ft.",
+    "emd": 165000,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Rabale",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 54,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478532",
+      "Branch Name": "Thane Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

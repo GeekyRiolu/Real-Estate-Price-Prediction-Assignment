@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123110,
+    "borrower_name": "Shri Surinder Singh",
+    "bank_name": "Uco Bank",
+    "address": "Description 6) All Part And Parcel Consisting Of Residential Property Measuring 7 Marla Ie. 4 Biswa Comprised In Khewat No. 223, Khatoni 268. Khasra Rect No. 17//16(18-0) 17(8-0) 18(8-0) 19(8 0)20(7-8)21(6-16) 22(7-0)23(7-0)24(8-0)25(8-0)27(1-3)28(1-12)I.E. 78 Kanals 19 Marla Having 7/1579 Share That Total Land Measuring 7 Marla Ie. 4 Biswa As Per Jamabandi For The Year 2004-05, Revised Khata No. 226/276 As Per Jamabandi For The Year 2009-10, Situated Within The Revenue Limits Of Khanna Khurd, Tehsil Khanna, Distt. Ludhiana, Area Known As Jethi Nagar, Malerkolla Road, Khanna. Registered Vide Wasika No. 150 Dated 09-04-2008 Owned By Mr. Surinder Singh Sio Kangan Singh Registered Vide Wasika No. 150 Dated 09-04-2008 Owned By Mr. Surinder Singh Slo Kangan Singh Bounded By: East: Balwinder Singh, North: Street 259 , West: Plot 70, South Jamail Singh 25'9  Province/State : Punjab City/Town : Ludhiana Area/Town : Khanna",
+    "reserve_price": 2497000,
+    "dimensions": "",
+    "emd": 249700,
+    "possession": null,
+    "auction_date": "2025-04-06T18:30:00.000Z",
+    "application_deadline": "2025-04-04T18:30:00.000Z",
+    "locality": "Khanna",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 11,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "465617",
+      "Branch Name": "Zonal Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

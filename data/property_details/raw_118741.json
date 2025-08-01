@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118741,
+    "borrower_name": "Mr. Nimesh Narayan Chalke",
+    "bank_name": "Bank of Baroda",
+    "address": "Flat No. 414, Fourth Floor, Ghanshyam Shyam Flat, Survey No. 1386, 1390, 1391, 1392, 1393 (Consolidated City Survey No. 1386), Vadsar, Vadodara.",
+    "reserve_price": 936000,
+    "dimensions": "55.74 Sq. Mtrs (BUA presumed) and Undivided Share of Land Measuring 11.13 Sqmtrs",
+    "emd": 93600,
+    "possession": "Physical",
+    "auction_date": "2025-03-24T18:30:00.000Z",
+    "application_deadline": "2025-03-22T18:30:00.000Z",
+    "locality": "Vadsar",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": 138841,
+    "latlong": "maps.google.com/maps?q=22.2603943, 73.1733127",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Jetalpur Branch Mob",
+    "ao_mobile": "9066777249",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

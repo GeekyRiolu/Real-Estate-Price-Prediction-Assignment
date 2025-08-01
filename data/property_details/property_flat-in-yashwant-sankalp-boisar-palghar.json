@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 304, 3rd Floor, Wing-C, Type-A5, Jasmin, Yashwant Sankalp, Boisar(W), Palghar",
+    "name": "Flat in Yashwant Sankalp, Boisar, Palghar",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-29T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 59,
+    "built_up_area": null,
+    "total_area": "343 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Boisar",
+    "estimated_discount": "20",
+    "emd": 210000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 41616,
+    "latitude": "19.784250854917936",
+    "longitude": "72.74800209721371",
+    "min_increment": null,
+    "reserve_price": 2028000,
+    "description": null,
+    "slug": "flat-in-yashwant-sankalp-boisar-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Pandey Laxman Bhimlal",
+    "amenities": "Just a 3 min drive to JSW Miyawaki Park | Just a 4 min drive to Rahul International School | Within 10 mins drive to Shinde Hospital | Within 10 mins drive to Shivkala Arcade",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Yashwant Sankalp \u2013 Best Price",
+    "seo_keyword": "Flat in Yashwant Sankalp, Boisar, Palghar",
+    "title_h1": "Buy Flat in Yashwant Sankalp, Boisar, Palghar",
+    "seo_description": "Discover a fantastic opportunity to buy a flat in Yashwant Sankalp, located in Boisar, Palghar. This property offers comfortable living. Call now to find your dream home today. Schedule a visit and explore the available options!",
+    "created_at": "2025-07-15T10:05:52.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-07-15T10:05:52.000Z",
+    "modified_by": null,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "Saraswat Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/41616/1752573952168_unnamed.webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/41616/1752573952232_unnamed.webp"
+    ]
+  }
+}

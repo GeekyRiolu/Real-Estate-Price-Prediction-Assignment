@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 1102, 11th Floor, Block No B, Shyam Heights, New Vadaj, Ahmedabad",
+    "name": "Flat in Shyam Heights, New Vadaj, Ahmedabad",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-27T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 56,
+    "built_up_area": null,
+    "total_area": "92 Sq.Mtr CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "location": "Bhimjipura",
+    "estimated_discount": "20",
+    "emd": 904203,
+    "market_value": 14000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 43952,
+    "latitude": "23.060022683899263",
+    "longitude": "72.5707488259324",
+    "min_increment": null,
+    "reserve_price": 9042030,
+    "description": null,
+    "slug": "flat-in-shyam-heights-new-vadaj-ahmedabad",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753428000495!6m8!1m7!1saP9lB6C0wdtEIPLXHS9wEg!2m2!1d23.06021456198545!2d72.57085477318448!3f193.81915058520008!4f31.157501128375458!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "PATEL SUNILKUMAR GANDABHAI & PATEL DIPIKABEN SUNILBHAI",
+    "amenities": "Just a 3 min drive to D-Mart | Within 10 mins drive to Shree Swaminarayan International School | Within 10 mins drive to Aksharkrupa Hospital",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Shyam Heights, Ahmedabad - Best Price",
+    "seo_keyword": "Flat in Shyam Heights, New Vadaj, Ahmedabad",
+    "title_h1": "Buy Flat in Shyam Heights, New Vadaj, Ahmedabad",
+    "seo_description": "Discover a fantastic opportunity to buy a flat in Shyam Heights, located in New Vadaj, Ahmedabad. This property offers great value and is available now. Call now to schedule a viewing and seize this amazing deal before it's gone. Act fast, and don\u2019t miss out!",
+    "created_at": "2025-07-22T00:16:55.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-25T07:22:09.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Aditya Birla Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/43952/1753428129633_shyam.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/43952/1753428129633_shyam.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

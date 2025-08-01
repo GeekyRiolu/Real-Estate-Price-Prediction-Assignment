@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 201, Floor 2, Pearl Wing D, Konark Solitaire, Vadavali, Kalyan, Thane",
+    "name": "Residential Flat in Konark Solitaire, Kalyan, Thane",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 48,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Kalyan",
+    "estimated_discount": "20",
+    "emd": 285000,
+    "market_value": 3420000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39426,
+    "latitude": "19.2618218",
+    "longitude": "73.1646157",
+    "min_increment": 10,
+    "reserve_price": 2850000,
+    "description": null,
+    "slug": "residential-flat-in-konark-solitaire-kalyan-thane",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical Posession",
+    "borrower_name": "Rahul Santosh Sonawane / Sumanbai Santosh Sonawane / Pooja Rahul Sonawane, B.O.: MUMBAI",
+    "amenities": "Within 10 mins drive to VIBGYOR Roots & Rise | Best School in Kalyan | CBSE School | Khadakpada | Within 10 mins drive to Tulip Shopping Complex | Within 10 mins drive to KDMC Ground. | Within 10 mins drive to Aayush Multispeciality Hospital in Kalyan, Maharashtra",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Kalyan - Best Price",
+    "seo_keyword": "Residential Flat in Konark Solitaire, Kalyan, Thane",
+    "title_h1": "Buy Residential Flat in Konark Solitaire, Kalyan, Thane",
+    "seo_description": "Discover a fantastic Residential Flat in Konark Solitaire, located in Vadavali, Kalyan, Thane. This property offers spacious living and excellent amenities. Contact us today, don't miss the chance to own it. Call now to schedule a visit to your new home.",
+    "created_at": "2025-07-05T12:22:27.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-07T07:59:15.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "PNB Housing Finance",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39426/1751875155061_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39426/1751875155213_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

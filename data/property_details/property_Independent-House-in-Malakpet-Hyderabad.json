@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "House M.No.16-10-11, Ground Floor, First Floor, Second Floor, Pent House, Malakpet, Hyderabad",
+    "name": "Independent House in Malakpet, Hyderabad",
+    "application_date": "2025-09-01T18:30:00.000Z",
+    "date": "2025-09-03T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": null,
+    "total_area": "166.66 Sq.yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "location": "Malakpet",
+    "estimated_discount": "20",
+    "emd": 1249700,
+    "market_value": 14996400,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47055,
+    "latitude": "17.3716458",
+    "longitude": "78.49097669999999",
+    "min_increment": null,
+    "reserve_price": 12497000,
+    "description": null,
+    "slug": "Independent-House-in-Malakpet-Hyderabad",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "M/s Sri Lakshmi Ganapathi Agencies",
+    "amenities": "Close to TX Hospitals Kachiguda | Close by Shree Sankat Haran Hanuman Mandir | Nearby Hyderabad International School - Santoshnagar Crida road | Close to Kamineni Hospitals - King Koti | Near Ratnadeep Supermarket",
+    "nearby_locations": null,
+    "seo_title": "Independent House for sale in Malakpet - Best Price",
+    "seo_keyword": "Independent House in Malakpet, Hyderabad",
+    "title_h1": "Buy Independent House in Malakpet, Hyderabad",
+    "seo_description": "Find an Independent House for sale in Malakpet, Hyderabad. Explore this property for spacious living and a prime location. Contact us today for more details and to schedule a visit. Act now; this amazing house won't last long. Call now to schedule a visit.",
+    "created_at": "2025-07-30T01:36:15.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T10:21:26.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47055/1753870886989_House3.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47055/1753870886989_House3.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

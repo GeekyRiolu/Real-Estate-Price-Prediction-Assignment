@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 117985,
+    "borrower_name": "Mrs. Uma Saxena",
+    "bank_name": "Canara Bank",
+    "address": "Residential Flat no. G.F.-2. Ground Floor, (without Roof Right), Back Side, Situated at Plot No-54, Khasra No. 67.  Akash Vihar, Village Sadullabad, Ghaziabad and admeasuring area 41.505 Sq meter with boundaries as: East: Road 7.5 Meter Wide West: Plot Others North Plot No. 53 South: Plot No-55 (This property is in Symbolic possession of the Bank) Province/State :  Uttar Pradesh City/Town :  Ghaziabad Area/Town :  Sadullabad.",
+    "reserve_price": 1400000,
+    "dimensions": "41.505 Sq meter",
+    "emd": 140000,
+    "possession": "Symbolic",
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Sadullabad.",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 26,
+    "city_id": 3280,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118170,
+    "borrower_name": "Chandrashekhar G Shetye",
+    "bank_name": "PNB Housing Finance",
+    "address": "Greenville Wing E1, 10, 1002.0, Lodha Upper Thane Codename Superdeal Proposed integrated township project At Village Anju Surai Mankoli Tal Bhiwandi Near Mankoli Naka Thane Maharashtra - 421308, India. (458 Sq. Ft. CarpetArea) Province/State :  Maharashtra City/Town :  Thane Area/Town :  Bhiwandi",
+    "reserve_price": 3149000,
+    "dimensions": "458 Sq. Ft",
+    "emd": 314900,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Bhiwandi",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421308,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 48,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

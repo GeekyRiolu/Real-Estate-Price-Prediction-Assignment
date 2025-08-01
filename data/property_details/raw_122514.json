@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122514,
+    "borrower_name": "Kunhi Muhammed Mohammed Shafi Kannannore",
+    "bank_name": "HDFC Bank",
+    "address": "10.36% Uds In 03.6423 Ares Of Land In Re Sy No: 139/3 Of Guruvayoor Village, Chavakkad Taluk, Thrissur District Together With Apartment No: 84 Having An Area Of 807 Sq.Ft (75 Sqmts) On The 4Th Floor Of The Multi Storied Building Called Ambalath Blooming Homes Together With Car Parking And All Other Rights Appurtenant To It Obtained As Per Sale Deed No: 596/2015 Of Kottappady Sro. Boundaries-East: Property Of Dr Mubarak, North: Municipal Road And Property Of Dr Mubarak, South: Property Of Jayaprakash And Rasheed, West: Municipal Road And Property Of Jayaprakash Province/State : Kerala City/Town : Thrissur Area/Town : Chavakkad",
+    "reserve_price": 2350000,
+    "dimensions": "807 Sq.Ft",
+    "emd": 235000,
+    "possession": null,
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Chavakkad",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471864",
+      "Branch Name": "Kochi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

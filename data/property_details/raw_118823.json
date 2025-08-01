@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118823,
+    "borrower_name": "Mr. Manish Patel",
+    "bank_name": "Indian Bank",
+    "address": "Dev Darshan Bunglows, R.S Survey No / C.S No. 229, Jambuwa \u2013 Sundarpura Road, Near Jambuwa Sub Station, Vadodara, Gujarat",
+    "reserve_price": 1875000,
+    "dimensions": "BUA 1276",
+    "emd": 187500,
+    "possession": null,
+    "auction_date": "2025-03-16T18:30:00.000Z",
+    "application_deadline": "2025-03-14T18:30:00.000Z",
+    "locality": "Jambuva",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": 390013,
+    "latlong": "maps.google.com/maps?q=22.2062517, 73.193165",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 6,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No : :Rlprajapat, (M.)",
+    "ao_mobile": "75685 / 07016",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 703, 7th Floor, Ruparel Nova, Parel, Mumbai",
+    "name": "Flat in Ruparel Nova, Parel, Mumbai",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 40,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "location": "Parel",
+    "estimated_discount": "20",
+    "emd": 1341360,
+    "market_value": 18000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40104,
+    "latitude": "19.0066846418444",
+    "longitude": "72.85039496987787",
+    "min_increment": null,
+    "reserve_price": 13413600,
+    "description": null,
+    "slug": "flat-in-ruparel-nova-parel-mumbai",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752125066137!6m8!1m7!1sL4WDQclu2cROxVB-rGckxQ!2m2!1d19.0068910009231!2d72.85023350524455!3f164.26638637779556!4f43.99943436312273!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Deepali Ramakant Pujari",
+    "amenities": "5 mins walk to D-mart | Just a 3 min drive to King Edward Memorial Hospital | Just a 3 min drive to JBCN International School | Within 10 mins drive to Phoenix Palladium",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Ruparel Nova, Parel \u2013 Best Price",
+    "seo_keyword": "Flat in Ruparel Nova, Parel, Mumbai",
+    "title_h1": "Buy Flat in Ruparel Nova, Parel, Mumbai",
+    "seo_description": "Discover an amazing flat in Ruparel Nova, Parel, Mumbai. This property offers great value with modern amenities. Contact us today to explore available options and secure your dream home. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-09T10:53:45.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-10T05:28:09.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "ICICI Home Finance",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40104/1752125289058_unnamed.webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40104/1752125289138_unnamed.webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

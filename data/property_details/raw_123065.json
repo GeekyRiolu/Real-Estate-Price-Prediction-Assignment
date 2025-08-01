@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123065,
+    "borrower_name": "M/S Chopra Karyana Store",
+    "bank_name": "Union Bank of India",
+    "address": "Description Sr No 2 Property In The Name Of Mr. Ravi Kumar Chopra S/O Sh. Nand Lal, Residential Property Situated In Street No. 06 %, Deep Vihar Colony, Indu Bihar Colony, Near Sujan Sweets, Pharma Road, Ludhiana. Constructed On A Plot Measuring 100 Sq. Yards In The Revenue Estate Of Pharma, Distt. Ludhiana. Sale Deed Registered Vide Vasika No. 21940 Dated 16.03.2006. Boundaries: As Per Sale Deed: East- Neighbour,West- Neighbour, North- Neighbour, South- Street 20' Wide. As Per Site: East-House, West-House, North-Plot Of Jagdish, South-Street 20' Wide. Possession Type: Symbolic Province/State : Punjab City/Town : Ludhiana Area/Town : Phamra",
+    "reserve_price": 2400000,
+    "dimensions": "100 Sq. Yards",
+    "emd": 240000,
+    "possession": "Symbolic",
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Phamra",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "470889",
+      "Branch Name": "Regional Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

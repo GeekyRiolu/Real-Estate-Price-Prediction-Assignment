@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122687,
+    "borrower_name": "Challa Venkata Subbarao",
+    "bank_name": "Grihum Housing Finance Limited",
+    "address": "All That Piece And Parcel Of The Property Of Southern Side Flat In Sec-. Ond Floor With Built Up Area Of 1020.0 Sq.Ft., Together With An Undi-Vided Joint Extent Of 31.25 Sq. Yds., Out Of Total Extent Of 250.20 Sq. Yds. In Nts.No.411 Situated At Konevari Street. Eluru, Eluru Revenue Division, Eluru Sub Registry, West Godavari District Being Bounded By: Land Boundaries: East: Property Of B. Sridevi, South-Joint Passage. West: Municipal Road, North -Municipal Road Province/State : Andhra Pradesh City/Town : West Godavari Area/Town : Eluru",
+    "reserve_price": 2500000,
+    "dimensions": "1020.0 Sq.Ft.",
+    "emd": 250000,
+    "possession": null,
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Eluru",
+    "city": "West Godavari",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 99,
+    "state_id": 1,
+    "city_id": 3362,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478856",
+      "Branch Name": "Registered Office : Pune"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

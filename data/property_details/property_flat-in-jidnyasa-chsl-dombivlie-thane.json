@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 702, 7th Floor, Building No B-1, Jidnyasa CHSL, Dombivli(E), Thane",
+    "name": "Flat in Jidnyasa CHSL, Dombivli(E), Thane",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 13,
+    "built_up_area": null,
+    "total_area": "750 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Dombivli",
+    "estimated_discount": "20",
+    "emd": 362400,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39396,
+    "latitude": "19.15319620588884",
+    "longitude": "73.0640942811671",
+    "min_increment": null,
+    "reserve_price": 3624000,
+    "description": null,
+    "slug": "flat-in-jidnyasa-chsl-dombivlie-thane",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "SUMEET SANJAY GAWANDE",
+    "amenities": "Just a 4 min drive to D-mart | Just a 5 min drive to Palava Xperia Mall | Within 10 mins drive to Bijankur Hospital | Within 10 mins drive to Ira Global School",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Jidnyasa CHSL \u2013 Best Price",
+    "seo_keyword": "Flat in Jidnyasa CHSL, Dombivli(E), Thane",
+    "title_h1": "Buy Flat in Jidnyasa CHSL, Dombivli(E), Thane",
+    "seo_description": "Explore a fantastic flat in Jidnyasa CHSL, Dombivli(E), Thane. This property provides comfortable living with essential amenities. Contact us for details about the location and to see the flat yourself. Call now to schedule a visit before it's gone.",
+    "created_at": "2025-07-05T12:15:36.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-08T06:33:00.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Axis Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39396/1751956380995_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39396/1751956381132_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "L9001060118549578",
+    "address": "Malkat No 90, Gundal, Khedbrahma",
+    "name": "Commercial Property in Gundal, Khedbrahma",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-05T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "1116 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Property",
+    "city": "Khedbrahma",
+    "state": "Gujarat",
+    "location": "Gundal",
+    "estimated_discount": "20",
+    "emd": 47000,
+    "market_value": 700000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 37394,
+    "latitude": "24.07744056502056",
+    "longitude": "72.9876655023033",
+    "min_increment": null,
+    "reserve_price": 470000,
+    "description": null,
+    "slug": "commercial-property-in-gundal-khedbrahma",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 32,
+    "location_type": "Approximate",
+    "possession": "Symbolic",
+    "borrower_name": "Barot Moharsinh S/O Vasanthai",
+    "amenities": "Nearby HOTEL VEERKRUPA | Nearby RAJVEE RESTAURANT | Near Jay Harsiddh Bhavani Mobile Shop | Near Bank of Baroda Agiya Branch",
+    "nearby_locations": null,
+    "seo_title": "Commercial Property for sale in Gundal - Best Price",
+    "seo_keyword": "Commercial Property in Gundal, Khedbrahma",
+    "title_h1": "Buy Commercial Property in Gundal, Khedbrahma",
+    "seo_description": "Find prime commercial property for sale in Gundal, Khedbrahma, suitable for your business needs. This property offers excellent investment opportunities. Call now to get details and secure your property today before it's too late! Secure your future and invest in this promising area.",
+    "created_at": "2025-06-26T22:24:32.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-10T10:52:29.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/37394/1752144749596_House1.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/37394/1752144749759_House1.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

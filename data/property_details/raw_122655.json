@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122655,
+    "borrower_name": "Chikkam Srinivasa Rao",
+    "bank_name": "Shriram Housing Finance Ltd.",
+    "address": "Guntur District, Nallapadu Sub-District Within The Limits Of New Guntur Muncipal Corporation Area, Nallapadu Village, D.No: 152/1, Out Of 155 Sq. Yds On The Western Side An Extent Of 77.7 Sq. Yds Or 64.96 Sq.Mts Of House Site Along With Rcc Roof Ground And First Floor And Acc Sheet Second Floor Building Therein Bearing Door No: 26-47-254 And Asst. No. 1021120129. Bounded By: East: Property Of Chikkam Raghavaiah - 25.6Ft.. South: Road 27.6 Ft., West: Property Of Babburi Ramaiah Etc. 25.6 Ft,. North: Property Of Bathula Ankamma Rao - 27.6 Ft, Within The Above, An Extent Of 77.7 Sq. Yds Or 64.96 Sq.Mts Of House Site Along With Rcc Roof Ground And First Floor And Acc Sheet Second Floor Building Therein Bearing Door No: 26-47, 254 And Asst No.1021120129 Only. (This Property Corresponds To Doc.No: 4421/2020 Of S.R.O. Nallapadu). Province/State : Andhra Pradesh City/Town : Guntur Area/Town : Nallapadu",
+    "reserve_price": 4112000,
+    "dimensions": "155 Sq. Yds",
+    "emd": 411200,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Nallapadu",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": 102112,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 52,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "466565",
+      "Branch Name": "Head Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

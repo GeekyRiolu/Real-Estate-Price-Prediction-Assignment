@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122991,
+    "borrower_name": "Mr. Davinder Pal Singh",
+    "bank_name": "Uco Bank",
+    "address": "Description All Part And Parcel Of Immovable Property/House No. 32 Bearing M.C. No B-28-891/Pm/32-P Measuring 155 Sq. Yards Comprising In Khasra No. 26//3, 4/1, Khata No. 243/242, 244/243, Khatoni No. 298, 299 As Per Jamabandi For The Year 2013-14, Situated At Village Jawaddi, Hadbast No. 160, Loclity Known As New Punjab Mata Nagar, Tehsil  and  District Ludhiana As Per Sale Deed Bearing Vasika No. 2021-22/101/1/14941 Dated 21.01.2022 In The Name Of Mrs. Ravinder Kaur W/O Mr. Davinder Pal Singh. Bounded As Under:- East: Plot No. 31; West: Plot No. 33; North: Neighbour, South: Passage Province/State : Punjab City/Town : Ludhiana Area/Town : Jawaddi",
+    "reserve_price": 6335000,
+    "dimensions": "155 Sq. Yards",
+    "emd": 633500,
+    "possession": null,
+    "auction_date": "2025-04-19T18:30:00.000Z",
+    "application_deadline": "2025-04-17T18:30:00.000Z",
+    "locality": "Jawaddi",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 11,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 29,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478479",
+      "Branch Name": "Uco Bank Zonal Office : Chandigarh"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

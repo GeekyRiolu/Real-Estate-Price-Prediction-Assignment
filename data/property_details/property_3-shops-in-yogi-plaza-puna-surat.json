@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No 1 To 3, Ground Floor, Yogi Plaza,  Puna, Surat",
+    "name": "3 Shops in Yogi Plaza, Puna, Surat",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 2,
+    "built_up_area": null,
+    "total_area": "999 SFT SBUA",
+    "carpet_area": "549.14 SFT",
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Puna",
+    "estimated_discount": "20",
+    "emd": 700000,
+    "market_value": 12000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39494,
+    "latitude": "21.21575562614416",
+    "longitude": "72.87953757993017",
+    "min_increment": null,
+    "reserve_price": 7000000,
+    "description": null,
+    "slug": "3-shops-in-yogi-plaza-puna-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": "Approximate",
+    "possession": "Physical",
+    "borrower_name": "M/s Patel Corporation",
+    "amenities": "Close to The Palladium Mall | Close by Divya Mall | Nearby Sri Puna Seva Sahkari Mandali Limited | Near Axis Bank Branch",
+    "nearby_locations": null,
+    "seo_title": "3 Shops for sale in Yogi Plaza, Puna, Surat - Best Price",
+    "seo_keyword": "3 Shops in Yogi Plaza, Puna, Surat",
+    "title_h1": "Buy 3 Shops in Yogi Plaza, Puna, Surat",
+    "seo_description": "Explore prime commercial opportunities. You can purchase 3 shops in Yogi Plaza, Puna, Surat. They provide excellent visibility and potential for business growth. These shops are ideal for investment. Call now to schedule a visit and secure your future!",
+    "created_at": "2025-07-05T22:03:59.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-07T05:28:18.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39494/1751866098478_Shop.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39494/1751866098362_Shop.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

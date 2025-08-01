@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122901,
+    "borrower_name": "Mr. Pintoo Yogendra Kanojiya",
+    "bank_name": "Tata Capital Housing Finance Limited",
+    "address": "Description Flat No. 005, D-Wing, On The Ground Floor, Area Admeasuring 28.05 Sq. Mtrs Carpet + 5.63 Enclosed Otla + 1.12 Sq. Mtrs , Cb, Complex Known As Pathak Residency, In The Building Priyam, Village, Shirgaon, Taluka Ambernath, District Thane, And Within The Limits Of Kulgaon Badlapur Municiapl Council, And Within The Jurisdiction Of Sub-Registration District Ulhasnagar, And Registration District Thane. Province/State : Maharashtra City/Town : Thane Area/Town : Ambarnath",
+    "reserve_price": 1790000,
+    "dimensions": "28.05 Sq. Mtrs",
+    "emd": 179000,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Ambarnath",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 54,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478534",
+      "Branch Name": "Thane Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

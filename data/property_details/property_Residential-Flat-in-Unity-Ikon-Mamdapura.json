@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 402 4th Floor, Unity Ikon, Mamdapura, Karjat",
+    "name": "Flat in Unity Ikon, Mamdapura, Karjat",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 13,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Karjat",
+    "state": "Maharashtra",
+    "location": "Mamdapura",
+    "estimated_discount": "20",
+    "emd": 176400,
+    "market_value": 3000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39404,
+    "latitude": "19.036634584690717",
+    "longitude": "73.31150912724114",
+    "min_increment": null,
+    "reserve_price": 1764000,
+    "description": null,
+    "slug": "Residential-Flat-in-Unity-Ikon-Mamdapura",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "MOHD SUHEL IRSHADALI SHAIKH",
+    "amenities": "Just a 4 min drive to Snap Comercial plaza | Just a 4 min drive to Neral Multispeciality Hospital | Within 10 mins drive to Shabnam Sayed English School",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Unity Ikon - Best Price",
+    "seo_keyword": "Flat in Unity Ikon, Mamdapura, Karjat",
+    "title_h1": "Buy Flat in Unity Ikon, Mamdapura, Karjat",
+    "seo_description": "Purchase a beautiful flat in Unity Ikon, Mamdapura, Karjat. This property offers great investment potential in a prime location with excellent connectivity. Call now to schedule a visit and secure your future home today. Don't miss out!",
+    "created_at": "2025-07-05T12:17:27.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-08T09:45:05.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Axis Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39404/1751967905606_unnamed (34).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39404/1751967905709_unnamed (34).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

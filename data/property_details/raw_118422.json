@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118422,
+    "borrower_name": "Smt. Amanchi Sujatha",
+    "bank_name": "Canara Bank",
+    "address": "Pandillapalli, Vetapalem Mandal, New Bapatla District, Guntur, Andhra Pradesh. Survey No 68/4, Near D.No 4-116.",
+    "reserve_price": 3230000,
+    "dimensions": "677.6 Sq. Yards Or 566.47 Sq.Meters",
+    "emd": 323000,
+    "possession": null,
+    "auction_date": "2025-03-24T18:30:00.000Z",
+    "application_deadline": "2025-03-22T18:30:00.000Z",
+    "locality": "Tenali",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=15.771135, 80.2994823",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No : , , ,",
+    "ao_mobile": "9492758257 / 8019308696 / 8331019148 / 8331015729",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

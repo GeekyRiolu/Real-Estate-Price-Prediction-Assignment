@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122537,
+    "borrower_name": "M/S. Yobel Systems",
+    "bank_name": "ICICI Bank",
+    "address": "Vacant Land Covering Area Of 53.85 Ares (133 Cents) In Survey No.461/1-4 And 461/1-9, Puthur Village, Thrissur Toluk, Thrissur District-680001. Bounded On The North By: Property Of George South: Property Of Mercy, Vatsa And Road East: Property Of George West: Property Of Kallookaran Ajiyas, Thiriyani And Meenakshiyamma Province/State : Kerala City/Town : Thrissur Area/Town : Puthur,",
+    "reserve_price": 22700000,
+    "dimensions": "",
+    "emd": 2270000,
+    "possession": null,
+    "auction_date": "2025-04-03T18:30:00.000Z",
+    "application_deadline": "2025-04-01T18:30:00.000Z",
+    "locality": "Puthur,",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": 680001,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471962",
+      "Branch Name": "Branch Office : Cochin"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

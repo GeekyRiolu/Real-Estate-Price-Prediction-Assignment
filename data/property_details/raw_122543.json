@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122543,
+    "borrower_name": "Mr Jaleel Muhammed Kunju",
+    "bank_name": "HDFC Bank",
+    "address": "Type O Flat Numbered As Apartment No.F Admeasuring 771 Sq Ft (7165 Sq Mts) On The First Floor Of The Multistureyed Apartment Complex Called Rm Co Apartments Situated At Poochatty, Eravimangalam, Thrissur And 1/37 Undivided Share Over 14.46 Ares In Sy Nd162/8 Part Of Nadathara Village, Thrissur Taluk, Thrissur District And All Rights And Easements Appurtenant To The Said Apartment Complex Obtained By Virtue Of Sale Deed No.3627/2014 Of Kuttanelloor Srol Boundaries-East: Panchayath Road, North: Property Of Sukl Maran West: Property Of Sukumaran, South: 38 Mts Wide Private Road Province/State : Kerala City/Town : Thrissur Area/Town : Nadathara",
+    "reserve_price": 1875000,
+    "dimensions": "771 Sq Ft",
+    "emd": 187500,
+    "possession": null,
+    "auction_date": "2025-04-02T18:30:00.000Z",
+    "application_deadline": "2025-03-31T18:30:00.000Z",
+    "locality": "Nadathara",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "456973",
+      "Branch Name": "Kochi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

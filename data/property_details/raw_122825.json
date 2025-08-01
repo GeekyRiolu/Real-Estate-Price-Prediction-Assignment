@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122825,
+    "borrower_name": "Sanket Shashikant Kadam",
+    "bank_name": "PNB Housing Finance",
+    "address": "Description 503, 5Th Floor, A Wing, Audumbar Apartment, Near Datta Nagari, Chintamani Chowk, Badlapur West, Badlapur, Thane, Maharashtra, India, 421503 Province/State : Maharashtra City/Town : Thane Area/Town : Badlapur",
+    "reserve_price": 2815000,
+    "dimensions": "",
+    "emd": 281500,
+    "possession": null,
+    "auction_date": "2025-04-14T18:30:00.000Z",
+    "application_deadline": "2025-04-12T18:30:00.000Z",
+    "locality": "Badlapur",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421503,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 48,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "467384",
+      "Branch Name": "Kalyan"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

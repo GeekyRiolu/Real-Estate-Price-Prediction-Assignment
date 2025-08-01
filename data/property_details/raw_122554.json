@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122554,
+    "borrower_name": "Mr. Mohammed Ashraf Mansoori",
+    "bank_name": "Canara Bank",
+    "address": "Emt Of Residential Flat No. 1005, 10Th Floor, C Wing, Palm Atlantis, Gut No. 228 Of Village Wagholi, Skylight Road, Taluka Haveli, Dist. Pune 412207, Carpet Area 497 Sq.Ft. On Or Towards East: Open Plot, On Or Towards West: Palm Atlantis Road, On Or Towards North: Palm Atlantis Building B. On Or Towards South: Palm Atlantis Building D Province/State : Maharashtra City/Town : Pune Area/Town : Wagholi",
+    "reserve_price": 3379000,
+    "dimensions": "497 Sq.Ft.",
+    "emd": 337900,
+    "possession": null,
+    "auction_date": "2025-04-27T18:30:00.000Z",
+    "application_deadline": "2025-04-25T18:30:00.000Z",
+    "locality": "Wagholi",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": 412207,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479334",
+      "Branch Name": "Arm-Ii Branch, Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

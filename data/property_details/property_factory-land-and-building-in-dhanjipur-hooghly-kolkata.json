@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Rs & Lr Dag No. 265, 266, 270 to 276, Lr Khatian No. 144 & 146, Rice Mill, Polba Dadpur, Goswami Malipara, Dhanjipur, Hooghly, Kolkata",
+    "name": "Factory Land and Building in Dhanjipur, Hooghly, Kolkata",
+    "application_date": "2025-08-04T18:30:00.000Z",
+    "date": "2025-08-06T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": null,
+    "total_area": "211 Decimals",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Land and Building",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "location": "Polba Dadpur",
+    "estimated_discount": "20",
+    "emd": 5500000,
+    "market_value": 66000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 36959,
+    "latitude": "22.9584318",
+    "longitude": "88.24038329999999",
+    "min_increment": null,
+    "reserve_price": 55000000,
+    "description": null,
+    "slug": "factory-land-and-building-in-dhanjipur-hooghly-kolkata",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 33,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "M/s. Green Garden Agro Pvt. Ltd.",
+    "amenities": "Near Nasher Variety Store | Nearby Dumurpur Health Centre | Close by Bhusali Health Center | Close by Puinan Market",
+    "nearby_locations": null,
+    "seo_title": "Factory Land for sale in Hooghly - Best Price",
+    "seo_keyword": "Factory Land and Building in Dhanjipur, Hooghly, Kolkata",
+    "title_h1": "Buy Factory Land and Building in Dhanjipur, Hooghly, Kolkata",
+    "seo_description": "Explore Factory Land and Building options in Dhanjipur, Hooghly, Kolkata. We offer prime industrial properties with strategic locations. Discover properties for your business. Call now to schedule a visit and secure your investment before it\u2019s too late.",
+    "created_at": "2025-06-24T01:38:24.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-06-24T10:22:17.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/36959/1750760537083_land and building.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/36959/1750760537233_land and building.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

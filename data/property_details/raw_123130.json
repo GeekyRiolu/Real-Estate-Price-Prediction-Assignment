@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123130,
+    "borrower_name": "M/S Rs Fasteners India Pvt Ltd",
+    "bank_name": "Punjab National Bank",
+    "address": "Description 1) Lot 1: All Part And Parcel Of Land  and  Building Situated At 3062, Streetno. 12, New Janta Nagar, Gill Road, Ludhiana, In The Name Of Sh. Ramesh Mahesh S/O Sh. Chaman Lal Vide Title Deeds No: 1841 Dated 24.04.1995 Msg. 162-1/2 Sq. Yards And Sh. Rajesh Mahesh S/O Ramesh Mahesh Vide Title Deedno. 1508 Dated 21.04.1995 Msg 162-1/2 Sq. Yard Province/State : Punjab City/Town : Ludhiana Area/Town : Gill Road",
+    "reserve_price": 5400000,
+    "dimensions": "2 Sq. Yard",
+    "emd": 540000,
+    "possession": null,
+    "auction_date": "2025-04-02T18:30:00.000Z",
+    "application_deadline": "2025-03-31T18:30:00.000Z",
+    "locality": "Gill Road",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472105",
+      "Branch Name": "Zonal Sastra Centre"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

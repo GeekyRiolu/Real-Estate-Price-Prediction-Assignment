@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118368,
+    "borrower_name": "M/S Batish Textile",
+    "bank_name": "State Bank of India",
+    "address": "2/45 x 1/2 share out of khewat khatouni no. 333/490, now khewat/khoutni no. 332/501 khasra no. 5843/ 3983 2173/1117(2-5x 1/2)  H. No. 247, Street No. 18 Guru Nanak Nagar, near badi Nadi, Patiala",
+    "reserve_price": 1896000,
+    "dimensions": "98.6 square yards",
+    "emd": 189600,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Patiala",
+    "city": "Patiala",
+    "state": "Punjab",
+    "pincode": 569037,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 10,
+    "state_id": 20,
+    "city_id": 2806,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

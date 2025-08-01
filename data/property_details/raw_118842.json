@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118842,
+    "borrower_name": "Rabari Vikram",
+    "bank_name": "Aditya Birla Housing Finance Limited",
+    "address": "All That Piece And Parcel Of Residential Property Bearing Plot No. 201, (Admeasuring About 314.53 Sq Mtrs. Plot Area  and  Construction Thereon Ground Floor First Floor Total 259 Sq. Mtrs. As Per Regularization Certificate), Old G Ward, Nr. Devalshyam Appartment, Nr. Ld Matru Chhaya English Medium School, Maya Cinema Road, Kubernagar, In The Scheme Known As Situated At City Survey No. 9981, Moje: Sardarnagar, Taluka: Asarva, Dist  and  Sub District Ahmedabad, Gujarat-382340, And Bounded As East Road Margin Then Road, West: City Survey No. 9980, North: City Survey No. 9961, South: City Survey No. 9982 Province/State : Gujarat City/Town : Ahmedabad Area/Town : Asarva",
+    "reserve_price": 8278850,
+    "dimensions": "314.53 Sq Mt",
+    "emd": 827885,
+    "possession": null,
+    "auction_date": "2025-03-12T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Asarva",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": 382340,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 56,
+    "state_id": 7,
+    "city_id": 938,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No:",
+    "ao_mobile": "8000023297 / 9265562819",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

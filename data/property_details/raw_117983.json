@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 117983,
+    "borrower_name": "Sh Pankaj Kumar",
+    "bank_name": "State Bank of India",
+    "address": "Flat on Third Floor on Plot No.425-D, Ram Nagar, Mohd Ismail Khan@Turab Nagar, Ghaziabad with roof rights measuring 30.75 sq.mtr in the name of Sh Pankaj Kumar s/o Sh.Rameshwar Das. Bounded as under: East: House of Mishra Ji, West: 5 Ft Gali, North House of Mussadi Lal, South: House of Harbans Lal. (Physical possession with the bank)  Other Encumbrance:- If any, not Known  Province/State :  Uttar Pradesh City/Town :  Ghaziabad Area/Town :  Turab Nagar",
+    "reserve_price": 850000,
+    "dimensions": "30.75 sq.mt",
+    "emd": 85000,
+    "possession": "Physical",
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Turab Nagar",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 10,
+    "state_id": 26,
+    "city_id": 3280,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

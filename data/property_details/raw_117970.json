@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 117970,
+    "borrower_name": "M/S Parker Pipes  and  Fittings",
+    "bank_name": "Union Bank of India",
+    "address": "LOT: 6. Prop. 8 Commercial Property measuring 1 Bigha 12 Biswa 3.33 Biswasis Pukhta i.e. 4 Bigha 16 Biswas 10 Biswasis Kham, out of which 0 Bigha 14 Biswa 13.33 Biswasis Pukhta comprised in Khata No. 566/674 having Khasra No. 941/206/3/3/0-2-15, 242/206/3/5min/0-1-13, 208/1min/0-10-5.33  and  0 Bigha 17 Biswa 10 Biswasis Pukhta comprised in Khata No. 125/140 having Khasra No. 209/2/0-7-10,209/3/0-10-0, situated at Village Kanoi, Tehsil  and  Distt. Sangrur. Property 9, Commercial Property measuring 2000 Sq. yards i.e. 13 Biswa 6.2/3 Biswasis Pukhta i.e. 2 Bigha Kham, Comprised in Khata No. 497/624(old) Khata No. 567/675(new) having Khasra No. 208/1/0-13-6.6, situated at Sunan Road, Village Kanoi, Tehsil  and  District Sangrur. Boundaries as per Sale Deed: -East: 393-0  Agri. Land, West: 269-3  Agri. Land, North: 213-9  Agri. Land, South: 244'-0  Road. Type of Possession: Symbolic Possession. Province/State :  Punjab City/Town :  Sangrur Area/Town :  Kanoi",
+    "reserve_price": 13100000,
+    "dimensions": "2000 Sq. yards",
+    "emd": 1310000,
+    "possession": "Symbolic",
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Sangrur",
+    "city": "Sangrur",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Commercial Shop/Retail Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 20,
+    "city_id": 2826,
+    "property_type_id": 16,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

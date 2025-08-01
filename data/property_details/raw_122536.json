@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122536,
+    "borrower_name": "Smt Saradhakunjamma",
+    "bank_name": "HDFC Bank",
+    "address": "392 Ares In Re Survey Block No.007, Re Sy No. 283/11-9; Old Sy Nos, 78, 84/1, 82/1  and  82/2 Of Chittilappally Village, Thrissur Taluk, Thrissur District And All Rights And Easements Appurtenant To It Covered By Sale Deed No. 1213/2019 Of Mundur Srol Boundaries: East: Property Of Thressia, South: Property Of Or Rema Devi  and  Private Road, West: 5 Mts Wide Private Road North: Property Of Shemy John Province/State : Kerala City/Town : Thrissur Area/Town : Chittilappilly",
+    "reserve_price": 2615000,
+    "dimensions": "",
+    "emd": 261500,
+    "possession": null,
+    "auction_date": "2025-04-03T18:30:00.000Z",
+    "application_deadline": "2025-04-01T18:30:00.000Z",
+    "locality": "Chittilappilly",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "456872",
+      "Branch Name": "Kochi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

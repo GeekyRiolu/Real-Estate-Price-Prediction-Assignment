@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "19630000001039, 19630000001419",
+    "address": "Flat No 104, 1st Floor, Royal Park, Laxmi Nagar 1, Junagadh",
+    "name": "Residential Flat in Royal Park, Laxmi Nagar 1, Junagadh",
+    "application_date": "2025-09-07T18:30:00.000Z",
+    "date": "2025-09-09T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "N/A",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Junagadh",
+    "state": "Gujarat",
+    "location": "Laxmi Nagar 1",
+    "estimated_discount": "20",
+    "emd": 93000,
+    "market_value": 1600000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47168,
+    "latitude": "21.299736393382062",
+    "longitude": "70.24928440827948",
+    "min_increment": null,
+    "reserve_price": 930000,
+    "description": null,
+    "slug": "residential-flat-in-royal-park-laxmi-nagar-1-junagadh",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Vaja Akashdeep Pankajbhai",
+    "amenities": "Just a 4 min drive to V.S. PUBLIC SCHOOL | Just a 5 min walk to Shreeji eye hospital | Just a 5 min walk to Golden Shopping Mall | Within 10 mins drive to Oxygen park",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Junagadh - Best Price!",
+    "seo_keyword": "Residential Flat in Royal Park, Laxmi Nagar 1, Junagadh",
+    "title_h1": "Buy Residential Flat in Royal Park, Laxmi Nagar 1, Junagadh",
+    "seo_description": "Explore this residential flat in Royal Park, Laxmi Nagar 1, Junagadh. This property offers comfortable living and is conveniently located. Find your perfect home with ample space and desirable features. Call now to schedule a viewing and make this flat yours before it's gone!",
+    "created_at": "2025-07-30T22:03:07.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T06:19:40.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47168/1753942780942_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47168/1753942780942_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

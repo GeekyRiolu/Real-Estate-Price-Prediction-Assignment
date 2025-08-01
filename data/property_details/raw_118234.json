@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118234,
+    "borrower_name": "Mr. Dhanaji Ganapati Lohar",
+    "bank_name": "Union Bank of India",
+    "address": "Description of the Property: All the piece and parcel of property situated within the municipal area of Ichalkaranji bearing R.S. No.473, Hissa No.2, N.A. Plot No.34, Area 169.14 Sq. Mtrs. as per sale deed and 142.19 Sq.Mtrs as per N.A. order construction thereon in municipal W.No. 13 House No. 23/1044/1 Province/State :  Maharashtra City/Town :  Kolhapur Area/Town :  Ichalkaranji",
+    "reserve_price": 2836620,
+    "dimensions": "169.14 Sq. Mt",
+    "emd": 283662,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Kolhapur",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 3352,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

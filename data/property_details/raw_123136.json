@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123136,
+    "borrower_name": "Sapna Bansal",
+    "bank_name": "ICICI Bank",
+    "address": "Description Plot Private No. 9 Min., Comprised In Khasra No. 1386 Min., Khata Khatoni No. 2277/3584, Jamabandi Year 2015-2016, Situated At Village , Sultanwind Sub-Urban Taraf Behniwal, Abadi Ram Avenue, Near Mandir Wale Plot, Tehsil Amritsar-1, District Amritsar, Punjab-143001 (Admeasuring An Area 50 Sq Yard). Province/State : Punjab City/Town : Amritsar Area/Town : Behniwal",
+    "reserve_price": 1045000,
+    "dimensions": "50 Sq Yard",
+    "emd": 104500,
+    "possession": null,
+    "auction_date": "2025-04-02T18:30:00.000Z",
+    "application_deadline": "2025-03-31T18:30:00.000Z",
+    "locality": "Behniwal",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "pincode": 143001,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 20,
+    "city_id": 3405,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "457466",
+      "Branch Name": "Branch Office: Amritsar"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

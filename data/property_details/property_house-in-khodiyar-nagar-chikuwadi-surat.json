@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "HHFSURHOU23000039976, HHFSURIPL23000039977",
+    "address": "Plot No A-51, Block No 26/b, Khodiyar Nagar, Chikuwadi, Surat",
+    "name": "House in Khodiyar Nagar, Chikuwadi, Surat",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-29T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 38,
+    "built_up_area": null,
+    "total_area": "65.30 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Olpad",
+    "state": "Gujarat",
+    "location": "Chikuwadi",
+    "estimated_discount": "20",
+    "emd": 253000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46594,
+    "latitude": "21.213186696688005",
+    "longitude": "72.87590606259965",
+    "min_increment": null,
+    "reserve_price": 2530000,
+    "description": null,
+    "slug": "house-in-khodiyar-nagar-chikuwadi-surat",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753771976834!6m8!1m7!1srMd7bk7l5DsKmWukE6iSHA!2m2!1d21.21338360809301!2d72.87595300125629!3f165.87076707587818!4f4.238209851289795!5f0.5337453397510861\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 3,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Dharmendrakumar Udaylal Khatik",
+    "amenities": "Just a 2 min drive to PP Maniya Hospital PVT LTD | Within 10 mins drive to P. P. Savani School | Within 10 mins drive to DMart | Within 10 mins drive to Bhakti Dham Matajee Temple",
+    "nearby_locations": null,
+    "seo_title": "House for sale in Surat - Best Price",
+    "seo_keyword": "House in Khodiyar Nagar, Chikuwadi, Surat",
+    "title_h1": "Buy House in Khodiyar Nagar, Chikuwadi, Surat",
+    "seo_description": "Explore the House in Khodiyar Nagar, Chikuwadi, Surat, today. Find a beautiful home for sale. This property offers great value and is located in a prime area. Call now to schedule your visit and secure your dream home before it's gone.",
+    "created_at": "2025-07-28T05:37:10.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T06:57:03.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Hero Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46594/1753772223833_Screenshot 2025-07-29 122344.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46594/1753772223833_Screenshot 2025-07-29 122344.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

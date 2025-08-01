@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122677,
+    "borrower_name": "Mr. Vanapalli Gowri Sankar",
+    "bank_name": "Union Bank of India",
+    "address": "Property Details: All Part And Parcel Of Existing Rcc Roofed Ground Floor Residential Building In The Extent Of 125.35 Sq. Yards (As Per Deed) And 123.30 Sq. Yards (As Per Approved Plan) Covered By R.S. No. 566/2L, 566/2M, 566/2M, 566/2N, 565/30, 565/3D, Plot Nos. 17/Part, In R.S. No. 11/18, Near D.No.2-68, Located At Kantipudi Layout. Nearby Surya Rolling Industry, Kolamuru Village And Panchayat, Rajahmundry Rural, East Godavari District, Andhra Pradesh-533102 Within The Following Boundaries: As Per The Deed: East: Remaining Site Of The Plot-48.8Ft. South: 20 Ft Wide Road-22.06Ft, West: Site Of Plot No. 16-50.00Ft, North: Site Of Plot No. 14-22.06Ft. As Per The Actuals: East: Rcc Building D.No. 115-5-26-50.00 Ft, South: 20 Ft Wide W.B.M Road-22.06Ft, West: Vacant Site-50.00Ft, North: Rcc Building-22.06Ft. Province/State : Andhra Pradesh City/Town : East Godavari Area/Town : Rajahmundry",
+    "reserve_price": 3043000,
+    "dimensions": "123.30 Sq. Yards",
+    "emd": 304300,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Rajahmundry",
+    "city": "Goragommi",
+    "state": "Andhra Pradesh",
+    "pincode": 533102,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 3490,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "455993",
+      "Branch Name": "Danavaipet Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

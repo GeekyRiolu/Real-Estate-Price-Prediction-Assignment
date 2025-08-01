@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123093,
+    "borrower_name": "M/S. Virk Cotton Factory",
+    "bank_name": "Canara Bank",
+    "address": "Description Lot-L:- Property Is Part Of Mis Virk Cotton Factory Situated Jodhpur Romana Dist. Bhatinda Vasika 7394, Dated 09.09.2005 Khewat / Khatoni #297/517, Khasra No. 49//2/1(7-0), 9/2/1(6-0), 9/2/2(1-0) Total Land 14 Kanal Out Of Which Share Is 3 Kanal-10 Marla. Vasika #7395, Dated 09-0-2005 Khewat/Khatoni #297/517, Khasra # 49//2/1(7-0), 9/2/1(6-0), 9/2/2(1-0) Total Land 14 Kanal Out Of Which Share Is 3 Kanal-10 Marla. Total Extent Of Land 7 Kanal I.E. 0.875 Acre In The Name Of Shabeg Singh  and  S. Karnail Singh. Province/State : Punjab City/Town : Bathinda Area/Town : Jodhpur Romana",
+    "reserve_price": 8630000,
+    "dimensions": "0.875 Acre",
+    "emd": 863000,
+    "possession": null,
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Jodhpur Romana",
+    "city": "Bathinda",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Industrial Plant/Factory/Shed",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 20,
+    "city_id": 2809,
+    "property_type_id": 23,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474840",
+      "Branch Name": "Recovery  and  Legal Section, Circle Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

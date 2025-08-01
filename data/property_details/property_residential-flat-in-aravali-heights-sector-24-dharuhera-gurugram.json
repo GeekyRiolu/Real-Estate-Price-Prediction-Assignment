@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No.56, 5th Floor, Tower D-1, Aravali Heights, Dwarkadhish Project, Sector-24, Dharuhera, Gurugram",
+    "name": "Residential Flat in Aravali Heights, Sector-24, Dharuhera, Gurugram",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-19T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 21,
+    "built_up_area": null,
+    "total_area": "1,200 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "location": "Dharuhera",
+    "estimated_discount": "20",
+    "emd": 330000,
+    "market_value": 3960000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40472,
+    "latitude": "28.2056606",
+    "longitude": "76.7914639",
+    "min_increment": null,
+    "reserve_price": 3300000,
+    "description": "null",
+    "slug": "residential-flat-in-aravali-heights-sector-24-dharuhera-gurugram",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752217679249!6m8!1m7!1sAkDCN76FVLHaVPVa2ZjCHg!2m2!1d28.23420902887928!2d76.82363550592332!3f252.84787686341357!4f0.3042988938654929!5f0.7147524025277556\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Aakaar Singh Bhatia & Mr. Prakshit Singh Bhatia",
+    "amenities": "~7 mins walk to Saini Public School | Just a 4 min drive to RBS International School Dharuhera | Just a 5 min drive to Om Hospital | Just a 5 min drive to St. Xavier's School, Bhiwadi | Just a 5 min drive to Hari Ram hospital | Within 10 mins drive to Genesis Mall",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Dharuhera - Best Price",
+    "seo_keyword": "Residential Flat in Aravali Heights, Sector-24, Dharuhera, Gurugram",
+    "title_h1": "Buy Residential Flat in Aravali Heights, Sector-24, Dharuhera, Gurugram",
+    "seo_description": "Find a desirable residential flat for sale in Aravali Heights, Sector-24, Dharuhera, Gurugram. This property offers comfortable living with easy access to essential amenities. Contact us now to secure your dream home and schedule a viewing today.",
+    "created_at": "2025-07-10T21:36:35.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-15T12:29:24.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Kotak Mahindra Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40472/1752218193255_Screenshot 2025-07-11 123703.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40472/1752218193362_Screenshot 2025-07-11 123703.png"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 121971,
+    "borrower_name": "M/S Mahalakshmi Trading Company",
+    "bank_name": "Union Bank of India",
+    "address": "Property Located At Front Side Portion Of Tst Foor Without Roof Rights, Built On Piot No Ec-Measuring 250 Sq. Yards Out Of Fresthold Property Along With Proportionate Undivided Share Of Tand In Area Of Village Naraina In Atradi Of Approved Colony, Inderpuri, Delhi-110017 In The Name Of Mr. Sum Prakash Jhunjhunwala Boundaries Of The Property East Entry Road, West: Property No C-S1 North: Part Of Property No Ec-Bservios Lans Bouth Road Province/State : Delhi City/Town : New Delhi Area/Town : Inderpuri",
+    "reserve_price": 16500000,
+    "dimensions": "250 Sq. Yards",
+    "emd": 1650000,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Inderpuri",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110017,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "467283",
+      "Branch Name": "New Delhi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

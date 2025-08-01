@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No 01, Ground Floor, A Wing, Building No 3, Parvati Darshan Apartment, Boisar(E), Palghar",
+    "name": "Shop in Parvati Darshan Apartment, Boisar(E), Palghar",
+    "application_date": "2025-09-02T18:30:00.000Z",
+    "date": "2025-09-03T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "13 Sq.Mtr CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Boisar",
+    "estimated_discount": "20",
+    "emd": 135000,
+    "market_value": 2000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46956,
+    "latitude": "19.80249137090358",
+    "longitude": "72.76370586692057",
+    "min_increment": null,
+    "reserve_price": 1350000,
+    "description": null,
+    "slug": "shop-in-parvati-darshan-apartment-boisare-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Manoj Kumar Gupta",
+    "amenities": "Just a 4 min drive to Varad Multispeciality Hospital | 5 mins walk to Shivkala Arcade | Within 10 mins drive to Deep Global School | Within 10 mins drive to Reliance SMART Bazaar",
+    "nearby_locations": null,
+    "seo_title": "Shop for sale in Parvati Darshan - Best Price",
+    "seo_keyword": "Shop in Parvati Darshan Apartment, Boisar(E), Palghar",
+    "title_h1": "Buy Shop in Parvati Darshan Apartment, Boisar(E), Palghar",
+    "seo_description": "Find the perfect shop for sale in Parvati Darshan Apartment, located in Boisar(E), Palghar. This property offers a great opportunity. Call now to secure this prime location and capitalize on this investment opportunity before it's gone.",
+    "created_at": "2025-07-29T09:45:03.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T06:17:11.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46956/1753856231430_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46956/1753856231430_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

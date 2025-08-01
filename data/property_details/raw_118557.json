@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118557,
+    "borrower_name": "Mr.Atchuta Chinna Subba Rao",
+    "bank_name": "Union Bank of India",
+    "address": "Flat No 302 (West Face), 2nd Floor, Sri Rajdhani Residency Apartment, Survey No. 542/D, D.No 11-84/1, Asst No. 10269, 4th Cross Road, Opposite To Church, Gollapudi, Vijayawada",
+    "reserve_price": 4576000,
+    "dimensions": "30.5 Sq. Yds",
+    "emd": 457600,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Gollapudi",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=16.5400016, 80.5827599",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 282,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No :",
+    "ao_mobile": "8584884267",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

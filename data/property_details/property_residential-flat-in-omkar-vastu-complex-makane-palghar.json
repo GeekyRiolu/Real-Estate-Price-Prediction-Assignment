@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 302, 3rd Floor, Building No 4, Harshi, Omkar Vastu Complex, Village Makane, Taluka Palghar",
+    "name": "Residential Flat in Omkar Vastu Complex, Makane, Palghar",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 59,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Makane",
+    "estimated_discount": "20",
+    "emd": 224000,
+    "market_value": 2691600,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38803,
+    "latitude": "19.6967136",
+    "longitude": "72.769885",
+    "min_increment": 50,
+    "reserve_price": 2243000,
+    "description": null,
+    "slug": "residential-flat-in-omkar-vastu-complex-makane-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "Mr. Sanjay Rajmangal Gupta",
+    "amenities": "Close by Shri S. T. Kadam Vidyalaya | Nearby Raj Icon Mall | Close by Hinduhruday Samrat. Swa. Balasaheb Thackeray Udyan | Near Aarogyam Multispeciality Hospital",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for Sale in Palghar \u2013 Best Price",
+    "seo_keyword": "Residential Flat in Omkar Vastu Complex, Makane, Palghar",
+    "title_h1": "Buy Residential Flat in Omkar Vastu Complex, Makane, Palghar",
+    "seo_description": "Explore this residential flat for sale in Harshi, part of the Omkar Vastu Complex in Makane, Palghar. It offers comfortable living and is ideally located. Don't miss this opportunity; call now to schedule a viewing and secure your future home today.",
+    "created_at": "2025-07-03T19:48:41.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-04T05:30:13.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "Saraswat Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38803/1751607013418_Flat or Apartment.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38803/1751607013269_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

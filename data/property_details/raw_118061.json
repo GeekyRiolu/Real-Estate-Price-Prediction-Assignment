@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118061,
+    "borrower_name": "M/S New Cell Point",
+    "bank_name": "Union Bank of India",
+    "address": "All that part and parcel of Property No. R-792 (admeasuring 84.5 Sq. Yds), Gali No.1A, property, South: Entrance/Gali No. 1A, East-Other property, West-Other property Swatantra Nagar, Narela, New Delhi in the name of Mrs. Ramkali., Boundaries: North- Other Province/State :  Delhi City/Town :  New Delhi Area/Town :  Narela",
+    "reserve_price": 2862000,
+    "dimensions": "84.5 Sq. Yds",
+    "emd": 286200,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Narela",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

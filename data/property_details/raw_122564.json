@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122564,
+    "borrower_name": "M/S. Mahavir Polyfilms Pvt. Ltd",
+    "bank_name": "Indian Bank",
+    "address": "Flat No. 903, 9Th Floor, B-Wing, Raja Tower, Asha Nagar-1 Co-Op Hsg. Soc. Ltd. Minerva Industrial Estate, Off Pk Road, Nahur, Mulund West. Area Sq. Ft 506 Province/State : Maharashtra City/Town : Mumbai Area/Town : Mulund (West)",
+    "reserve_price": 10296000,
+    "dimensions": "",
+    "emd": 1029600,
+    "possession": null,
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Mulund (West)",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 6,
+    "state_id": 14,
+    "city_id": 3743,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477509",
+      "Branch Name": "Zonal Office : Recovery Dept : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

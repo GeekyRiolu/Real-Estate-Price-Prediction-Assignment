@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No.1008, 10th Floor, B-wing, Building No.3, Shree Sai Raj Park CHSL, Dombivli(E), Thane",
+    "name": "Flat in Shree Sai Raj Park CHSL, Dombivli(E), Thane",
+    "application_date": "2025-08-06T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 2,
+    "built_up_area": null,
+    "total_area": "668 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Dombivli",
+    "estimated_discount": "20",
+    "emd": 526350,
+    "market_value": 8000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38788,
+    "latitude": "19.210916153772143",
+    "longitude": "73.08185528031625",
+    "min_increment": null,
+    "reserve_price": 5263500,
+    "description": null,
+    "slug": "flat-in-shree-sai-raj-park-chsl-dombivlie-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751613158671!6m8!1m7!1sPw3vmK8tngquqf5WSzd-sg!2m2!1d19.21088006070327!2d73.08170909993045!3f288.0309481124657!4f26.032104700029976!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Madhividevi Deepak Bist",
+    "amenities": "Just a 3 min drive to Sparsh Multispeciality Hospital | Within 10 mins drive to Euro School | Within 10 mins drive to GNP Galleria",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Shree Sai Raj Park \u2013 Best Price",
+    "seo_keyword": "Flat in Shree Sai Raj Park CHSL, Dombivli(E), Thane",
+    "title_h1": "Buy Flat in Shree Sai Raj Park CHSL, Dombivli(E), Thane",
+    "seo_description": "Discover a desirable flat in Shree Sai Raj Park CHSL, Dombivli(E), Thane. This property offers comfortable living spaces and convenient access to essential amenities. Explore this amazing opportunity to own a flat. Call now to schedule a visit and make it yours before it's gone!",
+    "created_at": "2025-07-03T19:46:29.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-04T07:14:59.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Bank of India",
+    "price_drop": 448500,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38788/1751613299761_SHREE SAI.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38788/1751613299869_SHREE SAI.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

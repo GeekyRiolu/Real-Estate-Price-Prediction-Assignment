@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 502, 5th Floor, B-wing, Vrindavan Home Dhasel, Bandhvali, Shalun West, Raigad",
+    "name": "Residential Flat in Vrindavan Home Dhasel, Bandhvali, Raigad",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 13,
+    "built_up_area": "426 sq ft",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Raigad",
+    "state": "Maharashtra",
+    "location": "Bandhvali",
+    "estimated_discount": "20",
+    "emd": 178980,
+    "market_value": 2147760,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39414,
+    "latitude": "19.0609431",
+    "longitude": "73.3212774",
+    "min_increment": 10,
+    "reserve_price": 1789800,
+    "description": null,
+    "slug": "residential-flat-in-vrindavan-home-dhasel-bandhvali-raigad",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic Possession",
+    "borrower_name": "SURESH CHINTAMAN CHAURE",
+    "amenities": "Within 10 mins drive to Neral Vidyamandir school | Within 10 mins drive to Saguna Baug | Just a 4 min drive to Naje Medical & General Stores",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Raigad - Best Price",
+    "seo_keyword": "Residential Flat in Vrindavan Home Dhasel, Bandhvali, Raigad",
+    "title_h1": "Buy Residential Flat in Vrindavan Home Dhasel, Bandhvali, Raigad",
+    "seo_description": "Find a comfortable residential flat in Vrindavan Home Dhasel, located in Bandhvali, Shalun West, Raigad. This property offers a great investment opportunity. Call now to schedule a viewing and secure your dream home before it's gone. Don't miss out!",
+    "created_at": "2025-07-05T12:19:43.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-10T10:40:31.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "Axis Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39414/1751960463854_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39414/1751960463994_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

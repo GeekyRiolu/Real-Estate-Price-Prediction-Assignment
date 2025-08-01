@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 105, 1st Floor, Thatipalli Lotus Grand, Budidagada Basthi, Kothagudem",
+    "name": "Flat in Thatipalli Lotus Grand, Budidagada Basthi, Kothagudem",
+    "application_date": "2025-09-03T18:30:00.000Z",
+    "date": "2025-09-04T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 31,
+    "built_up_area": "1,083 SFT BUA",
+    "total_area": "721 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Kothagudem",
+    "state": "Telangana",
+    "location": "Budidagada Basthi",
+    "estimated_discount": "20",
+    "emd": 354900,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47182,
+    "latitude": "17.55015212763503",
+    "longitude": "80.630609294575",
+    "min_increment": null,
+    "reserve_price": 3549000,
+    "description": null,
+    "slug": "flat-in-thatipalli-lotus-grand-budidagada-basthi-kothagudem",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753938711266!6m8!1m7!1s_gbfdyxMYAXvZE4phT9ATw!2m2!1d17.55051015784632!2d80.63079839029666!3f193.92130582677999!4f10.31762536966643!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Venkata Ramana Hanumanthu",
+    "amenities": "4 mins walk to Rajiv Park | Just a 4 min drive to Indu Skin Hospital | Within 10 mins drive to GV Mall Kothagudem | Within 10 mins drive to Kothagudem Model School",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Thatipalli Lotus Grand - Best Price",
+    "seo_keyword": "Flat in Thatipalli Lotus Grand, Budidagada Basthi, Kothagudem",
+    "title_h1": "Buy Flat in Thatipalli Lotus Grand, Budidagada Basthi, Kothagudem",
+    "seo_description": "Find your dream home: Buy a beautiful flat in Thatipalli Lotus Grand. This Budidagada Basthi property in Kothagudem features modern amenities. Discover spacious living, and make the best choice today. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-30T22:15:21.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T05:15:31.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47182/1753938931780_unnamed (9).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47182/1753938931780_unnamed (9).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118110,
+    "borrower_name": "M/S. Sai Indo Metals Resources Pvt. Ltd",
+    "bank_name": "Union Bank of India",
+    "address": "Asset Recovery Management Branch c) Flat No. 306, 3rd Floor, Roop Darshan Co-operative Housing Society Ltd. Juhu Cross Lane, Andheri (West), Mumbai 400080 admeasuring 850 Sq. Ft (Built-up area) Province/State :  Maharashtra City/Town :  Mumbai Area/Town :  Andheri West",
+    "reserve_price": 23100000,
+    "dimensions": "850 Sq. Ft",
+    "emd": 2310000,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Andheri",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": 400080,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 3743,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

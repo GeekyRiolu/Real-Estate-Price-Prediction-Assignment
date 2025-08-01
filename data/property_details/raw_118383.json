@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118383,
+    "borrower_name": "M/S. Steel City Shipping Services",
+    "bank_name": "Karur Vysya Bank",
+    "address": "Plot No. 55, Partly Covered By S.No. 116, 120, 144, Yendada, Gudlavanipalem Panchayat, Madhurawada, Visakhapatnam District",
+    "reserve_price": 18000000,
+    "dimensions": "360 Sq Yds Or 301.006 Sq. Mts",
+    "emd": 1800000,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Madhurawada",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=17.8243075, 83.3564283",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 101,
+    "state_id": 1,
+    "city_id": 285,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No :",
+    "ao_mobile": "9949624491",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

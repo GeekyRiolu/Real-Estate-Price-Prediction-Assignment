@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118032,
+    "borrower_name": "Smt. Yasmeen Akbar",
+    "bank_name": "Canara Bank",
+    "address": "House No. 602/583, Built on Plot No. 9, Part of Land Khasra No. 205 Minjumla Measuring Area: 92.936 Sq. Mtr. Situated at Village-Begariya, Ward-Newajganj, Tehsil  and  District-Lucknow Owner of Property: Smt. Yasmeen Akbar Boundaries: East: Plot No. 2 West: Road 20 ft. wide North: Plot No. 10 South: Plot No. 8 Province/State :  Uttar Pradesh City/Town :  Lucknow Area/Town :  Nawabganj",
+    "reserve_price": 2592000,
+    "dimensions": "92.936 Sq. Mt",
+    "emd": 259200,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Lucknow",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 26,
+    "city_id": 3088,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "LBSUR00006148277, LBSUR00006148287",
+    "address": "Flat No. 211, 2nd Floor, Building No. D, Sai Darshan Sankul, Mota Varachha, Surat",
+    "name": "Flat in Sai Darshan Sankul, Mota Varachha, Surat",
+    "application_date": "2025-08-07T18:30:00.000Z",
+    "date": "2025-08-10T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": "47.21 Sq Mtrs",
+    "total_area": "71.56 Sq Mtrs SBUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Mota Varachha",
+    "estimated_discount": "20",
+    "emd": 138000,
+    "market_value": 230000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39559,
+    "latitude": "21.24308246404121",
+    "longitude": "72.88330084486549",
+    "min_increment": null,
+    "reserve_price": 1380000,
+    "description": null,
+    "slug": "flat-in-sai-darshan-sankul-mota-varachha-surat-1",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751871297195!6m8!1m7!1sLLz-kfVsJMb0GpVGD5uChg!2m2!1d21.24254747222697!2d72.8836870829485!3f317.18197437139696!4f0.19513858707045983!5f0.775626856855375\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Nagani Ghanshyambhai Laxmanbhai",
+    "amenities": "Just a 3 min drive to SHREE NANDAN MULTISPECIALITY HOSPITAL | Just a 3 min drive to Paramount International School | Just a 3 min drive to Sumeru City Mall | Just a 3 min drive to DMart",
+    "nearby_locations": null,
+    "seo_title": "Apartment for sale in Sai Darshan Sankul - Best Price",
+    "seo_keyword": "Flat in Sai Darshan Sankul, Mota Varachha, Surat",
+    "title_h1": "Buy Flat in Sai Darshan Sankul, Mota Varachha, Surat",
+    "seo_description": "Explore a beautiful flat in Sai Darshan Sankul, Mota Varachha, Surat. You will find a great opportunity to own a comfortable home for your family. Call now to schedule a visit and secure your future home; limited units are available.",
+    "created_at": "2025-07-07T00:09:21.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-08T04:59:59.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39559/1751871610068_Screenshot 2025-07-07 122535.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39559/1751871610216_Screenshot 2025-07-07 122535.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

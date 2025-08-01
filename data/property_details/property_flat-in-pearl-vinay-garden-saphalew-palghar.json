@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat A 107, 1st Floor, A Wing, Bldg No 5, Pearl Vinay Garden, Saphale(W), Palghar",
+    "name": "Flat in Pearl Vinay Garden, Saphale(W), Palghar",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 13,
+    "built_up_area": null,
+    "total_area": "236 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Saphale",
+    "estimated_discount": "20",
+    "emd": 108900,
+    "market_value": 2000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39394,
+    "latitude": "19.56924266127912",
+    "longitude": "72.80360390245696",
+    "min_increment": null,
+    "reserve_price": 1089000,
+    "description": null,
+    "slug": "flat-in-pearl-vinay-garden-saphalew-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "OMPRAKASH SHYAMNARAYAN PANDEY",
+    "amenities": "Just a 3 min drive to Virathan Khurd lake | ~6 mins walk to Shreeji Plaza | ~8 mins walk to Zenith International School | Within 10 mins drive to Alhad Hospital",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Pearl Vinay Garden \u2013 Best Price",
+    "seo_keyword": "Flat in Pearl Vinay Garden, Saphale(W), Palghar",
+    "title_h1": "Buy Flat in Pearl Vinay Garden, Saphale(W), Palghar",
+    "seo_description": "Find a beautiful flat in Pearl Vinay Garden, located in Saphale(W), Palghar. This property offers comfortable living with great amenities. Seize this chance; call now to schedule a visit and secure your future home before it's gone.",
+    "created_at": "2025-07-05T12:15:28.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-08T06:21:13.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Axis Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39394/1751955673548_unnamed (33).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39394/1751955673622_unnamed (33).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

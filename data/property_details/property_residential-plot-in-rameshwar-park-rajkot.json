@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "TBRAJ00006609189, LBRAJ00006615746",
+    "address": "Plot No 62 To 68, Rameshwar Park, Rajkot",
+    "name": "Residential Plot in Rameshwar Park, Rajkot",
+    "application_date": "2025-08-24T18:30:00.000Z",
+    "date": "2025-08-25T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "55.77 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "location": "Rameshwar Park",
+    "estimated_discount": "20",
+    "emd": 190000,
+    "market_value": 3400000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 44890,
+    "latitude": "22.32621174854141",
+    "longitude": "70.79284880832144",
+    "min_increment": null,
+    "reserve_price": 1900000,
+    "description": null,
+    "slug": "residential-plot-in-rameshwar-park-rajkot",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Physical",
+    "borrower_name": "Somaiya Bhaveshbhai Ramnikbhai",
+    "amenities": "Near Karnavati International School | Near Plexus MedCare | Close by Nehru Udhyan, Rajkot | Close to SHITAL SUPERMARKET",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for Sale in Rajkot - Best Price!",
+    "seo_keyword": "Residential Plot in Rameshwar Park, Rajkot",
+    "title_h1": "Buy Residential Plot for Sale in Rameshwar Park, Rajkot",
+    "seo_description": "Find a prime Residential Plot in Rameshwar Park, Rajkot, and build your dream home. This plot offers an excellent investment opportunity in a developing area. Explore the land for sale and secure your future. Call now to schedule a visit and grab this chance!",
+    "created_at": "2025-07-23T02:45:14.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-24T07:31:30.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/44890/1753342290496_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/44890/1753342290496_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

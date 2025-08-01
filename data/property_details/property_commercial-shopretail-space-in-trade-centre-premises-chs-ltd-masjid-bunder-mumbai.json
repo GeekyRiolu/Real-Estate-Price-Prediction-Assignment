@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No 208, 2nd Floor, Trade Centre Premises Chsl, Narayan Dhuru Street, Masjid Bunder, Mumbai",
+    "name": "Commercial Shop/Retail Space in Trade Centre Premises Chs Ltd, Masjid Bunder, Mumbai",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-06T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 59,
+    "built_up_area": "103.78 Sq ft",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "location": "Masjid Bander",
+    "estimated_discount": "20",
+    "emd": 600000,
+    "market_value": 6574800,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38334,
+    "latitude": "18.9530685",
+    "longitude": "72.8328777",
+    "min_increment": 1,
+    "reserve_price": 5479000,
+    "description": null,
+    "slug": "commercial-shopretail-space-in-trade-centre-premises-chs-ltd-masjid-bunder-mumbai",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "Hem Tools Centre Pvt. Ltd.",
+    "amenities": "Close by Apsara mall | Nearby Brihanmumbai Municipal Corporation Pay and Park | Nearby Reliance SMART Superstore | Close to Dockyard Market",
+    "nearby_locations": null,
+    "seo_title": "Commercial Shop for sale in Mumbai - Best Price",
+    "seo_keyword": "Commercial Shop/Retail Space in Trade Centre Premises Chs Ltd, Masjid Bunder, Mumbai",
+    "title_h1": "Buy Commercial Shop/Retail Space in Trade Centre Premises Chs Ltd, Masjid Bunder, Mumbai",
+    "seo_description": "Find a prime Commercial Shop/Retail Space for sale in Trade Centre Premises Chs Ltd, Mumbai. This property on Narayan Dhuru Street offers excellent business potential. Contact us now to explore this Masjid Bunder opportunity and secure your space today. Call now to schedule a visit.",
+    "created_at": "2025-07-01T09:18:18.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-02T04:27:48.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "Saraswat Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38334/1751430468610_Shop.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38334/1751430468773_Shop.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

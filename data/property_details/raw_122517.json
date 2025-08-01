@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122517,
+    "borrower_name": "Mr. Deepu Mathew",
+    "bank_name": "Kotak Mahindra Bank",
+    "address": "District: Ernakulam Sub District: Emakulam Taluk: Kanayannur Village: Elamkulam Desom Kaloor Local Authority: Corporation Of Cochin Sy. No.: 35/1/24/2 Total Extent In Ares: 7.026 Cents (2.84 Ares) Description: All That Piece And Parcel Of Land Measuring 7.026 Cents (2.84 Ares) In Sy. No. 35/1/24/2, Of The Elamkulam Village, Together With The Building Bearing C.C No. 72/1343 (44/2727), Which Was Obtained As Per Sale Deed No. 1825/2018 Of Sub Registry Office, Ernakulam. Boundaries: East: Property Of Sebastian South: Corporation Road West: Corporation Road North: Property Of Devaki  and  Others The Auction Will Be Conducted Online Through The Bank'S Approved Province/State : Kerala City/Town : Ernakulam Area/Town : Kanayannur Taluk",
+    "reserve_price": 17465400,
+    "dimensions": "",
+    "emd": 1746540,
+    "possession": null,
+    "auction_date": "2025-04-22T18:30:00.000Z",
+    "application_deadline": "2025-04-20T18:30:00.000Z",
+    "locality": "Kanayannur Taluk",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 21,
+    "state_id": 12,
+    "city_id": 2280,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "475742",
+      "Branch Name": "Registered Office: Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

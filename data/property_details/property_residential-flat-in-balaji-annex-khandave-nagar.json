@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 10, 4th  Floor, Balaji Annex, Satpur Colony, Nashik",
+    "name": "Flat in Balaji Annex, Satpur Colony, Nashik",
+    "application_date": "2025-08-07T18:30:00.000Z",
+    "date": "2025-08-10T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 15,
+    "built_up_area": null,
+    "total_area": "47 Sq.Mtr CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "location": "Satpur Colony",
+    "estimated_discount": "20",
+    "emd": 189000,
+    "market_value": 3000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39888,
+    "latitude": "20.008031604241985",
+    "longitude": "73.73088843560318",
+    "min_increment": null,
+    "reserve_price": 1890000,
+    "description": null,
+    "slug": "residential-flat-in-balaji-annex-khandave-nagar",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752042069038!6m8!1m7!1sKllRzu9HucrLzDGUmhQ2Kg!2m2!1d20.00765355528533!2d73.73079187608228!3f97.5707084250529!4f26.252566970189577!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr.Rajput Ajit Dipaksingh",
+    "amenities": "Just a 4 min drive to D-Mart | Within 10 mins drive to Gurukrupa Multispeciality Hospital | Within 10 mins drive to Podar International School | Within 10 mins drive to Muhurat Shopping Mall",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Balaji Annex, Nashik - Call Now",
+    "seo_keyword": "Flat in Balaji Annex, Satpur Colony, Nashik",
+    "title_h1": "Buy Flat in Balaji Annex, Satpur Colony, Nashik",
+    "seo_description": "Find the ideal flat in Balaji Annex, Satpur Colony, Nashik, now available for purchase. This property offers a fantastic opportunity for a new home. Call now to schedule a visit and secure your dream home before it's gone. Don't miss out!",
+    "created_at": "2025-07-08T20:14:19.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-09T06:25:34.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "HDFC Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39888/1752042334649_Balaji.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39888/1752042334829_Balaji.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

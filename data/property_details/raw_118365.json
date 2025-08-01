@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118365,
+    "borrower_name": "Vinod Kumar Sharma",
+    "bank_name": "Punjab National Bank",
+    "address": "House No-53, Basement, Upper Ground Floor and 3rd Floor, Srinagar Colony, Sindhora Kalan, Ashok Vihar, New Delhi",
+    "reserve_price": 26700000,
+    "dimensions": null,
+    "emd": 2670000,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Srinagar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110052,
+    "latlong": "maps.google.com/maps?q=28.6782063, 77.1897855",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118005,
+    "borrower_name": "M/S Beta Medikit Private Limited",
+    "bank_name": "Union Bank of India",
+    "address": "Free hold plot No. 3-A, having it area measuring 200 Sq. Yards (167.22 Sq. Mtrs) along with the rights of construction upto the last story, out of khasra No. 226 situated at Panchlok Colony, Village: AGROLA, Pargana Loni, Tehsil and Distt: Ghaziabad, U.P. 201102 owned by Mr. Mohd. Farooq. Bounded as under (As per deed): - East: Road 10 ft, West: Road 30 ft, North: Other Plot, South: Plot No. 4A Province/State :  Uttar Pradesh City/Town :  Ghaziabad Area/Town :  Loni",
+    "reserve_price": 4824000,
+    "dimensions": "200 Sq. Yards",
+    "emd": 482400,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Pargana",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": 201102,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 26,
+    "city_id": 3280,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

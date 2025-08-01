@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118389,
+    "borrower_name": "M/S Ms Constructions",
+    "bank_name": "Union Bank of India",
+    "address": "Property-1 R.S. No.229/2, Present Door No. 74-31/3-10, Farooq Nagar, Raghu Garden Road, Patamata, Vijayawada, Krishna District",
+    "reserve_price": 16000000,
+    "dimensions": "2092 Sft. (Ground Floor-777 Sft + First Floor-777 Sft + Second Floor -538 Sft.)",
+    "emd": 1600000,
+    "possession": null,
+    "auction_date": "2025-03-26T18:30:00.000Z",
+    "application_deadline": "2025-03-24T18:30:00.000Z",
+    "locality": "Patamata",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=16.495035, 80.6618234",
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 282,
+    "property_type_id": 33,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No:, Mobile:",
+    "ao_mobile": "2537792 / 2537782 / 9324517291",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

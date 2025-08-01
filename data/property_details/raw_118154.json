@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118154,
+    "borrower_name": "M/S Rashmi Construction",
+    "bank_name": "Indian Overseas Bank",
+    "address": "Residential Flat No. 704 on 7th Floor, Building No. SP-85, Poonam Complex 84-88 CHSL, Shanti Park, near Central Plaza Hall, St. Xavier's High School Road, Mira Road (East), Thane-401107, admeasuring 539 sq.ft. car-pet area standing in the name of Mr. Yogesh P Bosmiya and Ashok Bosmiya Boundaries North: St. Xavier's High School Road South: Renjila Palace Building East: Radhakrishna Building West: Poonam Complex Society Garden Province/State :  Maharashtra City/Town :  Thane Area/Town :  Mira Road",
+    "reserve_price": 5694000,
+    "dimensions": "539 sq.ft",
+    "emd": 569400,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Mira Road",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 401107,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 7,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

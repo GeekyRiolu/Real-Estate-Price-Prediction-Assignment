@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118114,
+    "borrower_name": "M/S. Mary Tea Company",
+    "bank_name": "Union Bank of India",
+    "address": "Lot No. 1 Shop No. B/S/2, B Wing, Ground Floor, New Usha Nagar CHS, Village Road, Bhandup West. Mumbai-400 078. Province/State :  Maharashtra City/Town :  Mumbai Area/Town :  Bhandup",
+    "reserve_price": 5050000,
+    "dimensions": null,
+    "emd": 505000,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Bhandup",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Commercial Shop/Retail Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 3743,
+    "property_type_id": 16,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

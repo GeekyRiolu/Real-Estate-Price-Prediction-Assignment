@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122926,
+    "borrower_name": "Mrs. Chandana Maglari Singha",
+    "bank_name": "ICICI Bank",
+    "address": "Description Sr No 1 Plot No. J6, First City Gat No. 64, 232 \u03a4\u03bf 235, 239, 240, 241, 244 And 247, Kharpudi Khurd, Tal. Khed, Dist. Pune, Maharashtra Pune-410505. Admeasuring An Area Of 142.19 Sq. Mtrs Province/State : Maharashtra City/Town : Pune Area/Town : Khed",
+    "reserve_price": 1240000,
+    "dimensions": "142.19 Sq. Mtrs",
+    "emd": 124000,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Khed",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": 410505,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "465091",
+      "Branch Name": "Branch Office : Pune"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

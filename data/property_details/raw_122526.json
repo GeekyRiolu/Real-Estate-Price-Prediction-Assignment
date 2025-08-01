@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122526,
+    "borrower_name": "M/S Ideal Trading Company",
+    "bank_name": "Punjab National Bank",
+    "address": "All That Part And Parcel Of Residential Property In Old Sy No.794/1/13, Re Sy No.415/4 Of Block No. 10, Vengoor West Village, Kunnathunadu Taluk Covered By Sale Deed 1863/12 Of Kuruppampadi Sro Admeasuring 51.25 Ares, District: Ernakulam, Sub District: Kuruppampadi, Taluk: Kunnathunadu, Village Venganoor West, Muri: Mudakkuzha, Re Survey No.415/4 In The Name Of Mr.Muhamed Jasim  and  Mr. Muhamed Afsal. Boundaries: North: Property Of Eliyas And Panchayat Road. South: Property Of Eliyas. East: Property Of Panchayat Road. West: Property Of Panchayat Road. Province/State : Kerala City/Town : Ernakulam Area/Town : Kunnathunadu",
+    "reserve_price": 5300000,
+    "dimensions": "",
+    "emd": 530000,
+    "possession": null,
+    "auction_date": "2025-04-09T18:30:00.000Z",
+    "application_deadline": "2025-04-07T18:30:00.000Z",
+    "locality": "Kunnathunadu",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 12,
+    "city_id": 2280,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "460731",
+      "Branch Name": "Circle Sastra Centre"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

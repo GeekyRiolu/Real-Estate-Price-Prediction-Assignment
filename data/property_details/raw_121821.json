@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": {
+    "id": 121821,
+    "borrower_name": "Mr Kasvekar Harish Govinda",
+    "bank_name": "HDFC Bank",
+    "address": "Flat No 103, 1St Floor, Varad Vinayak Landmark, Survey No 49+43/1+2C-1+2A, Plot No 4, Cts No 1067,1072, Ganesh Nagar,Chinchavali Shekin, Khopoli, Taluka Khalapur, Dist Raigad \u2013 410203Admeasuring 454 Sq. Ft. Carpet Area Which Is Equivalent To 42.19 Sq. Mtrs. Carpet Area Or Thereabouts.",
+    "reserve_price": 1638000,
+    "dimensions": "454 Sq. Ft",
+    "emd": 163800,
+    "possession": "Physical",
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Khopoli",
+    "city": "Raigad",
+    "state": "Maharashtra",
+    "pincode": 410203,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 14,
+    "city_id": 3353,
+    "property_type_id": 1,
+    "created_at": "2025-03-26T11:35:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Current Status": "Open for Private Treaty"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

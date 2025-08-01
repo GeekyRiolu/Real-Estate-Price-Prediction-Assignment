@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118182,
+    "borrower_name": "M/S Saptshrungi Steel Mart",
+    "bank_name": "Canara Bank",
+    "address": "All that part and parcel of All that part and parcel of Flat No. 6 carpet area 26.5 sq. mtrs and Flat No.7 carpet area 45.148 sq. mtrs., 2nd Floor in the building known as Ram Residency Apartment, constructed on Plot No. 13, Survey No. 10/1, situated near Swastik Traders, Swami Vivekanand Nagar, Mhasrul-Girnare Road, Off. Makhmalabad Road, Panchavati, Tal.  and  Dist. Nashik Bounded as under: Boundaries of Flat No 6 East Side Margin, West Stair Case, North Side Margin, South Flat No 7, Bounded as under: Boundaries of Flat No 7 East:Side Margin, West Flat No 8, North :Flat No 6  and  Staircase, South: Side Margin Province/State :  Maharashtra City/Town :  Nashik Area/Town :  Panchavati",
+    "reserve_price": 2908000,
+    "dimensions": "26.5 sq. mt",
+    "emd": 290800,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Anand Nagar",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 14,
+    "city_id": 2639,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122516,
+    "borrower_name": "Mrs. Vijaya.S",
+    "bank_name": "Uco Bank",
+    "address": "Of Property: All That Part And Parcel Of Vacant Land Having Of 10.01 Ares (24.750 Cent) Comprised In Re.Sy.No.282/9, 281/1 (Old Sy.No.407/1,407/2, 405/6) In Block No.15 At Kumbalam Village, Kanayannoor Taluk, Ernakulam District Within The Registration Sub District Maradu As Per Sale Deed No.3935/96 Dated 29.10.1996 Under Maradu Sro In The Name Of Mr.Sekar.S, S/O Late T.Shanmugham. Boundaries: North: P.V Sreedharan Road  and  Property Of Chaniyathara Family; South: Pathway; East: Chittayil Road; West: Property Of Hamsa  and  Majeed Province/State : Kerala City/Town : Ernakulam Area/Town : Maradu",
+    "reserve_price": 13122000,
+    "dimensions": "",
+    "emd": 1312200,
+    "possession": null,
+    "auction_date": "2025-04-23T18:30:00.000Z",
+    "application_deadline": "2025-04-21T18:30:00.000Z",
+    "locality": "Maradu",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 11,
+    "state_id": 12,
+    "city_id": 2280,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478840",
+      "Branch Name": "Chetput Branch : Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

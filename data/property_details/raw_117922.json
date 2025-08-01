@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 117922,
+    "borrower_name": "M/S Punjab Sweet  and  Fast Foods",
+    "bank_name": "Union Bank of India",
+    "address": "Equitable Mortgage of Plot No. B016/2494/06 having land measuring 3236.75 Sq. yards. Khata/Khatoni No. 175/175 Khasra No. 18//5(4-0) having \u00bd share i.e. 1kanal, Khasra No. 19/11/1/1(2-16) having 18/56 share i.e. 18 Marla, Khasra No. 18/6/(2-0), 19//10/2/2)3-0)11/1/1(1-18) having \u00bd share i.e. 3 kanal 9 Marla, Total Area 5 Kanal 7 Marla Hadbast No. 187, Village Khuni Majra Tehsil Kharar, District SAS Nagar, Mohali, Punjab in the name of Mr. Baljit Singh. Bounded by East: Kachcha Rasta/Property Mr. Sukhbir Singh, West: Land of Mr. Kharak Singh, North: Land of Mr. Nachhattar Singh, South: Kachcha Rasta, Possession Type: Physical. Province/State :  Punjab City/Town :  Mohali Area/Town :  Kharar.",
+    "reserve_price": 9550000,
+    "dimensions": "3236.75 Sq. yards",
+    "emd": 955000,
+    "possession": "Physical",
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Sas Nagar",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 20,
+    "city_id": 3431,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

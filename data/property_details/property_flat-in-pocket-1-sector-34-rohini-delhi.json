@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 48, 1st Floor, Block C-06, Pocket-1, Sector-34, Rohini, New Delhi",
+    "name": "Flat in Pocket-1, Sector-34, Rohini, Delhi",
+    "application_date": "2025-08-11T18:30:00.000Z",
+    "date": "2025-08-13T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": "N/A",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "location": "Sector 34",
+    "estimated_discount": "20",
+    "emd": 130900,
+    "market_value": 2300000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39940,
+    "latitude": "28.77542574835672",
+    "longitude": "77.07699166851148",
+    "min_increment": null,
+    "reserve_price": 1309000,
+    "description": null,
+    "slug": "flat-in-pocket-1-sector-34-rohini-delhi",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "Symbolic",
+    "borrower_name": "Mr Jitendra Kumar Jha",
+    "amenities": "Near Rohini Heights Multispeciality Clinic | Close to GOOD LUCK MODERN PUBLIC SCHOOL | Close by DD MALL Sec 5 | Close by Navdisha Mart",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Pocket-1, Sector-34, Rohini \u2013 Call Now",
+    "seo_keyword": "Flat in Pocket-1, Sector-34, Rohini, Delhi",
+    "title_h1": "Buy Flat in Pocket-1, Sector-34, Rohini, Delhi",
+    "seo_description": "Find a perfect home: Buy a beautiful flat in Pocket-1, Sector-34, Rohini, Delhi. This property offers spacious living areas, great location, and modern features. Call now to schedule a visit and secure your dream flat before it's gone!",
+    "created_at": "2025-07-08T21:43:51.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-09T06:16:10.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39940/1752041770469_Flat or Apartment.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39940/1752041770338_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

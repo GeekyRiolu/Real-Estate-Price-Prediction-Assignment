@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122857,
+    "borrower_name": "M/S Maul Construction",
+    "bank_name": "Union Bank of India",
+    "address": "Description All That Piece And Parcel Of Land Bearing Plot Of Land Southem Sub Pinth No. 8/18/A, From Out Of Plinth No. B/18, Totally Admeasuring About 1700 Sq. 1., Along With Construction Standing Thereon Situated In The Society Named And Styled As Ragvilas Co-Op Housing Society Ltd From Out Of S. Nos. 374A, 373 C And D (Corresponding It'S Final Pilot No.302) Lying And Being At Village Ghorpadi, Sangamwadi (Koregaon Park), Pune Situate Within The Registration District Of Pune, Situate Within The Registration Joint Sub-District Of Haveli No. I To Xxvi, Pune. Situate Within The Revenue Limits Of Tahsil Havell, Pune And Situate Within The Limits Of Pune Municipal Corporation, Pune Which Plot Of Land With Construction Province/State : Maharashtra City/Town : Pune Area/Town : Sangamwadi",
+    "reserve_price": 20000000,
+    "dimensions": "",
+    "emd": 2000000,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Sangamwadi",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479221",
+      "Branch Name": "Asset Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

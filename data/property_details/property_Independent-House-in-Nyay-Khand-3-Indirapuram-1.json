@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat SF-02, 2ND Flr Rearside, Plot No-14-A, Shankar Vihar, Sadullabad, Ghaziabad",
+    "name": "Residential Flat in Shankar Vihar, Sadullabad, Ghaziabad",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 128,
+    "built_up_area": null,
+    "total_area": "315 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "location": "Sadullabad",
+    "estimated_discount": "20",
+    "emd": 117500,
+    "market_value": 1320000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46545,
+    "latitude": "28.743582809791626",
+    "longitude": "77.27054106794911",
+    "min_increment": null,
+    "reserve_price": 1175000,
+    "description": null,
+    "slug": "Independent-House-in-Nyay-Khand-3-Indirapuram-1",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Pramod Kumar, Sandeepa Negi",
+    "amenities": "Close to Choudhary Multispeciality Hospital | Nearby Das Universal Academy School | Close to Gopal Hospital | Close by Shaheed Bhagat Singh Park",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Ghaziabad - Best Price",
+    "seo_keyword": "Residential Flat in Shankar Vihar, Sadullabad, Ghaziabad",
+    "title_h1": "Buy Residential Flat for sale in Shankar Vihar, Sadullabad, Ghaziabad",
+    "seo_description": "Explore this Residential Flat in Shankar Vihar, Sadullabad, Ghaziabad. This property offers comfortable living spaces. Contact us now to get the best deals and view this property quickly. Call now to schedule a visit and secure your new home today!",
+    "created_at": "2025-07-27T21:36:09.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-28T07:46:55.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Hinduja Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46545/1753688816042_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46545/1753688816042_Flat or Apartment.jpg"
+    ]
+  }
+}

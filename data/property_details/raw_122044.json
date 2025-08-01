@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122044,
+    "borrower_name": "Gauswami Rajubharthi Jaysukhbharthi",
+    "bank_name": "Utkarsh Small Finance Bank",
+    "address": "All That Piece  and  Parcel Of Immovable Property Bearing Plot No 4 (K.J.P Plot No 25-245/3/D/4, Re-Survey Block No 2349) In Open Plot Admeasuring 60.28 Sq Mtrs, Of Non-Agricultural Plot Along With Undivided Share In The Road And C.Op Of Land In The Scheme Known As  Haridarshan Residency  Paikki Type-D Situated At Mauje Shekpur, Lying Being Land Bearing Revenue Survey No 34, Block No 25, At Registration District  and  Sub District Kamrej, District-Surat Boundaries Bounded By-East: Plot No D-3 West: Plot No D-5 North: Society Road South: Plot No D-1 Province/State : Gujarat City/Town : Surat Area/Town : Kamrej",
+    "reserve_price": 2179940,
+    "dimensions": "60.28 Sq Mtrs",
+    "emd": 217994,
+    "possession": null,
+    "auction_date": "2025-04-22T18:30:00.000Z",
+    "application_deadline": "2025-04-20T18:30:00.000Z",
+    "locality": "Kamrej",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 123,
+    "state_id": 7,
+    "city_id": 4123,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "475074",
+      "Branch Name": "Varanasi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

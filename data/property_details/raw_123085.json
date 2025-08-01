@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123085,
+    "borrower_name": "Mrs. Rita Pandita",
+    "bank_name": "Union Bank of India",
+    "address": "Description Equitable Mortgage Residential Property Comprised In Khewat / Khatauni No. 182/188,183, 184, 185, 186, 187/189,188/190, 2680/2782, Khasra No. 43//8 (7-16), 14/1 (4-17), 15/1 (1-2), 44/1/2 (0-3), 10/2 (3-0), 11/1 (0-8), 42//3/2 (0-14), 6(6-12). 7 (7-9), 13/1 (1-18), Kite 10, Rakba 33 Kanal, 19 Marlas Its 80/81 48 Share Which Is Equal To 0 Kanal, 6-2/3 Marla Land, Situated At Village Kharar, Hadbast No. 184, Tehsil Kharar, Bounded By:- On The North: House No. 08, On The South: House No. 06, On The East: District Sas Nagar Mohali In The Name Of Mrs. Rita Pandita. Other Owner, On The West: Road. Possession Type: Symbolic. Province/State : Punjab City/Town : Sas Nagar Area/Town : Kharar",
+    "reserve_price": 5000000,
+    "dimensions": "",
+    "emd": 500000,
+    "possession": "Symbolic",
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Kharar",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 20,
+    "city_id": 3431,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479157",
+      "Branch Name": "Asset Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

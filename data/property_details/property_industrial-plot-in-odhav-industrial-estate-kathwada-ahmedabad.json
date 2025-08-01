@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No.63/a,Plot No.63+64/3,Plot No.c-39, Odhav Industrial Estate, Kathwada, Ahmedabad",
+    "name": "Industrial Plot in Odhav Industrial Estate, Kathwada, Ahmedabad",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-29T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 103,
+    "built_up_area": null,
+    "total_area": "583 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Industrial Plot/Land",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "location": "Kathwada",
+    "estimated_discount": "20",
+    "emd": 3250000,
+    "market_value": 50000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 44785,
+    "latitude": "23.03367427006001",
+    "longitude": "72.68284243605324",
+    "min_increment": null,
+    "reserve_price": 32500000,
+    "description": null,
+    "slug": "industrial-plot-in-odhav-industrial-estate-kathwada-ahmedabad",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 22,
+    "location_type": "Approximate",
+    "possession": "Symbolic",
+    "borrower_name": "Mr.Zalak Bipinbhai Patel",
+    "amenities": "Near Sankalp International School | Near Central United Hospital | Close to Odhav Garden | Nearby Reliance SMART Bazaar",
+    "nearby_locations": null,
+    "seo_title": "Industrial Plot for sale in Kathwada - Best Price",
+    "seo_keyword": "Industrial Plot in Odhav Industrial Estate, Kathwada, Ahmedabad",
+    "title_h1": "Buy Industrial Plot in Odhav Industrial Estate, Kathwada, Ahmedabad",
+    "seo_description": "Explore prime industrial plots for sale in Odhav Industrial Estate, Kathwada, Ahmedabad. You can purchase a strategic location for your business. Secure your investment. Call now to seize this opportunity before it's gone.",
+    "created_at": "2025-07-22T22:08:50.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-25T09:53:11.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Encore ARC",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/44785/1753437191496_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/44785/1753437191496_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

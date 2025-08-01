@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Room No 5, Brk No 1911, Cts Vo 2522, Sec 40, Near Sai Jeevan Ghot Hall, Off Kurla Camp Road, Behind Sajhroj Building, Ulhasnagar",
+    "name": "Residential Flat in Sai Jeevan  Ulhasnagar, Thane",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 9,
+    "built_up_area": "603.00 SQ FT",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Ulhasanagar",
+    "estimated_discount": "20",
+    "emd": 366500,
+    "market_value": 4398000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46356,
+    "latitude": "19.2019892",
+    "longitude": "73.1706023",
+    "min_increment": null,
+    "reserve_price": 3665000,
+    "description": null,
+    "slug": "residential-flat-in-sai-jeevan-ulhasnagar-thane",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Exact",
+    "possession": "Physical Posession",
+    "borrower_name": "M/s. Vijay Textiles,",
+    "amenities": "~7 mins walk to Shree Balaji Hospital | Just a 4 min drive to Reliance Smart Bazaar | Just a 5 min drive to Nana Nani Park | Within 10 mins drive to Leeway School Pale Gaon | Just a 5 min drive to SATYAM SUPERMARKET",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Ulhasnagar - Best Price",
+    "seo_keyword": "Residential Flat in Sai Jeevan Ghot Hall, Ulhasnagar, Thane",
+    "title_h1": "Buy Residential Flat in Sai Jeevan  Ulhasnagar, Thane",
+    "seo_description": "Find your dream home: a residential flat in Sai Jeevan Ghot Hall, Ulhasnagar, Thane. This property offers comfortable living. Act fast! Call now to schedule a visit and secure this opportunity before it's gone; don't miss out!",
+    "created_at": "2025-07-26T20:16:55.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T09:23:52.000Z",
+    "modified_by": 2267,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "rakhi yadav",
+    "favorite": 0,
+    "bank_name": "Punjab National Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46356/1753781033007_Screenshot (93).png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46356/1753781033007_Screenshot (93).png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

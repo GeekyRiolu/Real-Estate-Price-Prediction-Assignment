@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "H No.58, Entire Ground Floor, Block No.7, South Patel Nagar, New Delhi",
+    "name": "Entire Ground Floor in South Patel Nagar, New Delhi",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-05T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 155,
+    "built_up_area": null,
+    "total_area": "N/A",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Builder Floor",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "location": "South Patel Nagar",
+    "estimated_discount": "20",
+    "emd": 1863000,
+    "market_value": 25000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 30813,
+    "latitude": "28.645539545355",
+    "longitude": "77.167891070275",
+    "min_increment": null,
+    "reserve_price": 18630000,
+    "description": "null",
+    "slug": "entire-ground-floor-in-south-patel-nagar-new-delhi",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 5,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Rahul Gulati",
+    "amenities": "Close to Patel Nagar Metro Station | Just a 3 min drive to BLK-Max Super Speciality Hospital | Just a 5 min drive to Delhi Mall | Within 10 mins drive to Gyan Mandir Public School",
+    "nearby_locations": null,
+    "seo_title": "Entire Ground Floor for sale in South Patel Nagar - Best Price!",
+    "seo_keyword": "Entire Ground Floor in South Patel Nagar, New Delhi",
+    "title_h1": "Buy Entire Ground Floor in South Patel Nagar, New Delhi",
+    "seo_description": "Discover an entire ground floor property in South Patel Nagar, New Delhi, perfect for commercial or residential use. This property offers great potential and investment opportunity. Call now to schedule a visit and secure this prime location before it's gone!",
+    "created_at": "2025-05-26T05:09:19.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-02T05:53:44.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "DCB Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes",
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/30813/1748236159393_WhatsApp Image 2025-05-26 at 10.30.14_b0f0a33b.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/30813/1748236159393_WhatsApp Image 2025-05-26 at 10.30.14_701df6a3.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/30813/1748236159393_WhatsApp Image 2025-05-26 at 10.30.13_e1b0dd58.jpg"
+    ],
+    "video": [
+      "https://hecta-website.s3.amazonaws.com/property/30813/1748236159531_WhatsApp Video 2025-05-26 at 10.30.15_befc7a57.mp4"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/30813/1748235225838_Flat or Apartment.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/30813/1748236159753_WhatsApp Image 2025-05-26 at 10.30.14_b0f0a33b.jpg"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123038,
+    "borrower_name": "Mr. Parampreet Singh",
+    "bank_name": "Hinduja Housing Finance Limited",
+    "address": "Description House No Lig 1448/10 Phase 11 Sector 65 Sas Nagar Mohali Sector 62 Sas Nagar Mohali Punjab, Mohali, Sector 65, Rural, Mohali, Punjab, India-160062 Province/State : Punjab City/Town : Mohali Area/Town : Sahibzada Ajit Singh Nagar",
+    "reserve_price": 1513350,
+    "dimensions": "",
+    "emd": 151335,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Sahibzada Ajit Singh Nagar",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "state": "Punjab",
+    "pincode": 160062,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 128,
+    "state_id": 20,
+    "city_id": 3431,
+    "property_type_id": 29,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474306",
+      "Branch Name": "Registered Office : Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

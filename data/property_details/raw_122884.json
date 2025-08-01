@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122884,
+    "borrower_name": "Pralahad Hiralal Shahu",
+    "bank_name": "ICICI Home Finance",
+    "address": "Description S. No. 384/13, Plot No 13, Matoshree Nagar, Near Gupta Auto, Neral, Karjat, Raigad-410101 Province/State : Maharashtra City/Town : Raigad Area/Town : Karjat",
+    "reserve_price": 2386341,
+    "dimensions": "",
+    "emd": 238634,
+    "possession": null,
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Karjat",
+    "city": "Raigad",
+    "state": "Maharashtra",
+    "pincode": 410101,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 40,
+    "state_id": 14,
+    "city_id": 3353,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479044",
+      "Branch Name": "Corporate Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

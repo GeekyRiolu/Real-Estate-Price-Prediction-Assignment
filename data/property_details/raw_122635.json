@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122635,
+    "borrower_name": "M/S. Sri Krishna Sea Foods",
+    "bank_name": "Bank of Baroda",
+    "address": "Property-1: All The Piece Or Parcel Of The Schedule Property Is An Extent Of 280.5 Sq. Yards Of Site In R.S.No.475 Of Bhimavaram Village  and  Bhimavaram Mandal, West Godavari District, Within The Following Boundaries: East: Site Of Claimant, South: Land Of Sirasapalli Chinna Appa Rao  and  Others, West: Site Of Manepalli Sudha, North: Passage Province/State : Andhra Pradesh City/Town : West Godavari Area/Town : Bhimavaram",
+    "reserve_price": 7975800,
+    "dimensions": "280.5 Sq. Yards",
+    "emd": 797580,
+    "possession": null,
+    "auction_date": "2025-04-22T18:30:00.000Z",
+    "application_deadline": "2025-04-20T18:30:00.000Z",
+    "locality": "Bhimavaram",
+    "city": "West Godavari",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 1,
+    "city_id": 3362,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479440",
+      "Branch Name": "Vijayawada"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

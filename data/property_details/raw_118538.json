@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118538,
+    "borrower_name": "Smt Chitrapu Pavani And Sri Bandaru Karthik",
+    "bank_name": "Canara Bank",
+    "address": "Schedule-A: An Extent Of Site, Along With Proposed Construction Of Rcc Roofed 2 Cellars Parking, Ground, First, Second, Third, Fourth And Fifth Floors Of Residential Apartment Complex, Situated At Kolanukonda, R.S.No. 81/1,81/2,81/3,81/4,81/5,81/6,82/12,82/14, Kolanukonda Gram Panchayat, Tadepalli Mandal, Guntur District.  Schedule B: Second Floor Flat No.214 In  Bmr Habitat ",
+    "reserve_price": 3521000,
+    "dimensions": "9527.08 Sq.Yds (Site), 894 Sq.Ft (Plinth Area), 770 Sq.Ft (CA), 1118 Sq.Ft (Super Built-Up Area), 40.51 Sq. Yards (Land Share)",
+    "emd": 352100,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Kolanukonda",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=16.4518593, 80.6091011",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Authorized Officer Ph. No.,",
+    "ao_mobile": "2807234 / 9491020852",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

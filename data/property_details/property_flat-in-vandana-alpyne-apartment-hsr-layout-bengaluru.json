@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat NO. A-G10, Ground Floor, Block-A, Vandana Alpyne Apartment, HSR Layout, Bengaluru",
+    "name": "Flat in Vandana Alpyne Apartment, HSR Layout, Bengaluru",
+    "application_date": "2025-09-07T18:30:00.000Z",
+    "date": "2025-09-08T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 1,
+    "built_up_area": null,
+    "total_area": "865 SFT SBA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "location": "HSR Layout",
+    "estimated_discount": "20",
+    "emd": 714690,
+    "market_value": 14000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 44088,
+    "latitude": "12.901991584712214",
+    "longitude": "77.64439296073428",
+    "min_increment": null,
+    "reserve_price": 7146900,
+    "description": null,
+    "slug": "flat-in-vandana-alpyne-apartment-hsr-layout-bengaluru",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753176503901!6m8!1m7!1szz1HkrfkmFRJYJcQpuXY9w!2m2!1d12.90193216177584!2d77.64460109611575!3f257.23928115506186!4f23.894136096151357!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Vansh Verma",
+    "amenities": "Along with UDS-398 SFT | Along with One Covered Car Parking | Just a 4 min drive to JSS Public School | Just a 4 min drive to PNR felicity mall | ~11 mins drive to St. John's Medical College Hospital",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Vandana Alpyne - Best Price!",
+    "seo_keyword": "Flat in Vandana Alpyne Apartment, HSR Layout, Bengaluru",
+    "title_h1": "Buy Flat in Vandana Alpyne Apartment, HSR Layout, Bengaluru",
+    "seo_description": "Find a beautiful flat in Vandana Alpyne Apartment in HSR Layout, Bengaluru. This property features great living space and modern amenities. Don't miss this fantastic opportunity; call now to schedule your viewing and make it yours!",
+    "created_at": "2025-07-22T09:44:13.000Z",
+    "created_by": null,
+    "updated_at": "2025-07-22T09:44:13.000Z",
+    "modified_by": null,
+    "created_by_name": null,
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "Bank of Baroda",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/44088/1753177453775_1736499919_ed509ed9114dba74.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/44088/1753177453775_1736499919_ed509ed9114dba74.png"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122199,
+    "borrower_name": "Khumansang Gohel",
+    "bank_name": "ICICI Bank",
+    "address": "1) Flat No. H-504, 5Th Floor, Madhuvan Residency, Near Moraiya Entry Gate, Near Bavla-Ahmedabad Highway, Moje-Moraiya, Ahmedabad-382345. Admeasuring Carpet Area 43.80 Sq. Mtr.- Free Hold Property Province/State : Gujarat City/Town : Ahmedabad Area/Town : Moraiya",
+    "reserve_price": 600000,
+    "dimensions": "43.80 Sq. Mtr",
+    "emd": 60000,
+    "possession": null,
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Moraiya",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": 382345,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 7,
+    "city_id": 938,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477386",
+      "Branch Name": "Branch Office : Ahmedabad"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122353,
+    "borrower_name": "Mr. Sanjay Taluja",
+    "bank_name": "Hinduja Housing Finance Limited",
+    "address": "Property Measuring 270 Sq. Yds. I.E., Ok-9M Out Of Which Property Measuring Ok-8M-7Sbeing 79/684 Share Out Of Property Measuring 3K-16M Which Is Comprised In Khewat No. 111 Khatoni No. 133, Khasra No. 51, Killa No. 18/2 (3-16) And Remaining Property Measuring Ok-Om-O2S, Being 2/351 Share Out Of Property Measuring 1K-19M Which Is Comprised In Khewat No. 112, Khatoni No Boundaries As Per Transfer Deed, East: 34' And Street, West: 34 And Jaipal, North: 70 And Shop  and  Plot Of Sanjeev Kumar, South: 70' And Rajeev Kumar Province/State : Haryana City/Town : Karnal Area/Town : Karnal",
+    "reserve_price": 5134950,
+    "dimensions": "270 Sq. Yds",
+    "emd": 513495,
+    "possession": null,
+    "auction_date": "2025-04-02T18:30:00.000Z",
+    "application_deadline": "2025-03-31T18:30:00.000Z",
+    "locality": "Karnal",
+    "city": "Bassi Akbarpur",
+    "state": "Haryana",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 128,
+    "state_id": 8,
+    "city_id": 1310,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "460151",
+      "Branch Name": "Corporate Office: Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

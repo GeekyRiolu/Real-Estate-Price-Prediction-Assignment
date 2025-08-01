@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118371,
+    "borrower_name": "Mr. Mohammad Alam Sheikh",
+    "bank_name": "Punjab National Bank",
+    "address": "Equitable Mortgage of House, Khata No. 109/133,110/134,111/135, Khasra No. 23//7/2, 14/1, 14/2 17, 84, 35//5/1/2, 5/2/2, Loharan, Hadbast No. 264, Jalandhar.  Sale Deed No. 2019-20/186/1/6884 Dated 30.09.2019. Owners: Mr. Mohammad Alam Sheikh S/o Mr. Abdul Latif and Mr. Najrul Alam S/o Mr. Abdul Latif.",
+    "reserve_price": 835000,
+    "dimensions": "96 Sq. Ft. (Dimension 32'x20' i.e. 640 Sq. Ft.)",
+    "emd": 83500,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Jamabandi",
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 20,
+    "city_id": 3288,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

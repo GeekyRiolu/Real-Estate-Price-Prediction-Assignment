@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 706, A Wing, Building No 04, Anand Excellency Prithvi Shristi, Temhonde, Palghar",
+    "name": "Residential Flat in Anand Excellency, Temhonde, Palghar",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 13,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": "351.12 Sq ft",
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Tembhode",
+    "estimated_discount": "20",
+    "emd": 196400,
+    "market_value": 2356800,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39393,
+    "latitude": "19.7043861",
+    "longitude": "72.7203985",
+    "min_increment": null,
+    "reserve_price": 1964000,
+    "description": null,
+    "slug": "residential-flat-in-anand-excellency-temhonde-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic Possession",
+    "borrower_name": "RINKU KUMAR",
+    "amenities": "Just a 2 min drive to Chanakya The Global School For Intellectuals | Within 10 mins drive to NR garden | Within 10 mins drive to Primary Health Centre",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Palghar - Best Price",
+    "seo_keyword": "Residential Flat in Anand Excellency, Temhonde, Palghar",
+    "title_h1": "Buy Residential Flat in Anand Excellency, Temhonde, Palghar",
+    "seo_description": "Find a beautiful residential flat for sale in Anand Excellency Prithvi Shristi, Temhonde, Palghar. This property offers comfortable living. Secure your future residence today! Call now to schedule a visit and explore the available options before they're gone.",
+    "created_at": "2025-07-05T12:15:25.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-09T11:20:43.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "Axis Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39393/1752060043777_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39393/1752060043921_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

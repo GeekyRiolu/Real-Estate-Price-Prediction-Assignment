@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "659140059, 659140066",
+    "address": "Apparment No. 1404, 14th Floor, C Wing, Sipani Royal Heritage Phase-1, Iggalur, Bangolre",
+    "name": "Flat in Sipani Royal Heritage Phase-1, Iggalur, Bangolre",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-05T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 15,
+    "built_up_area": "80.28 Sq Mtrs",
+    "total_area": null,
+    "carpet_area": "54.93 Sq Mtrs",
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "location": "Iggalur",
+    "estimated_discount": "20",
+    "emd": 420000,
+    "market_value": 7000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40701,
+    "latitude": "12.777811624784931",
+    "longitude": "77.70048633974113",
+    "min_increment": null,
+    "reserve_price": 4200000,
+    "description": null,
+    "slug": "flat-in-sipani-royal-heritage-phase-1-iggalur-bangolre",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752235710316!6m8!1m7!1slJmVRsxg616UbrcW2F3eIQ!2m2!1d12.77593505171934!2d77.7017955967573!3f298.925352664999!4f9.150657433102936!5f0.9315385877043777\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mrs. Parvathamma",
+    "amenities": "Just a 3 min drive to EKAM Edify School Electronic City | Just a 5 min drive to Athreya Hospital | Within 10 mins drive to The Big Market Chandapura | Within 10 mins drive to SRT Mall",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Sipani Royal Heritage - Best Price",
+    "seo_keyword": "Flat in Sipani Royal Heritage Phase-1, Iggalur, Bangolre",
+    "title_h1": "Buy Flat in Sipani Royal Heritage Phase-1, Iggalur, Bangolre",
+    "seo_description": "Discover a beautiful flat in Sipani Royal Heritage Phase-1, Iggalur, Bangalore. This property offers great value and a comfortable living experience. Find your dream home and enjoy modern amenities. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-11T12:49:33.000Z",
+    "created_by": 2340,
+    "updated_at": "2025-07-11T12:49:33.000Z",
+    "modified_by": null,
+    "created_by_name": "aman kushwah",
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "HDFC Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40701/1752238173885_Screenshot 2025-07-11 173903.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40701/1752238173991_Screenshot 2025-07-11 173903.png"
+    ]
+  }
+}

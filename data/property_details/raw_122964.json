@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122964,
+    "borrower_name": "Mr Patekar Mahesh Madhukar",
+    "bank_name": "HDFC Bank",
+    "address": "Description Flat No 202, 2Nd Floor, J Wing, Rose Gardens Co-Operative Housing Society Limited, Survey No 163A, Hissa No Sip, Area Admoh-Str-Op  and  Survey No 220, Area Adm About Oh-1Er-Tp, Asangaon, Taluka Shahapur, District Thane-421631 Admeasuring 448 Sq, Ft, Carpet Area Which Is Equivalent To 41.63 50. Mtrs. Carpet Area Or Thereabouts Province/State : Maharashtra City/Town : Thane Area/Town : Shahapur",
+    "reserve_price": 1625000,
+    "dimensions": "",
+    "emd": 162500,
+    "possession": null,
+    "auction_date": "2025-04-03T18:30:00.000Z",
+    "application_deadline": "2025-04-01T18:30:00.000Z",
+    "locality": "Shahapur",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421631,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "465263",
+      "Branch Name": "Reg Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

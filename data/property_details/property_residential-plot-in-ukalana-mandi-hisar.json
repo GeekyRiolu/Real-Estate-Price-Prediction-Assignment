@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "HR/HSR/HISR/A000000085",
+    "address": "Plot No. 266/1, Ukalana Mandi, Hisar",
+    "name": "Residential Plot in Ukalana Mandi, Hisar",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 128,
+    "built_up_area": null,
+    "total_area": "N/A",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Hisar",
+    "state": "Haryana",
+    "location": "Ukalana Mandi",
+    "estimated_discount": "20",
+    "emd": 435900,
+    "market_value": 7000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 45942,
+    "latitude": "29.518236210319007",
+    "longitude": "75.86865176680388",
+    "min_increment": null,
+    "reserve_price": 4358998,
+    "description": null,
+    "slug": "residential-plot-in-ukalana-mandi-hisar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Symbolic",
+    "borrower_name": "Mr. Bijender Singh S/o Hari Chand",
+    "amenities": "Close to Sadbhavna multi-speciality hospital | Close by OXFORD PUBLIC SCHOOL | Nearby Jai Kisan Agriculture Store. Goal Mandi Uklana | Near Dadu talab and nandi park",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Ukalana Mandi - Best Price!",
+    "seo_keyword": "Residential Plot in Ukalana Mandi, Hisar",
+    "title_h1": "Buy Residential Plot in Ukalana Mandi, Hisar",
+    "seo_description": "Find a prime Residential Plot in Ukalana Mandi, Hisar today. This property offers a great investment opportunity. This plot is ideal for building your dream home. Call now to get the best price and schedule a viewing before it's gone!",
+    "created_at": "2025-07-25T04:03:34.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T11:22:32.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Hinduja Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/45942/1753960952897_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/45942/1753960952897_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

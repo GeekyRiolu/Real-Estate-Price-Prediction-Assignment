@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118180,
+    "borrower_name": "Madhusudhan Sharma",
+    "bank_name": "Hero Housing Finance Limited",
+    "address": "Description of property: All that piece  and  parcel of the residential premises known as flat being Flat No.003, on Ground Floor, Building No. A-17, Sector-VII, In  Daffodil Srishti Hills Co-operative Housing Society Ltd.  (Reg. No. TNA/(ULR/HSG/(TC)/18320/2007-08) Dt. 12/04/2007, having area admeasuring 725 sq. ft. (built-up), Srishti Hill Complex, Jambhul M.I.D.C. Road, Ambernath (west), Post Jambhul, B.O. Chikhloli, Ambarnath (West), Taluka-ambarnath, Dist-Thane, Pin 421301, situated at Mouje-chikhloli, Ambarnath (West), Taluka- Ambarnath Dist- Thane, which is lying and constructed on N.A. (Non Agricultural) plot of land bearing- Survey No. 128, Hissa No. 1(Part), assessed under Mun. Ward No. Chikhloli, Mun.house No.463/003/A-17, dully fitted separate electric meter connection vide Consumer No.021920369330, P.C.-4, along with holding 5 (five) fully pad up Shares of Rs.50/- allotted by the society, vide shares bearing Sr. No.91 To 95, Member's Register No.003/A-17, Share Certificate No. 19, within the limit of Ambarnath Municipal Council Ambarnath, Dist-Thane.and within the limits of Taluka And Sub-Dist. Registration Ulhasnagar, Sub-Dist. Registration Thane, Dist-Thane  Province/State :  Maharashtra City/Town :  Thane Area/Town :  Ambarnath",
+    "reserve_price": 2500000,
+    "dimensions": "725 sq. ft",
+    "emd": 250000,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Ambernath",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 369330,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 38,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

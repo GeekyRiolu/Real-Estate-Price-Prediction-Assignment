@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122545,
+    "borrower_name": "Mr. Anilkumar G",
+    "bank_name": "ICICI Bank",
+    "address": "4Bhk House With Super Built-Up Area Of 2420 Sq. Ft.In 15.02Ares (37 Cents) In Survey No. 664/Pt19 And 664/Pt18, In Vellikulangara Village, Chalakkudy Taluk, Thrissur District. Bounded On The: North By: Panchayath Road, South By: Property Of Karikunnel Thomman, East By: Private Road, West By: Property Of Pulikan Jose Province/State : Kerala City/Town : Thrissur Area/Town : Vellikulangara",
+    "reserve_price": 4400000,
+    "dimensions": "2420 Sq. Ft.",
+    "emd": 440000,
+    "possession": null,
+    "auction_date": "2025-04-02T18:30:00.000Z",
+    "application_deadline": "2025-03-31T18:30:00.000Z",
+    "locality": "Vellikulangara",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 29,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472266",
+      "Branch Name": "Branch Office : Cochin"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

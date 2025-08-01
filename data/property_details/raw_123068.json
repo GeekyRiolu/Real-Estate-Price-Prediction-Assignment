@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123068,
+    "borrower_name": "Sh. Sanjeev Kumar",
+    "bank_name": "Union Bank of India",
+    "address": "Description Sr No 5 Residential Property Constructed On Plot Admeasuring 100 Square Yards, Situated In Pavittar Nagar, Ludhiana And Comprised In Khata No. 1654/1863, Khasra No. 37//15 As Entered In The Jamabandi For The Years 2011-12 Of Village Haibowal Kalan, Hadbast No. 102, Tehsil And District Ludhiana In The Name Of Sh. Sanjeev Kumar Vide Sale Deed Bearing Wasika No. 8652 Dated 19.11.2015 And Bounded As: East-Street Up To 18'0 , West-Open Plot Up To 18'0 , North Neighbour Up To 50'0 , South Seller Up To 50'0 Possession Type: Symbolic Province/State : Punjab City/Town : Ludhiana Area/Town : Haibowal Kalan",
+    "reserve_price": 2400000,
+    "dimensions": "",
+    "emd": 240000,
+    "possession": "Symbolic",
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Haibowal Kalan",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "470903",
+      "Branch Name": "Regional Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

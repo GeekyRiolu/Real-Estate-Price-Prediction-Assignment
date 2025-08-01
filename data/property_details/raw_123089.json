@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123089,
+    "borrower_name": "Mr. Ashish Kumar Mishra",
+    "bank_name": "Utkarsh Small Finance Bank",
+    "address": "Description All That Part And Parcel Of The Residential Property Khana Shumari No-J-18/125-A To North, Bearing Khasra No-4780,4781 Min Total Measuring 80Sq Yards Situated At Village- Sultanwind Sub Urban, Mahal-2, Abadi-Kot Mitt Singh, Bairoon Gate Chatiwind Tehsil  and  Distt- Amritsar Punjab Property Bounded By-East: Road North: Ownership Of Gurbachan Singh West: Ownership Of Kirpal Singh South: Ownership Of Gurmit Singh Province/State : Punjab City/Town : Amritsar Area/Town : Chatiwind",
+    "reserve_price": 2334800,
+    "dimensions": "80Sq Yards",
+    "emd": 233480,
+    "possession": null,
+    "auction_date": "2025-04-09T18:30:00.000Z",
+    "application_deadline": "2025-04-07T18:30:00.000Z",
+    "locality": "Chatiwind",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 123,
+    "state_id": 20,
+    "city_id": 3405,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471090",
+      "Branch Name": "Varanasi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122306,
+    "borrower_name": "M/S Harmilap Agro Industries Pvt Ltd",
+    "bank_name": "Canara Bank",
+    "address": "9) Property-1) Factory Complex At Land Measuring 16K-8M Being 328/2125 Share Of Land Area Measuring 106K-5M Comprised In Khewat No 58, Khatoni No 81, Rect. No 47, Killa No 4(8-0), 6/2(1-12),7(7 8) Situated At Village Guldhera, Tehsil- Pehowa, Distt- Kurukshetra, Haryana And Land Measuring 22K-08M Comprised In Khewat No. 187, Khatoni No. 341, Rect. No.46, Killa No. 1(8-0), 10(8-0), Rect No.47, Killa No.6/1(6-8), Situated At Village Guldhera, Tehsil-Pehowa, Distt-Kurukshetra. Haryana. Province/State : Haryana City/Town : Kurukshetra Area/Town : Pehowa",
+    "reserve_price": 16800000,
+    "dimensions": "",
+    "emd": 1680000,
+    "possession": null,
+    "auction_date": "2025-04-14T18:30:00.000Z",
+    "application_deadline": "2025-04-12T18:30:00.000Z",
+    "locality": "Pehowa",
+    "city": "Kurukshetra",
+    "state": "Haryana",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Industrial Plant/Factory/Shed",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 8,
+    "city_id": 1315,
+    "property_type_id": 23,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "475684",
+      "Branch Name": "Karnal"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

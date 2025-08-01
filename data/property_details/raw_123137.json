@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123137,
+    "borrower_name": "Jarnail Singh",
+    "bank_name": "Aadhar Housing Finance Ltd",
+    "address": "Description All That Part  and  Parcel Of Property Bearing, P.No.20, Guga Madi Colony, Back Side, Kushwant Colony, Ward No.03, Vaka Guga Mari, Basi Pathana, Fatehgarh Sahib, Patiala, Punjab-140412 Boundaries: East- Road 20 Feet Wide, West - Balkar Singh, North-Balkar Singh, South - Parmjeet Singh Province/State : Punjab City/Town : Patiala Area/Town : Fatehgarh Sahib,",
+    "reserve_price": 200000,
+    "dimensions": "",
+    "emd": 20000,
+    "possession": null,
+    "auction_date": "2025-04-01T18:30:00.000Z",
+    "application_deadline": "2025-03-30T18:30:00.000Z",
+    "locality": "Fatehgarh Sahib,",
+    "city": "Patiala",
+    "state": "Punjab",
+    "pincode": 140412,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 156,
+    "state_id": 20,
+    "city_id": 2806,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "475116",
+      "Branch Name": "Corporate Office, Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

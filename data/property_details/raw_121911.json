@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "id": 121911,
+    "borrower_name": "Mr. SARWAN RAM",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "Plot No. 85, CT SURVEY NO. NA 122/A + 122/B/85, RAMDEV RESIDENCY, GODHRA ROAD, OPP. SANEN SCHOOL, INSIDE JYOTI CHOKDI, VILLAGE VAGHVANI, PRATAPPURA, HALOL, PANCHMAHAL, GUJARAT, INDIA, 389350. AREA ADMEASURING (IN SQ. FT.): Property Type: Land_Area, Saleable_Area, Super_Built_Up_Area, Built_Up_Area Property Area: 527.00, 653.00, 550.00, 600.00",
+    "reserve_price": 1209000,
+    "dimensions": "Property Type: Land_Area, Saleable_Area, Super_Built_Up_Area, Built_Up_Area Property Area: 527.00, 653.00, 550.00, 600.00",
+    "emd": null,
+    "possession": "Physical",
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-10T18:30:00.000Z",
+    "locality": "Halol",
+    "city": "Halol",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": "IL10242929",
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 7,
+    "city_id": 1050,
+    "property_type_id": 2,
+    "created_at": "2025-03-27T14:20:45.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Type": "15 days",
+      "Location": "Halol-Guj Exp",
+      "Outsanding": "1920361",
+      "Inspection date": "2025/04/09",
+      "Publication Date": "2025/03/27",
+      "Publication approval date": "2025/03/26"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

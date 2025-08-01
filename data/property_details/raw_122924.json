@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122924,
+    "borrower_name": "Dilshad Shoeb Salmani",
+    "bank_name": "SMFG India Home Finance Company Limited",
+    "address": "Description 1) All That Piece And Parcel Bearing Flat No. 103, On The First Floor Admeasuring About 24.91 Square Meter Carpet Area Ad Joining Terrace/W. S. Area And Balcony Area 5.10 Sq. Mtrs. Cupboard Area 0.53 Sq. Mts  and  Other Area 3.58 Sq. Mtrs. Carpet Alongwith Parking Space Bearing No. 02 In The Building To Be Known As  Morya Villa , S. No. 111. Plot No. 8 Village, Dhamote, Neral Tal. Karjat. Dist. Raigad-410 101 Building Consists Of Ground Plus Three Floors Province/State : Maharashtra City/Town : Raigad Area/Town : Karjat",
+    "reserve_price": 730000,
+    "dimensions": "5.10 Sq. Mtrs",
+    "emd": 73000,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Karjat",
+    "city": "Raigad",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 118,
+    "state_id": 14,
+    "city_id": 3353,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477483",
+      "Branch Name": "Corporate Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

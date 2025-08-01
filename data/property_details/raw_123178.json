@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123178,
+    "borrower_name": "Mrs. Karthika Mathan",
+    "bank_name": "ICICI Bank",
+    "address": "Description Residential Apartment Bearing Flat No. A802 In 8Th Floor, Measuring 2.800 Sq.Ft., Built Up Area (Inclusive Of Share In Common Area) And A Cor Parking Space In The Building Known As The Crest, Together With 1.417.20 Sq.Ft., [Or] 131.66 Sq.Mtrs., Undivided Share, Right, Title, Claim  and  Interest Of Land, From And Out Of 4.37,443 Sq.Ft., [Or] 40.639.45 Sq.Mtrs., Total Extent Land, Situated At Northern  and  Western Part Of Old Door No.27/39 Then Door No.66, Now Bearing New Door No.142, Radhamohan Street, Velachery, Chennai- 600042, Comprised In Block No.20, Old T.S No.6, New T.S Nos 6/286/3 Of Velacheri Village, Velacheri Taluk, Chennai District. Province/State : Tamil Nadu City/Town : Chennai Area/Town : Velachery",
+    "reserve_price": 58300000,
+    "dimensions": "2.800 Sq.Ft.",
+    "emd": 5830000,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Velachery",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": 600042,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 23,
+    "city_id": 2936,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "466139",
+      "Branch Name": "Branch Office : Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

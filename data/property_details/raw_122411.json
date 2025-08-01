@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122411,
+    "borrower_name": "Sri. Shashidhara Vaichal M",
+    "bank_name": "State Bank of India",
+    "address": "All The Piece And Parcel Of Land Measuring 31 Guntas Out Of 33 Guntas, Property Bearing Sy No. 61/3. And Sy.No. 60 And Haddigidada Land Having Bda Khatha No. 61/3, 60 And Others Situated At Kembathahalli Village, Uttarahalli Hobli, Bengaluru South Taluk, Bengaluru District Coming Under The Limits Of Bbmp Bengaluru, Together With All Rights, Appurtenance, Easements, Whatsoever, Whether Underneath Or Above The Surface, And Bounded On: East By: 60 Feet Road, West By: Bda Site Bearing No. 521, 508 And 507 And Road, North By: Land Belonging To Smt. Ratnamma And His Son Venugopal And Portion Of Land Retained By The Owners, South By: 30 Feet Road Schedule-Ii: (Of The Undivided Share) (Of The Flat Apartment And Undivided Share Her By Conveyed Under This Deed) 431 Sq. Feet, Of Undivided Share, Right, Title And Interest In The Land Comprised In The Schedule  A  Property And Residential Apartment No. 2011, On The Second Floor, Of The Building Known As  Sai Nandna Gp Pride  Constructed On The Schedule  A  Property, Consisting Of 2 Bed Rooms And Having Super Built Up Area Of 1175 Square Feet Along With (1) One Covered Car Parking In The Basement Floor. The Walls Are Built Out Of Solid Blocks With Vitrified Flooring And Rcc Roofing. It Is Provided With Amenities Like Electricity, Water And Sanitary Connections And Bounded By: East By: Corridor, West By: Flat No.2010, North By: Private Property, South By: Corridor, Staircase. Province/State : Karnataka City/Town : Bengaluru Area/Town : Uttarahalli",
+    "reserve_price": 7200000,
+    "dimensions": "431 Sq. Feet",
+    "emd": 720000,
+    "possession": null,
+    "auction_date": "2025-04-18T18:30:00.000Z",
+    "application_deadline": "2025-04-16T18:30:00.000Z",
+    "locality": "Uttarahalli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 10,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477380",
+      "Branch Name": "Stressed Assets Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

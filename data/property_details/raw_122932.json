@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122932,
+    "borrower_name": "Mr. Chandrakant Jagannath Pawar",
+    "bank_name": "ICICI Bank",
+    "address": "Description Flat No-301, Wing L, 2Nd Floor, Level 5, Amenity View, Pratham Talegaon, Dhamdhere Plot No. 1 Out Of Gat No 1205/1C, Tal Shirur, Pune, Maharashtra, Pune-412208., Admeasuring Area Carpet Area 440 Sq Feet L.E 40.89 Sq Meter Including Terrace Also Allocate Two Wheeler Parking Space Province/State : Maharashtra City/Town : Pune Area/Town : Shirur",
+    "reserve_price": 1500000,
+    "dimensions": "440 Sq Feet",
+    "emd": 150000,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Shirur",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": 412208,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "475670",
+      "Branch Name": "Branch Office : Pune"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

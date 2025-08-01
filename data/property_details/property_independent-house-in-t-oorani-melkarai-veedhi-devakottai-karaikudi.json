@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "New Door No 22, T.S.No 60, Ward-O, Block-5, T Oorani Melkarai Veedhi, Devakottai, Shivgangai, Karaikudi",
+    "name": "Independent House in T-Oorani Melkarai Veedhi, Devakottai, Karaikudi",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 63,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Karaikudi",
+    "state": "Tamil Nadu",
+    "location": "Oorani",
+    "estimated_discount": "20",
+    "emd": 1260104,
+    "market_value": 15132048,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38934,
+    "latitude": "9.9554422",
+    "longitude": "78.8162334",
+    "min_increment": null,
+    "reserve_price": 12601040,
+    "description": null,
+    "slug": "independent-house-in-t-oorani-melkarai-veedhi-devakottai-karaikudi",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "Elumalaisaivas Traders",
+    "amenities": "Near Lotus AN Venkatachalam Chettiar School | Nearby Anbu Ram multi speciality hospital | Close by Amutha Surabhi Supermarket | Near Shanthi Nikethan Hospital",
+    "nearby_locations": null,
+    "seo_title": "Independent House for sale \u2013 Best Price",
+    "seo_keyword": "Independent House in T-Oorani Melkarai Veedhi, Devakottai, Karaikudi",
+    "title_h1": "Buy Independent House in T-Oorani Melkarai Veedhi, Devakottai, Karaikudi",
+    "seo_description": "Find a fantastic Independent House in T-Oorani Melkarai Veedhi, Devakottai, Karaikudi. This property offers great potential. Contact us now to discover details about this property for sale. Call now to schedule a visit and secure your future home.",
+    "created_at": "2025-07-04T01:08:22.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-04T11:36:09.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "UGRO Capital",
+    "price_drop": 9000,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38934/1751628969451_House3.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38934/1751628969330_House3.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

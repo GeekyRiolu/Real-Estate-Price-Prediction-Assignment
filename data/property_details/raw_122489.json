@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122489,
+    "borrower_name": "Saroj",
+    "bank_name": "ICICI Home Finance",
+    "address": "Flot No. 409, 4Th Floor, Jj Elita, Site No. 602. Municipal No. 44/1, 44/2, 44/3 And 44/4, Old Sy. No. 44 Then Resurvey No. 44/1 44/2, 44/3 And 44/4, Nyanapannahalli Village, Begur Hobli, Bangalore South Taluk, Bangalore Bruhat Bangalore Mahanagar Palike Ward No. 193, Bangalore. Province/State : Karnataka City/Town : Bengaluru Area/Town : Begur",
+    "reserve_price": 6246900,
+    "dimensions": "",
+    "emd": 624690,
+    "possession": null,
+    "auction_date": "2025-04-03T18:30:00.000Z",
+    "application_deadline": "2025-04-01T18:30:00.000Z",
+    "locality": "Begur",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 40,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "457802",
+      "Branch Name": "Corporate Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

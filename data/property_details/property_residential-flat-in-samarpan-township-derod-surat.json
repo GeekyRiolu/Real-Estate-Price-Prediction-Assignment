@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "21630000022011",
+    "address": "Flat No 205, 2nd Floor, Building No B, Samarpan Township, Derod, Surat",
+    "name": "Residential Flat in Samarpan Township, Derod, Surat",
+    "application_date": "2025-08-31T18:30:00.000Z",
+    "date": "2025-09-02T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "712 SFT SBUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Derod",
+    "estimated_discount": "20",
+    "emd": 72000,
+    "market_value": 1200000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 43348,
+    "latitude": "21.285064978111045",
+    "longitude": "72.98272022454384",
+    "min_increment": null,
+    "reserve_price": 720000,
+    "description": null,
+    "slug": "residential-flat-in-samarpan-township-derod-surat",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752910276181!6m8!1m7!1sOljtVZd72rlZVLL3uMIuEg!2m2!1d21.28521918334244!2d72.98262707952952!3f177.32311253418226!4f-6.037034930063854!5f0.5199920139935563\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Bhalan Alkeshbhai Vallabhbhai",
+    "amenities": "Just a 5 min drive to Wisdom International School | Just a 5 min drive to HEM SAROVAR | Within 10 mins drive to Sadbhavna multispeciality hospital | Within 10 mins drive to OZONE shopping centre",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Derod, Surat \u2013 Best Price",
+    "seo_keyword": "Residential Flat in Samarpan Township, Derod, Surat",
+    "title_h1": "Buy Residential Flat in Samarpan Township, Derod, Surat",
+    "seo_description": "Find your ideal residential flat for sale in Samarpan Township, Derod, Surat. This property offers spacious living and convenient access. Explore modern amenities for comfortable living. Call now to schedule a visit before this opportunity disappears!",
+    "created_at": "2025-07-18T22:09:27.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-19T07:34:35.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/43348/1752910475575_Screenshot 2025-07-19 130145.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/43348/1752910475700_Screenshot 2025-07-19 130145.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

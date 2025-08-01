@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122463,
+    "borrower_name": "M/S Bharani Hi Tech Agro Industries",
+    "bank_name": "Canara Bank",
+    "address": "2) 5.Flat No.311, 3Rd Floor, Sri Krishna Sai Enclave In Land Bearing Converted Sy. No.111/1, Present Bbmp Khata No.406, Hoodi Village, Kr Puram Hobli, Bangalore East. Total Plinth Area Is 1250 Sq.Ft. Coordinates Of The Property Latitude-12.59422N Longitude-77.43084E Province/State : Karnataka City/Town : Bengaluru Area/Town : Kr Puram",
+    "reserve_price": 5873000,
+    "dimensions": "1250 Sq.Ft.",
+    "emd": 587300,
+    "possession": null,
+    "auction_date": "2025-04-06T18:30:00.000Z",
+    "application_deadline": "2025-04-04T18:30:00.000Z",
+    "locality": "Kr Puram",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "476211",
+      "Branch Name": "Arm Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

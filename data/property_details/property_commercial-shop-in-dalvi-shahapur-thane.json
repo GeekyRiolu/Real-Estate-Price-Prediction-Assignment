@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Panchayat House No. 1267, 1268/1, 2, 3, 4, & 5, Shirol, Shahapur, Thane",
+    "name": "Commercial Shop in Dalvi  Shahapur, Thane",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": "8000 SQ FT",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "shahapur",
+    "estimated_discount": "20",
+    "emd": 2420000,
+    "market_value": 29040000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46941,
+    "latitude": "19.6319968",
+    "longitude": "73.4255263",
+    "min_increment": 1,
+    "reserve_price": 24200000,
+    "description": null,
+    "slug": "commercial-shop-in-dalvi-shahapur-thane",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Farooque Abdul Sattar Dalvi & Mrs. Safinaz Farooque Dalvi",
+    "amenities": "Near Hanuman Temple | Close by Shree Rameshwar Shiv Mandir | Close to Shreya Kirana Store | Nearby Pujya Shree Hemratnasuri vihar dham",
+    "nearby_locations": null,
+    "seo_title": "Commercial Shop for sale in Shirol - Best Price",
+    "seo_keyword": "Commercial Shop in Dalvi Darbar Hotel, Shirol, Shahapur, Thane",
+    "title_h1": "Buy Commercial Shop in Dalvi Shahapur Thane",
+    "seo_description": "Purchase a prime commercial shop in Dalvi Darbar Hotel, Shirol, Thane. It offers excellent visibility and potential for your business. Take advantage of this opportunity for investment; Call now to schedule a visit and explore the possibilities.",
+    "created_at": "2025-07-29T09:39:36.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T06:10:27.000Z",
+    "modified_by": 2267,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "rakhi yadav",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46941/1753855827974_House1.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46941/1753855827974_House1.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

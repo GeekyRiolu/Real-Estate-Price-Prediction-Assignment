@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118857,
+    "borrower_name": "Ajaybhai Bansilal Thakarda",
+    "bank_name": "AU Small Finance Bank",
+    "address": "Property At Thakarda Was, Bearing Block/Rs No. 998 Paiki, Tp No. 2, Fp No. 91, Kajan, Nava Bazar, Vadodara",
+    "reserve_price": 1350000,
+    "dimensions": "650 Sq. Ft",
+    "emd": 135000,
+    "possession": null,
+    "auction_date": "2025-03-11T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Nava Bazar",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=22.3036173, 73.2081559",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 27,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Deep Patel Deepak Jain",
+    "ao_mobile": "8980052485 / 9773358234",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

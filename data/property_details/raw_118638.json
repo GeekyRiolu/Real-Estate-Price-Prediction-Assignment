@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118638,
+    "borrower_name": "Ganjikunta Kodanda Ramanjaneyulu",
+    "bank_name": "Nido Home Finance Limited",
+    "address": "All The Part And Parcel Bearing Flat No 201 1St Floor Gr Enclave D No 254 Gundimeda Grama Panc Tadepalli Manda Guntur 522501 Bounded As: North: Open To Sky South: Open To Sky East: Open To Sky West: Steps, Lift And Common Corridor Province/State : Andhra Pradesh City/Town : Guntur Area/Town : Tadepalli",
+    "reserve_price": 2706116,
+    "dimensions": null,
+    "emd": 270612,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Tadepalli",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": 522501,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 46,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Mobile No :",
+    "ao_mobile": "9160005011",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

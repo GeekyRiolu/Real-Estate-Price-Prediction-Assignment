@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 303, 3rd Floor, Wing D-2, Konnark Heavens, Panvel, Navi Mumbai",
+    "name": "Flat in Konnark Heavens, Panvel, Navi Mumbai",
+    "application_date": "2025-08-06T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "323 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "location": "Panvel",
+    "estimated_discount": "20",
+    "emd": 200000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38800,
+    "latitude": "19.07439465102409",
+    "longitude": "73.16046783385033",
+    "min_increment": null,
+    "reserve_price": 2000000,
+    "description": null,
+    "slug": "flat-in-konnark-heavens-panvel-navi-mumbai",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Nilesh Abasaheb Waghule",
+    "amenities": "Just a 3 min drive to Hospital | Just a 4 min drive to Enkay Public School | Within 10 mins drive to Jyoti complex",
+    "nearby_locations": null,
+    "seo_title": "Flat for sale in Panvel - Best Price",
+    "seo_keyword": "Flat in Konnark Heavens, Panvel, Navi Mumbai",
+    "title_h1": "Buy Flat in Konnark Heavens, Panvel, Navi Mumbai",
+    "seo_description": "Find your dream home! This flat in Konnark Heavens, Panvel, Navi Mumbai offers a great investment opportunity. Explore spacious living with modern amenities. Call now to schedule a visit and secure your property before it's gone!",
+    "created_at": "2025-07-03T19:48:31.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-04T09:31:19.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38800/1751621479643_unnamed (20).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38800/1751621479732_unnamed (20).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

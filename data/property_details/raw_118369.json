@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118369,
+    "borrower_name": "Mr. Amandeep Kumar",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "House No 255, Khewat Khatori No. 1540/1172, Klavga No. 80154(10-9), Teacher Colony Wand No 07, Hadbast hio 121, Kurak, Kharar, SAS Nagar, Mohali",
+    "reserve_price": 2679000,
+    "dimensions": "BUA: 1143.45 Sq FL, CA: 866.25 Sq. Ft",
+    "emd": 267900,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Sas Nagar",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "state": "Punjab",
+    "pincode": 140103,
+    "latlong": "maps.google.com/maps?q=30.7498676, 76.6411094",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 20,
+    "city_id": 3431,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

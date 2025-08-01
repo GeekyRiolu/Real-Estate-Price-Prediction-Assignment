@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No 162, Khasra 964, Block B, Adarsh Nagar, Loni, Ghaziabad",
+    "name": "Residential Plot in Adarsh Nagar, Loni, Ghaziabad",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 128,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "location": "Loni",
+    "estimated_discount": "20",
+    "emd": 131200,
+    "market_value": 1574400,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46088,
+    "latitude": "28.7333526",
+    "longitude": "77.2986264",
+    "min_increment": null,
+    "reserve_price": 1312000,
+    "description": null,
+    "slug": "residential-plot-in-adarsh-nagar-loni-ghaziabad-1",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Pankaj Pankaj, Mrs. Pooja Pooja",
+    "amenities": "Close to Choudhary Multispeciality Hospital | Close to Shaheed Bhagat Singh Park | Close by Lal Bagh B Block Park | Nearby Das Universal Academy School",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Adarsh Nagar - Best Price",
+    "seo_keyword": "Residential Plot in Adarsh Nagar, Loni, Ghaziabad",
+    "title_h1": "Buy Residential Plot in Adarsh Nagar, Loni, Ghaziabad",
+    "seo_description": "Find your dream plot in Adarsh Nagar, Loni, Ghaziabad. We offer prime residential plots perfect for building your home. Explore available options and get ready to invest. Call now to schedule a visit and secure your future home site.",
+    "created_at": "2025-07-25T21:36:22.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-28T12:06:28.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Hinduja Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46088/1753685360832_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46088/1753685360832_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118782,
+    "borrower_name": "Parth Construction Company",
+    "bank_name": "JM Financial Asset Reconstruction Company Limited",
+    "address": "Plot No 3 Paiki Westside And Plot No 4, Balaji Park, Vasavad Road, Moviya, Rajkot",
+    "reserve_price": 3660000,
+    "dimensions": null,
+    "emd": 366000,
+    "possession": null,
+    "auction_date": "2025-03-19T18:30:00.000Z",
+    "application_deadline": "2025-03-17T18:30:00.000Z",
+    "locality": "Moviya",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": 360311,
+    "latlong": "maps.google.com/maps?q=22.2493911, 70.8172229",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 74,
+    "state_id": 7,
+    "city_id": 1160,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Person : Dharmesh Variya : ,,",
+    "ao_mobile": "9925827126 / 9584966653 / 62241676",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

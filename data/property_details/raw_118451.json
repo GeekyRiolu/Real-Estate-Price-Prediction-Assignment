@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118451,
+    "borrower_name": "Veera Babu Kurakula",
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "address": "3) Ramanayyapeta, Kakinada Rural Mandal, East Godavari District, Andhra Pradesh.  Survey No.186, Plot No.48, D.No.4-404/5, Old Assessment No.3941, Present Assessment No.2111,  H/O Gaigolupadu,  in FCI Colony.",
+    "reserve_price": 8300000,
+    "dimensions": "765 Sq.Ft (BUA)",
+    "emd": 830000,
+    "possession": null,
+    "auction_date": "2025-03-24T18:30:00.000Z",
+    "application_deadline": "2025-03-22T18:30:00.000Z",
+    "locality": "Kakinada",
+    "city": "Goragommi",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=16.986732, 82.2350536",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 31,
+    "state_id": 1,
+    "city_id": 3490,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Mobile No :",
+    "ao_mobile": "9160005011",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

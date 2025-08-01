@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122472,
+    "borrower_name": "Mr. Muralidhar N",
+    "bank_name": "Canara Bank",
+    "address": "Property 1: All That Piece And Parcel Of Residential Site No. 31, Old No.34 Municipal No.344, Situated At 4Th Cross(Ananth Kumar Road), Jayanagar 7Th Block, Bengaluru 580 082,Measuring East To West 40 Feet, North To South 50 Feet, Along With Building Thereon Comprising Of Ground Floor, First Floor, Measuring 2000Sq Ft.Property In The Name Of Mrs. Kamalamma, Bounded By East: Bv Vallabha Rao Property West: Property No.32 North: 4Th Cross Road South: Property Of Ramakka Province/State : Karnataka City/Town : Bengaluru Area/Town : Jayanagar",
+    "reserve_price": 47000000,
+    "dimensions": "2000Sq Ft.",
+    "emd": 4700000,
+    "possession": null,
+    "auction_date": "2025-04-04T18:30:00.000Z",
+    "application_deadline": "2025-04-02T18:30:00.000Z",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "476525",
+      "Branch Name": "Banglore"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

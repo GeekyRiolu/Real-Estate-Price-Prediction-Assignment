@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118867,
+    "borrower_name": "Shivneri Logistics",
+    "bank_name": "Canara Bank",
+    "address": "Flat No. 01, Ground Floor, Ishawashyam Apartment, Plot No. 47/A  and  47/C, Rs No. 642/B, C S No. 363/D  and  363/E, Pratapganj, Vadodara",
+    "reserve_price": 5166000,
+    "dimensions": "117.10 Sq.Mtrs",
+    "emd": 516600,
+    "possession": "Symbolic",
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Vadodara",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": 390001,
+    "latlong": "maps.google.com/maps?q=22.3203783, 73.1806874",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No : Ph.:",
+    "ao_mobile": "8238011405 / 9785475937",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

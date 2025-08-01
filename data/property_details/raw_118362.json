@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118362,
+    "borrower_name": "M/S Mks Oil Pvt Ltd",
+    "bank_name": "Punjab National Bank",
+    "address": "Lot No. 272  and  273, Block D, Pocket 14, Sector 3, Rohini, New Delhi",
+    "reserve_price": 6404000,
+    "dimensions": "63.38 Sq. Mtrs.",
+    "emd": 640400,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Rohini",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=28.7001949, 77.1076207",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

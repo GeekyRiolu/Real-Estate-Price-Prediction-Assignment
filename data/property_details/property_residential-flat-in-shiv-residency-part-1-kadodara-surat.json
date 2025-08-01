@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "22630000014625",
+    "address": "Flat No 506, 5th Floor, Shiv Residency Part-1, Kadodara, Surat",
+    "name": "Residential Flat in Shiv Residency Part-1, Kadodara, Surat",
+    "application_date": "2025-09-07T18:30:00.000Z",
+    "date": "2025-09-09T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "27.51 Sq Mtrs BUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Kadodara",
+    "estimated_discount": "20",
+    "emd": 50000,
+    "market_value": 800000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47163,
+    "latitude": "21.166735574945395",
+    "longitude": "72.97268413474869",
+    "min_increment": null,
+    "reserve_price": 500000,
+    "description": null,
+    "slug": "residential-flat-in-shiv-residency-part-1-kadodara-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Ramshankar Sangram Yadav",
+    "amenities": "Just a 2 min drive to manjulaben hospital | Just a 3 min drive to Kadodara | Just a 4 min drive to Sardar Patel Higher Secondary High School | Within 10 mins drive to Tulsi Patra Embro Park",
+    "nearby_locations": null,
+    "seo_title": "Buy Residential Flat Now in Kadodara - Best Price!",
+    "seo_keyword": "Residential Flat in Shiv Residency Part-1, Kadodara, Surat",
+    "title_h1": "Buy Residential Flat in Shiv Residency Part-1, Kadodara, Surat",
+    "seo_description": "Explore the Residential Flat for sale in Shiv Residency Part-1, Kadodara, Surat. Discover a great opportunity to own a property. We offer a comfortable living space. Call now to schedule a visit and secure your dream home before it's gone. Act fast and don't miss out!",
+    "created_at": "2025-07-30T22:02:50.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T07:05:14.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47163/1753945514714_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47163/1753945514714_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

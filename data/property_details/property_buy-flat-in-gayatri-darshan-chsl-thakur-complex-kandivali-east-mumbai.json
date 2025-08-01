@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 404, 4th Floor, A Wing, Gayatri Darshan Chsl, Thakur Complex, Kandivali East, Mumbai",
+    "name": "Buy Flat in Gayatri Darshan Chsl, Thakur Complex, Kandivali East, Mumbai",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 15,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": "37.55 sq mtrs",
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "location": "Thakur Complex",
+    "estimated_discount": "20",
+    "emd": 4320800,
+    "market_value": 51849600,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 37543,
+    "latitude": "19.2079293",
+    "longitude": "72.8644147",
+    "min_increment": null,
+    "reserve_price": 43208000,
+    "description": null,
+    "slug": "buy-flat-in-gayatri-darshan-chsl-thakur-complex-kandivali-east-mumbai",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed/v1/streetview?key=AIzaSyAUITE77yYv33fokt3InIHg77SqIqmlDRI&location=19.2080014,72.8640097&heading=0&pitch=0&fov=90\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical Posession",
+    "borrower_name": "Sushil Madan",
+    "amenities": "~6 mins walk to Ryan International School, Kandivali East, Mumbai - CBSE | Just a 2 min drive to PLOTSIFY | Just a 3 min drive to D Mart | Just a 3 min drive to City Multispeciality hospital",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Kandivali East - Best Price",
+    "seo_keyword": "Residential Flat in Gayatri Darshan Chsl, Thakur Complex, Kandivali East, Mumbai",
+    "title_h1": "Buy Flat in Gayatri Darshan Chsl, Thakur Complex, Kandivali East, Mumbai",
+    "seo_description": "Explore this Residential Flat in Gayatri Darshan Chsl, Thakur Complex, Kandivali East, Mumbai. This property offers comfortable living spaces. We offer great opportunities. Call now to schedule a visit and discover your new home before it's gone!",
+    "created_at": "2025-06-27T12:06:36.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-09T05:22:00.000Z",
+    "modified_by": 2267,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "rakhi yadav",
+    "favorite": 0,
+    "bank_name": "HDFC Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/37543/1752038520976_Screenshot (69).png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/37543/1752038521121_Screenshot (69).png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

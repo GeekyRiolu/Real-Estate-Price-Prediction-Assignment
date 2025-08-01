@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122459,
+    "borrower_name": "M/S Imperial Constrafin Pvt Ltd",
+    "bank_name": "Canara Bank",
+    "address": "1) Vacant Land At No.36, Sy. No.20/3, Uttarahalli, Manavartekaval Village, Bangalore-560062. Type Of Property Vacant Land Total Extant Of The Site 175.46 Sq.Mtr. Owner Of The Property: M/S. Imperial Constrafin Pvt Ltd Represented By Mr. Zabulon Athisayam Boundaries Of The Property: East By: Road, West By: Private Property, North By: Site No. 35 Vacant And South By: Private Property Coordinates Of The Property Latitude- 12.858223 Longitude- 77.535743 Province/State : Karnataka City/Town : Bengaluru Area/Town : Uttarahalli",
+    "reserve_price": 14400000,
+    "dimensions": "175.46 Sq.Mtr",
+    "emd": 1440000,
+    "possession": null,
+    "auction_date": "2025-04-06T18:30:00.000Z",
+    "application_deadline": "2025-04-04T18:30:00.000Z",
+    "locality": "Uttarahalli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": 535743,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "476206",
+      "Branch Name": "Arm Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No B-63, Entire Ground Floor & Front of Basement, Paschimi Marg, Vasant Vihar, New Delhi",
+    "name": "Residential Floor in Vasant Vihar, New Delhi",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-27T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 4,
+    "built_up_area": null,
+    "total_area": "992 Sq.Yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Builder Floor",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "location": "Vasant Vihar",
+    "estimated_discount": "20",
+    "emd": 21910000,
+    "market_value": 262920000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46114,
+    "latitude": "28.568255235933925",
+    "longitude": "77.16104140274136",
+    "min_increment": null,
+    "reserve_price": 219100000,
+    "description": null,
+    "slug": "residential-floor-in-vasant-vihar-new-delhi",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753680918976!6m8!1m7!1s69dzDj97GKobqJ_zYO6x2A!2m2!1d28.56828673307533!2d77.16100177971751!3f109.62050456703987!4f-3.283531491620124!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 5,
+    "location_type": "Exact",
+    "possession": "Symbolic Possession",
+    "borrower_name": "M/S. YOGRAJ INFRASTRUCTURE LTD",
+    "amenities": "2 Car Parking Spaces | | Just a 2 min walk to Tagore International School | Just a 4 min drive to Sangam Courtyard | Within 10 mins drive to Primus Super Speciality Hospital | Within 10 mins drive to St. Mary's School | Within 10 mins drive to The Neptune Hospital",
+    "nearby_locations": null,
+    "seo_title": "Residential Floor for sale in Vasant Vihar \u2013 Best Price",
+    "seo_keyword": "Residential Floor in Vasant Vihar, New Delhi",
+    "title_h1": "Buy Residential Floor in Vasant Vihar, New Delhi",
+    "seo_description": "Find a stunning residential floor for sale in Vasant Vihar, New Delhi. This property offers comfortable living with excellent features. Explore our listings today. Call now to schedule a visit and secure your dream home before it's gone!",
+    "created_at": "2025-07-25T21:53:47.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-28T05:42:04.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Canara Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46114/1753681169821_Screenshot 2025-07-28 110508.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46114/1753681169821_Screenshot 2025-07-28 110508.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

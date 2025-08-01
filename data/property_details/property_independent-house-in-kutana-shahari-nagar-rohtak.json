@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "House No.1319/1, Kutana, Shahari Nagar, Rohtak",
+    "name": "Independent House in Kutana, Shahari Nagar, Rohtak",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 128,
+    "built_up_area": null,
+    "total_area": "120 Sq.yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Rohtak",
+    "state": "Haryana",
+    "location": "Kutana",
+    "estimated_discount": "20",
+    "emd": 187333,
+    "market_value": 2248000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 45936,
+    "latitude": "28.8955152",
+    "longitude": "76.606611",
+    "min_increment": null,
+    "reserve_price": 1873332,
+    "description": null,
+    "slug": "independent-house-in-kutana-shahari-nagar-rohtak",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Naveen Naveen, Mrs. Radha Radha, Mr. Vikash Vikash",
+    "amenities": "Near Vishal Mega Mart | Nearby Shri Jyoti prakash school | Close by M.D.N. Public School | Close by Reliance Fresh | Nearby Shiv Temple Rohtak",
+    "nearby_locations": null,
+    "seo_title": "Independent House for Sale in Rohtak \u2013 Best Price",
+    "seo_keyword": "Independent House in Kutana, Shahari Nagar, Rohtak",
+    "title_h1": "Buy Independent House in Kutana, Shahari Nagar, Rohtak",
+    "seo_description": "Discover the perfect Independent House in Kutana, Shahari Nagar, Rohtak. You can find your dream home with spacious rooms. This property offers great value. Call now to schedule a visit and secure your future home today. Don't miss out!",
+    "created_at": "2025-07-25T04:03:13.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T11:54:36.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Hinduja Housing Finance Limited",
+    "price_drop": 1,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/45936/1753876476885_House1.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/45936/1753876476885_House1.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

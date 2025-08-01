@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 14, 4th Floor, Bldg No A3, Vinayak Hills, Mauje Chikhalse, Pune",
+    "name": "Flat in Vinayak Hills, Chikhalse, Pune",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-12T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 108,
+    "built_up_area": null,
+    "total_area": "493 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "location": "Chikhalse",
+    "estimated_discount": "20",
+    "emd": 118300,
+    "market_value": 2000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40414,
+    "latitude": "18.73346186702703",
+    "longitude": "73.5672181513532",
+    "min_increment": null,
+    "reserve_price": 1183000,
+    "description": null,
+    "slug": "flat-in-vinayak-hills-chikhalse-pune",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752210018214!6m8!1m7!1sQxHpIKJjfLGHYIb0IV9w2A!2m2!1d18.7336966530202!2d73.56697023092322!3f155.49980338446247!4f15.491020934493179!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Sumit Prabhakar Bhingare",
+    "amenities": "Off Mumbai-Pune Hwy | Within 10 mins drive to Kamshet Hospital | Within 10 mins drive to Kamshet Food Mall",
+    "nearby_locations": null,
+    "seo_title": "Flat for sale in Vinayak Hills - Best Price!",
+    "seo_keyword": "Flat in Vinayak Hills, Chikhalse, Pune",
+    "title_h1": "Buy Flat in Vinayak Hills, Chikhalse, Pune",
+    "seo_description": "Find a perfect flat for sale in Vinayak Hills, Chikhalse, Pune. Discover comfortable living spaces and ideal locations. Explore modern amenities for your convenience and comfort. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-10T19:44:25.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T05:05:07.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "IIFL Home Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40414/1752210307963_vinayak hills.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40414/1752210308196_vinayak hills.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

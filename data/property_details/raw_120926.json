@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 120926,
+    "borrower_name": "SHANKAR BHARAT DHAGE",
+    "bank_name": "Bajaj Housing Finance Limited",
+    "address": "FLAT NO. 101, FIRST FLOOR, BUILDING NO. F-3, ROYAL CITY, FENNEL CO-OPERATIVE HOUSING SOCIETY, LTD., GAT NO. 183, SHAHAPUR, KALAMBHE, THANE, MAHARASHTRA - 421601 ",
+    "reserve_price": 2100000,
+    "dimensions": "349 sqft",
+    "emd": 210000,
+    "possession": null,
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Shahapur",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421601,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 28,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

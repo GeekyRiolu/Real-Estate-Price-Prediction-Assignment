@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122847,
+    "borrower_name": "M/S. S. K. Wheels Pvt. Ltd",
+    "bank_name": "Union Bank of India",
+    "address": "Description 1. Property No. 2: Amalgamated Shop No.2  and  3, Ground Floor Of Full Stop Mall Sector-19, Sanpada, Navi Mumbai-400 705. Bu Area 1214 Sq. Ft.. Owned By Mr. Akshit Kumar. Boundaries: North-Bhumirajlrasaa Co-Op. Hsg. Soc. Ltd., South Service Road / Palm Beach Road; East: Mahavir Amrut Co-Op. Hsg. Soc. Ltd.  and  West: Intemal Road. (Under Symbolic Possession, Cmm Order Received, In Process To Take Physical Possession) Province/State : Maharashtra City/Town : Navi Mumbai Area/Town : Sanpada",
+    "reserve_price": 14800000,
+    "dimensions": "1214 Sq. Ft.",
+    "emd": 1480000,
+    "possession": "Physical",
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Sanpada",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Commercial Shop/Retail Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 3312,
+    "property_type_id": 16,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479106",
+      "Branch Name": "Stressed Asset Management Branch : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

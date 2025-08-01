@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No 210/155, Kanoon Goyan Bhoor Bareilly",
+    "name": "Residential House in Kanoon Goyan Bhoor, Bareilly",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 9,
+    "built_up_area": null,
+    "total_area": "250.83 Sq.Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Bareilly",
+    "state": "Uttar Pradesh",
+    "location": "Prem Nagar",
+    "estimated_discount": "20",
+    "emd": 856000,
+    "market_value": 10272000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 43893,
+    "latitude": "28.3603478",
+    "longitude": "79.4099",
+    "min_increment": null,
+    "reserve_price": 8560000,
+    "description": null,
+    "slug": "residential-house-in-kanoon-goyan-bhoor-bareilly",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "M/s Balaji Traders",
+    "amenities": null,
+    "nearby_locations": null,
+    "seo_title": "Residential House for sale in Bareilly - Call Now",
+    "seo_keyword": "Residential House in Kanoon Goyan Bhoor, Bareilly",
+    "title_h1": "Buy Residential House in Kanoon Goyan Bhoor, Bareilly",
+    "seo_description": "Explore the Residential House in Kanoon Goyan Bhoor, Bareilly, offering comfortable living spaces. Find this perfect property for your family now. Discover various features that meet your requirements. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-21T21:44:15.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-22T09:21:53.000Z",
+    "modified_by": null,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "Punjab National Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/43893/1753176113969_House3.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/43893/1753176113969_House3.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

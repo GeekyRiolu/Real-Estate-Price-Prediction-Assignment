@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 104, 1st Floor, Laxmi Heights, Gamanagatti, Bengaluru",
+    "name": "Flat in Laxmi Heights, Gamanagatti, Bengaluru",
+    "application_date": "2025-08-04T18:30:00.000Z",
+    "date": "2025-08-05T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 4,
+    "built_up_area": null,
+    "total_area": "836 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "location": "Gamanagatti",
+    "estimated_discount": "20",
+    "emd": 245000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40066,
+    "latitude": "15.385879900510805",
+    "longitude": "75.0833039450179",
+    "min_increment": null,
+    "reserve_price": 2450000,
+    "description": null,
+    "slug": "flat-in-laxmi-heights-gamanagatti-bengaluru",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752051273168!6m8!1m7!1sj6gDFUCT3xoY0jeKJ4ASjw!2m2!1d15.38631306859266!2d75.08316447015439!3f176.62650760224273!4f9.663338568424834!5f1.6731410421616824\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Smt Parvatadevi Mallikarjun Meti",
+    "amenities": "5 mins walk to Radhika Park | Just a 8 min drive to Metro Mall | 12 mins drive to Vihaan heart and super speciality hospital | ~11 mins drive to St Antony Public School",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Laxmi Heights - Best Price",
+    "seo_keyword": "Flat in Laxmi Heights, Gamanagatti, Bengaluru",
+    "title_h1": "Buy Flat in Laxmi Heights, Gamanagatti, Bengaluru",
+    "seo_description": "Discover your dream home: a comfortable flat in Laxmi Heights, Gamanagatti, Bengaluru. This property features spacious living areas and is located in a prime location. Call now to schedule a visit and secure this excellent opportunity before it's gone!",
+    "created_at": "2025-07-09T09:11:03.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-07-09T09:11:03.000Z",
+    "modified_by": null,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "Canara Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40066/1752052263449_laxmi.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40066/1752052263522_laxmi.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

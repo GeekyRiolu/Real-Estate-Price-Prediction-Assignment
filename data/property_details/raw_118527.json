@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118527,
+    "borrower_name": "Venkateswara Rao Mondru",
+    "bank_name": "Tata Capital Housing Finance Limited",
+    "address": "All That The Piece And Parcel Of Site In An Extent Of Sq. 145.2 Yards In R.S.No. 193/2, Situated At Nagavarappadu Village, Gudiwada Municipal Area And Gudiwada Mandal, Gudiwada Sub-Registry, Krishna District Standing On The Name Of Mrs Mondru Sunitha Vide Registered Sale Deed No.896/2017 And Bounded As Follows:- Boundaries:- East: Site Belongs To Ganta Nirmala Kumari Sft 42.6 South: House  and  Site Belongs To Arikipati Yesumma Sft 29.6 West: Municipal Road Sft 45.0 North: Site Belongs To Malireddy Vijaya Rami Reddy  and  Naidu Stt 30.0. Within The Boundaries An Extent Of Sq. 145.2 Yards Vacant Site Sq. 121.40 Mts Province/State : Andhra Pradesh City/Town : Krishna Area/Town : Gudivada",
+    "reserve_price": 1100000,
+    "dimensions": null,
+    "emd": 110000,
+    "possession": null,
+    "auction_date": "2025-03-11T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Gudivada",
+    "city": "Gudivada",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 54,
+    "state_id": 1,
+    "city_id": 83,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Mobile No :",
+    "ao_mobile": "9160005011",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

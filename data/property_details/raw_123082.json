@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123082,
+    "borrower_name": "Pardeep Light Decorator",
+    "bank_name": "SMFG India Home Finance Company Limited",
+    "address": "Description All That Property Bearing House Property Measuring 333 Sq. Yds. Comprised In Khasra No. 7/24-15-26-6//20-11-7//25-19//26-7//16-6//10 Khatta No. 55/55-56/56 \u03a4\u03bf 58-57/59-58/60-64/66 As Per Jamabandi For Year 2008-09 Situated At Village Baloke H.B. No.103, Abaddi Known As Sant Vihar Tehsil  and  Dist. Ludhiana, Boundaries Bounded Byasunder: East: Road Adm. 25'10  West: Neighbourer Adm. 44'0  North: Neigbhourer Adm. 98'0  South: Adm.35'+13'6 Curve Inside+71  Province/State : Punjab City/Town : Ludhiana Area/Town : Baloke",
+    "reserve_price": 3645000,
+    "dimensions": "333 Sq. Yds",
+    "emd": 364500,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Baloke",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 118,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 29,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479170",
+      "Branch Name": "Corporate Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

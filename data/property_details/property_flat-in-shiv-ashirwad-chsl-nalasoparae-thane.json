@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 25, 2nd Floor, Shiv Ashirwad CHSL, Nalasopara(E), Thane",
+    "name": "Flat in Shiv Ashirwad CHSL, Nalasopara(E), Thane",
+    "application_date": "2025-09-06T18:30:00.000Z",
+    "date": "2025-07-09T05:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 2,
+    "built_up_area": null,
+    "total_area": "N/A",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Nalasopara",
+    "estimated_discount": "20",
+    "emd": 206000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 30065,
+    "latitude": "19.42035497775461",
+    "longitude": "72.8252568875471",
+    "min_increment": null,
+    "reserve_price": 2059000,
+    "description": null,
+    "slug": "flat-in-shiv-ashirwad-chsl-nalasoparae-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1746771195949!6m8!1m7!1skleSEYaKZ3YZ27MXNvHWOw!2m2!1d19.42011229426712!2d72.82504682454281!3f20.78834039384052!4f27.584121520154724!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mrs Jhuma Subash Haldar",
+    "amenities": "Just a 2 min drive to Central Park Garden | Just a 4 min drive to The Capital Mall | Within 10 mins drive to Riddhi Vinayak Multispeciality Hospital",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat for Sale in Nalasopara(E) - Best Price",
+    "seo_keyword": "Flat in Shiv Ashirwad CHSL, Nalasopara(E), Thane",
+    "title_h1": "Buy Flat in Shiv Ashirwad CHSL, Nalasopara(E), Thane",
+    "seo_description": "Find a fantastic flat in Shiv Ashirwad CHSL, Nalasopara(E), Thane. This property offers great value. We provide a comfortable living space with excellent features. Call now to schedule a visit before it's too late and discover your dream home!",
+    "created_at": "2025-05-09T06:46:40.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-06-05T16:12:13.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Bank of India",
+    "price_drop": 229000,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/30065/1746771572497_flat-in-shiv-ashirwad-chsl-nalasoparae-thane.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/30065/1746771572647_flat-in-shiv-ashirwad-chsl-nalasoparae-thane.png"
+    ]
+  }
+}

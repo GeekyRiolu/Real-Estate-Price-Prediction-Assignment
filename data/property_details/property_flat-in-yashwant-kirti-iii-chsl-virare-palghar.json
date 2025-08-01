@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No C/003, Ground Floor, Building No 13, Yashwant Kirti-III CHSL, Virar(E), Palghar",
+    "name": "Flat in Yashwant Kirti-III CHSL, Virar(E), Palghar",
+    "application_date": "2025-08-11T18:30:00.000Z",
+    "date": "2025-08-12T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 59,
+    "built_up_area": null,
+    "total_area": "33 Sq.Mtr CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Virar",
+    "estimated_discount": "20",
+    "emd": 321000,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39923,
+    "latitude": "19.44401697923401",
+    "longitude": "72.8190261330636",
+    "min_increment": null,
+    "reserve_price": 3213000,
+    "description": null,
+    "slug": "flat-in-yashwant-kirti-iii-chsl-virare-palghar",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752043118706!6m8!1m7!1sNuSsVyfB9xU0dJByPJSVEw!2m2!1d19.44388672357539!2d72.8189671244675!3f189.32367223816559!4f11.982974278008726!5f1.1480164966890563\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Adbal Sunil Rajaram",
+    "amenities": "Just a 5 min walk to D-Mart | Just a 3 min drive to Riddhi Vinayak Multispeciality Hospital | Within 10 mins drive to Grand Galleria | Within 10 mins drive to Gurukul Excellence International School",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Yashwant Kirti-III CHSL, Call Now",
+    "seo_keyword": "Flat in Yashwant Kirti-III CHSL, Virar(E), Palghar",
+    "title_h1": "Buy Flat in Yashwant Kirti-III CHSL, Virar(E), Palghar",
+    "seo_description": "Purchase a comfortable flat in Yashwant Kirti-III CHSL, located in Virar(E), Palghar. This property offers convenient living with essential amenities. Don\u2019t miss out on this great opportunity; call now to schedule a visit and secure your dream home today!",
+    "created_at": "2025-07-08T20:36:18.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-09T06:42:52.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Saraswat Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39923/1752043372590_YASH.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39923/1752043372756_YASH.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

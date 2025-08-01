@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122619,
+    "borrower_name": "Ethalapaka Varaprasad",
+    "bank_name": "Nido Home Finance Limited",
+    "address": "Sl No 10 Of The Secured Asset: All That The Site Measuring 53 Sq. Yds Or 44.31 Sq.Mtrs Together With Rcc House Groung Floor, First Floor And Second Floor, Situated At Thatichetlapalem, Covered Survey No 21/20 Of Dondaparthi Vill Vishakhapatnam. Total Property Bounded By East: House Belongs To Akula Chinatali South: Road West: Property Of P.Pydithalli North: Property Of Jeeru Govinda Raju. Out Of Which An Undivided And Unspecified Share Of 17.66 Sq. Yds Or 14.76 Sqmtrs Being Undivied And Unspecified Share Out Of 53 Sq. Yds Or 44.31 Sq.Mts Together With Entire First Floor Measuring 475 Sft(Including Common Area) Door No 44-5-46/1, S. No 21/20, Assmt No 1086207438, At Thatichetlapalem Area Dondaparthi Vill Vishakhapatnam 530016 The Said Flat Is Bounded As: North: Common Corridor South: Open To Sky East: Open To Sky West: Open To Sky. Province/State : Andhra Pradesh City/Town : Visakhapatnam Area/Town : Dondaparthy",
+    "reserve_price": 1964582,
+    "dimensions": "53 Sq. Yds",
+    "emd": 196458,
+    "possession": null,
+    "auction_date": "2025-05-05T18:30:00.000Z",
+    "application_deadline": "2025-05-03T18:30:00.000Z",
+    "locality": "Dondaparthy",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": 530016,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 46,
+    "state_id": 1,
+    "city_id": 285,
+    "property_type_id": 29,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478515",
+      "Branch Name": "Regd.Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

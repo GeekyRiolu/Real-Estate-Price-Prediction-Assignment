@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No C-2/502, Floor 5, Shree Eklingji Residency-2, Near Baliyadev Temple Road, Sanand, Ahmedabad",
+    "name": "Residential Flat in Shree Eklingji Residency-2, Sanand, Ahmedabad",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": "90 Sq.mtrs",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "location": "Sanand",
+    "estimated_discount": "20",
+    "emd": 260000,
+    "market_value": 3120000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39569,
+    "latitude": "22.9942172",
+    "longitude": "72.3901204",
+    "min_increment": null,
+    "reserve_price": 2600000,
+    "description": null,
+    "slug": "Residential-Flat-in-Shree-Eklingji-Residency-2-Sanand",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751976849960!6m8!1m7!1sGBMSYqUup15Kdib-53ItLA!2m2!1d22.9942558091007!2d72.38982538861515!3f11.34731672242966!4f8.776000111858949!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical Posession",
+    "borrower_name": "Sanjiv Shyam Samuel",
+    "amenities": "~9 mins walk to JK Multispeciality Hospital | Just a 2 min drive to Shanker vadi sanand | Just a 2 min drive to Galaxy orthopaedic and multispeciality hospital | Just a 3 min drive to Sanand Janta Multispeciality Hospital | Within 10 mins drive to Apple Global School Ahmedabad",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Sanand - Best Price",
+    "seo_keyword": "Residential Flat in Shree Eklingji Residency-2, Sanand, Ahmedabad",
+    "title_h1": "Buy Residential Flat in Shree Eklingji Residency-2, Sanand, Ahmedabad",
+    "seo_description": "Discover a fantastic Residential Flat for sale in Shree Eklingji Residency-2, Sanand, Ahmedabad. This property offers great value. Act now to secure your dream home. Call now to schedule a visit and don't miss out on this opportunity!",
+    "created_at": "2025-07-07T00:09:51.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-08T12:15:52.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39569/1751976952035_Screenshot 2025-07-08 174331.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39569/1751976952123_Screenshot 2025-07-08 174331.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118716,
+    "borrower_name": "Mr. Sahil Jagdishbhai Chauhan",
+    "bank_name": "Punjab National Bank",
+    "address": "Lot No 8, Registration Dist. Vadodara, Sub-Dist. Vadodara, Mouje Manjalpur, Land Bearing Rs No. 250 Paiki 2, 250 Paiki 3, Tp No. 29, F.P. No.-135, Flat No. A/405, 4th Floor, Tower-A, 5Th Avenue, Manjalpur, Vadodara",
+    "reserve_price": 2729000,
+    "dimensions": "BUA- 46.58 Sq. Mts., Balcony- 2.88 Sq. Mtrs. , Land- 4349.82 Sq. Mtrs.",
+    "emd": 272900,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Manjalpur",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=22.2726436, 73.1877854",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Mr. Choudhary Imran Khan",
+    "ao_mobile": "9983540480",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

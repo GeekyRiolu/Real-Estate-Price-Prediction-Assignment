@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118727,
+    "borrower_name": "Ashok Vallabhbhai Somani",
+    "bank_name": "Nido Home Finance Limited",
+    "address": "Sub Plot No. 46 to 52/1 to 52/1 to 11/1, Swastik Villa, Rajkot Revenue Survey No. 139 Paiki, T. P. Scheme No. 18 (Draft), F. P. No. 48/1, City Survey No. 3651/B/58/1, Rajkot City, Rajkot.",
+    "reserve_price": 2226100,
+    "dimensions": "42-14 Sq. Mtrs. I.E. 50-40 Sq. Yards",
+    "emd": 222610,
+    "possession": null,
+    "auction_date": "2025-03-24T18:30:00.000Z",
+    "application_deadline": "2025-03-22T18:30:00.000Z",
+    "locality": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=22.3379815, 70.81921",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 46,
+    "state_id": 7,
+    "city_id": 1160,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

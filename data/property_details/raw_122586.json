@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122586,
+    "borrower_name": "Viji Vijayan Pillai",
+    "bank_name": "Indian Bank",
+    "address": "All That Piece And Parcel Of Residential Flat No. 2801 At 28Th Floor In Building No 6G Building Known As Indiabulls Greens, Rasayani Road, Sector 3, Village Kon, Taluka Panvel, District Raigad 410221. Property Id No. Idibviji Province/State : Maharashtra City/Town : Raigad Area/Town : Panvel",
+    "reserve_price": 4884000,
+    "dimensions": "",
+    "emd": 488400,
+    "possession": null,
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Panvel",
+    "city": "Raigad",
+    "state": "Maharashtra",
+    "pincode": 410221,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 6,
+    "state_id": 14,
+    "city_id": 3353,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477493",
+      "Branch Name": "Zonal Office : Recovery Dept : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

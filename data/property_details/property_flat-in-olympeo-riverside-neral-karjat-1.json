@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 102, 1st Floor, B Wing, Building No 2b, Olympeo Riverside, Neral, Karjat",
+    "name": "Flat in Olympeo Riverside, Neral, Karjat",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 13,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Karjat",
+    "state": "Maharashtra",
+    "location": "Neral",
+    "estimated_discount": "20",
+    "emd": 271320,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39391,
+    "latitude": "19.072705207870385",
+    "longitude": "73.33059303844863",
+    "min_increment": null,
+    "reserve_price": 2713200,
+    "description": null,
+    "slug": "flat-in-olympeo-riverside-neral-karjat-1",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "KAVITA NEHRA",
+    "amenities": "Within 10 mins drive to Matheran Valley School | 10 mins drive to Shree Hospital | 10 min drive to ShreeG Square Mall",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Olympeo Riverside - Best Price",
+    "seo_keyword": "Flat in Olympeo Riverside, Neral, Karjat",
+    "title_h1": "Buy Flat in Olympeo Riverside, Neral, Karjat",
+    "seo_description": "Discover a beautiful flat in Olympeo Riverside, Neral, Karjat. This property offers modern living with excellent amenities. View this property today. Call now to schedule a visit before it's gone and explore your new home. Call now!",
+    "created_at": "2025-07-05T12:15:19.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-09T07:31:14.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Axis Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39391/1751954270399_unnamed (31).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39391/1751954270534_unnamed (31).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

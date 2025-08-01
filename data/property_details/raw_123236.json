@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123236,
+    "borrower_name": "Mr. Sanjana Lagumavarapu",
+    "bank_name": "ICICI Bank",
+    "address": "Description All That The Flat No. G-25, Ground Floor, Venkatadhri Heights, Block-E, Admeasuring 1100 Sft Of Plinth Area (Including Common Area) And Car Parking, With Undivided Share Of Land Admeasuring 31 Sqyds, Or 25.91 Sq.Mtrs Out Of Total Land Admeasuring Ac.4-31 Gts In Sy No. 754  and  755, Situated At Korremula Village, Chowdhariguda Gram Panchayathi, Ghatkesar Mandal, Medchal-Malkajgiri District, Under S.R.O. Narapally And Bounded By East: Corridor South: Open To Sky, West: Open To Sky North: Open To Sky Province/State : Telangana City/Town : Hyderabad Area/Town : Ghatkesar",
+    "reserve_price": 3900000,
+    "dimensions": "31 Sqyds",
+    "emd": 390000,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Ghatkesar",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 24,
+    "city_id": 3286,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472620",
+      "Branch Name": "Branch Office: Hyderabad"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

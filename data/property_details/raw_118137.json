@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118137,
+    "borrower_name": "Mr. Adhik Ramchandra Desal",
+    "bank_name": "Union Bank of India",
+    "address": "Residential Flat having built area 355 sq.ft and bearing Flat Number 8, Ground Floor, Wing B. Shree Saibaba Co-op Housing Society, Near Old Matoshree School, Sunita Colony, Vijay Nagar, Village-Tisgaon, Kalyan East, District: Thane-421306 Province/State :  Maharashtra City/Town :  Thane Area/Town :  Kalyan",
+    "reserve_price": 1101600,
+    "dimensions": "355 sq.ft",
+    "emd": 110160,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Kalyan",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421306,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

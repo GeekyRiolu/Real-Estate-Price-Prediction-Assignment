@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "21630000001881",
+    "address": "Flat No 508, 5th Floor, Shiv Palace, Aradhna Green Land Part 2, Haldharu, Surat",
+    "name": "Residential Flat in Shiv Palace, Aradhna Green Land Part 2, Haldharu, Surat",
+    "application_date": "2025-09-07T18:30:00.000Z",
+    "date": "2025-09-09T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "28.25 Sq Mtrs BUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Haldharu",
+    "estimated_discount": "20",
+    "emd": 51000,
+    "market_value": 800000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47162,
+    "latitude": "21.178984263740176",
+    "longitude": "73.02725473884247",
+    "min_increment": null,
+    "reserve_price": 510000,
+    "description": null,
+    "slug": "residential-flat-in-shiv-palace-aradhna-green-land-part-2-haldharu-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "Mishra Hitendrakumar Kailashnath",
+    "amenities": "Near Surat Public School | Nearby Krishna Multispeciality Hospital & I.C.U | Close by VARNI FARM | Nearby Signature square",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Surat \u2013 Best Price",
+    "seo_keyword": "Residential Flat in Shiv Palace, Aradhna Green Land Part 2, Haldharu, Surat",
+    "title_h1": "Buy Residential Flat in Shiv Palace for Sale in Surat",
+    "seo_description": "Find a beautiful residential flat in Shiv Palace, Aradhna Green Land Part 2, Surat. The property offers comfortable living with great features. Contact us now to learn more about this fantastic investment opportunity and schedule your visit. Call now to schedule a visit.",
+    "created_at": "2025-07-30T22:02:47.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T07:11:15.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47162/1753945875699_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47162/1753945875699_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

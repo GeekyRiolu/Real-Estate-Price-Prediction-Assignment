@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Property No. 131, Block-A, Sector-55, Noida",
+    "name": "Independent House in Sector-55, Noida",
+    "application_date": "2025-09-16T18:30:00.000Z",
+    "date": "2025-09-17T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 69,
+    "built_up_area": null,
+    "total_area": "375 Sq.Mtr",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "location": "Sector-55",
+    "estimated_discount": "20",
+    "emd": 6800000,
+    "market_value": 100000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 44839,
+    "latitude": "28.60627318190098",
+    "longitude": "77.34729392035584",
+    "min_increment": null,
+    "reserve_price": 68000000,
+    "description": null,
+    "slug": "independent-house-in-sector-55-noida",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Ekdant India Ltd",
+    "amenities": "5 min ride to Modi Mall | 8 min ride to Sector-59 Metro Station | Within 10 mins drive to Bal Bharati Public School | Within 10 mins drive to Fortis Hospital",
+    "nearby_locations": null,
+    "seo_title": "Independent House for sale in Sector-55, Noida - Best Price",
+    "seo_keyword": "Independent House in Sector-55, Noida",
+    "title_h1": "Buy Independent House in Sector-55, Noida",
+    "seo_description": "Explore this Independent House in Sector-55, Noida. This property offers comfortable living with great features. The house features spacious rooms and a convenient location. Call now to schedule a visit and make this property yours before it's gone. Don't miss out!",
+    "created_at": "2025-07-23T07:11:15.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-07-23T09:19:08.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Debt Recovery Tribunal",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "video": [
+      "https://hecta-website.s3.amazonaws.com/property/44839/1753262591515_WhatsApp Video 2025-07-23 at 14.52.18_a7d24f2f.mp4"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/44839/1753262348175_WhatsApp Image 2025-07-23 at 14.41.03_b222ea4b.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/44839/1753262348175_WhatsApp Image 2025-07-23 at 14.41.05_c46d342f.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/44839/1753262348175_WhatsApp Image 2025-07-23 at 14.41.02_e707baf0.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/44839/1753262348175_WhatsApp Image 2025-07-23 at 14.41.03_b222ea4b.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 158, 4th Floor, Pocket-D Sector B-2, Narela, New Delhi",
+    "name": "Residential Flat in Pocket-D Sector B-2, Narela, New Delhi",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "location": "Narela",
+    "estimated_discount": "20",
+    "emd": 115300,
+    "market_value": 1383600,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46246,
+    "latitude": "28.8398681",
+    "longitude": "77.11287589999999",
+    "min_increment": null,
+    "reserve_price": 1153000,
+    "description": null,
+    "slug": "residential-flat-in-pocket-d-sector-b-2-narela-new-delhi",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical Posession",
+    "borrower_name": "Ms. Sharanjeet Kaur",
+    "amenities": "Just a 3 min drive to Smriti Van Park | Just a 3 min drive to Nishtha Speciality Hospital | Just a 4 min drive to Kasturi Ram International School Delhi | Within 10 mins drive to Kessel Grand Mall | Just a 4 min drive to MSP Mall, Narela",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Narela \u2013 Best Price!",
+    "seo_keyword": "Residential Flat in Pocket-D Sector B-2, Narela, New Delhi",
+    "title_h1": "Buy Residential Flat in Pocket-D Sector B-2, Narela, New Delhi",
+    "seo_description": "Find a comfortable Residential Flat for sale in Pocket-D Sector B-2, Narela, New Delhi. This property offers convenient access and good value. Act fast and secure your dream home. Call now to schedule a visit and seize this opportunity before it's gone!",
+    "created_at": "2025-07-26T09:01:56.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T09:19:37.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46246/1753679866781_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46246/1753679866781_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

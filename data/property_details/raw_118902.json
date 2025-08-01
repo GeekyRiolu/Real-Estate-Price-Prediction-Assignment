@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118902,
+    "borrower_name": "Mr.Lalit Raijibhai Solanki",
+    "bank_name": "Bank of Baroda",
+    "address": "Flat No. 401, 4th Floor, Shubham Flats, Survey No. 96  and  94,  Behind Khanderao Market, Shiyabaug, Babajipura, Vadodara.",
+    "reserve_price": 810000,
+    "dimensions": null,
+    "emd": 81000,
+    "possession": "Physical",
+    "auction_date": "2025-03-05T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Babajipura",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=22.2938635, 73.1961734",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Laheripura Mobile No :",
+    "ao_mobile": "8980010573",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

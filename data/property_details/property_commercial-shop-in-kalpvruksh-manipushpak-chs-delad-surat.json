@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No 2, Ground Floor, Kalpvruksh Of Manipushpak Chs, Block No. 124, Delad, Olpad, Surat",
+    "name": "Commercial Shop in Kalpvruksh Manipushpak Chs, Delad, Surat",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-19T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "38.01 Sq.Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Olpad",
+    "estimated_discount": "20",
+    "emd": 82000,
+    "market_value": 984000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40004,
+    "latitude": "21.3074934",
+    "longitude": "72.86707179999999",
+    "min_increment": null,
+    "reserve_price": 820000,
+    "description": null,
+    "slug": "commercial-shop-in-kalpvruksh-manipushpak-chs-delad-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "Randerwala Hiteshkumar Jayantilal",
+    "amenities": "Nearby State Bank of India SAYAN | Near GAUTAM DHIRAJLAL BHA | Close by Bank of Baroda ATM | Close to EKTA MOTORS GARAGE | Close to Center Point, Delad",
+    "nearby_locations": null,
+    "seo_title": "Commercial Shop for sale in Surat - Best Price",
+    "seo_keyword": "Commercial Shop in Kalpvruksh Manipushpak Chs, Delad, Surat",
+    "title_h1": "Buy Commercial Shop for sale in Kalpvruksh Manipushpak Chs, Delad, Surat",
+    "seo_description": "Discover a prime commercial shop in Kalpvruksh Manipushpak Chs, Delad, Surat. This shop offers an excellent investment opportunity for your business needs. Secure your space today. Call now to schedule a visit and explore the potential.",
+    "created_at": "2025-07-08T22:21:05.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-09T12:26:27.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40004/1752063987227_Shop.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40004/1752063987323_Shop.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

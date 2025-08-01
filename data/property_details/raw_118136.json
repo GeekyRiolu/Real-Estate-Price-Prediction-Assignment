@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118136,
+    "borrower_name": "Mr. Anthony Das Micheal Nadar",
+    "bank_name": "Union Bank of India",
+    "address": "Flat No. 302, admeasuring 892 sq. ft. built up area on the 3rd Floor Rosary Apartment S. No. 166 A, Hissa No.14 (part), Plot No. 10, City No. 57, Khuntavali, Ambernath West Dist. Thane Province/State :  Maharashtra City/Town :  Thane Area/Town :  Ambarnath",
+    "reserve_price": 3070710,
+    "dimensions": "892 sq. ft",
+    "emd": 307071,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Ambernath",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118419,
+    "borrower_name": "M/S. Sai Nikhil Constructions",
+    "bank_name": "State Bank of India",
+    "address": "Plot No 16, Triplex Villa Of  SRM Sukruthi , First, Second Floors, RS No 123/1, Gunadala, Vijayawada.",
+    "reserve_price": 14000000,
+    "dimensions": "2700 sq ft, 193.88 sq yards",
+    "emd": 1400000,
+    "possession": null,
+    "auction_date": "2025-03-25T18:30:00.000Z",
+    "application_deadline": "2025-03-23T18:30:00.000Z",
+    "locality": "Gunadala",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=16.5322375, 80.6758281",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 10,
+    "state_id": 1,
+    "city_id": 282,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Authorised Officer Mobile No:    Recovery Agency: MS. Sarah Associates Contact :",
+    "ao_mobile": "95151 / 15565 / 98491 / 89726",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

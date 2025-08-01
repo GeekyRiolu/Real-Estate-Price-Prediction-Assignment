@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122665,
+    "borrower_name": "M/S Vamsadhara Ginning  and  Pressing Industries",
+    "bank_name": "Union Bank of India",
+    "address": "Property 11: Schedule A: Guntur District, Tenali Sro, Tenali Municipality Limits, A Residential Building With Stilt, Ground, First, Second, Third, And Fourth Floors Under The Name And Style As  Srinivasam Hills , Situated In An Extent Of 4689.44 Sq. Yds In D.No.501/1 Of Tenali Rev Village And Bounded By: East: 183.6 Ft. Site In Plot Nos. 987.; South: 230 Ft. Site Of Vemuri Seshagiri Rao.; West: 183.6 Ft. Site In Plot No. 13; North: 230Ft. Road, Width 40Ft. Schedule B: An Undivided And Unspecified Share, Admeasuring 45.43 Sq. Yds In Total Extent Of 4689.44 Sq Yds Along With A Flat Therein, Bearing No.202(Block 2), Located In The First Floor Of The Residential Apartment Under The Name And Style As  Srinivasam Hills(A Schedule), With Plinth Area Of 1012 Sq. Ft. Including Common Area, Easement Rights And Covered Car Parking Area, With A Plinth Area Of 100 Sq. Ft. Which Is Allotted In The Stilt Floor Of  A  Schedule, Belongs To Mr. Ravi Bhagat Dutt And Bounded By: East: Open To Sky; South: Open To Sky; West: Open To Sky; North: Open To Sky  and  Staircase. Province/State : Andhra Pradesh City/Town : Guntur Area/Town : Tenali",
+    "reserve_price": 1324000,
+    "dimensions": "4689.44 Sq. Yds",
+    "emd": 132400,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Tenali",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479388",
+      "Branch Name": "Asset Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

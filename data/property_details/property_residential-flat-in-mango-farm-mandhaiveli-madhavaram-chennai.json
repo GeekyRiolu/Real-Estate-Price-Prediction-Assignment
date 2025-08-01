@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No F2, First Floor, Mango Farm, M.Gr. Street, Sakthivel Nagar, Mandhaiveli, Madhavaram, Chennai",
+    "name": "Residential Flat in Mango Farm, Mandhaiveli, Madhavaram, Chennai",
+    "application_date": "2025-09-09T18:30:00.000Z",
+    "date": "2025-09-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 46,
+    "built_up_area": null,
+    "total_area": "813 SFT SBA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "location": "Sakthivel Nagar",
+    "estimated_discount": "20",
+    "emd": 471540,
+    "market_value": 5658480,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47033,
+    "latitude": "13.1701158",
+    "longitude": "80.2049409",
+    "min_increment": null,
+    "reserve_price": 4715400,
+    "description": null,
+    "slug": "residential-flat-in-mango-farm-mandhaiveli-madhavaram-chennai",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753874207736!6m8!1m7!1sw6osSWqTI_2yiYTWkBPb_w!2m2!1d13.15550261141279!2d80.23173263501887!3f40.02794854291046!4f2.070002874393964!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic Possession",
+    "borrower_name": "P BALUSAMY",
+    "amenities": "~7 mins walk to Dr Agarwals Eye Hospital | ~7 mins walk to MMM Tower-East Kavangarai | ~8 mins walk to Amma Park -East Kavangarai | Within 10 mins drive to Velammal Vidyashram CBSE | Within 10 mins drive to Collector Nagar Park | Within 10 mins drive to Mizan Multispeciality Hospital",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Chennai \u2013 Best Price!",
+    "seo_keyword": "Residential Flat in Mango Farm, Mandhaiveli, Madhavaram, Chennai",
+    "title_h1": "Buy Residential Flat in Mango Farm, Mandhaiveli, Madhavaram, Chennai",
+    "seo_description": "Explore this Residential Flat for sale in Mango Farm, Mandhaiveli, Madhavaram, Chennai. This property offers a comfortable living space. Discover the features and amenities of this flat. Call now to schedule a visit and make it yours before it's gone!",
+    "created_at": "2025-07-29T23:43:26.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T11:19:10.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Nido Home Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47033/1753874350350_Screenshot 2025-07-30 164616.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47033/1753874350350_Screenshot 2025-07-30 164616.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

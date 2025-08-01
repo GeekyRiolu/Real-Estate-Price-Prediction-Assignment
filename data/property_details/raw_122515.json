@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122515,
+    "borrower_name": "Mr Hariharan N",
+    "bank_name": "HDFC Bank",
+    "address": "700/10,000 Undivided Share Over 4.33 Ares Of Land In Sy No.386/2 Part, Re Sy Block No.9, Re Sy No.229/2 Part Of Puranattukara Village Thrissur Taluk, Thrissur District And Apartment No.C-2 Admeasuring 65.06 Sq Mts On The Ground Floor Of The Multistoreyed Apartment Called Green Apartments Situated At Kavitha Gardens, Puranattukara, Thrissur And Right To Car Parking And All Rights And Easements Appurtenant To It Covered By Sale Deed No.2093/2018 Of Ayyanthole Sro Boundaries-East: Property Of Kuriyakkott Sudhakaran. North: Private Road  and  Property Of Chembil Saraswathy  and  Others. West: Property Of Arpookkara Thekke Variyath Ambika. South: Property Of Arpookkara Thekke Variyath Ambika Province/State : Kerala City/Town : Thrissur Area/Town : Puranattukara",
+    "reserve_price": 1800000,
+    "dimensions": "",
+    "emd": 180000,
+    "possession": null,
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Puranattukara",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471863",
+      "Branch Name": "Kochi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

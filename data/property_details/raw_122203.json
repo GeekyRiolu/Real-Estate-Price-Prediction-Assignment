@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122203,
+    "borrower_name": "Arvindb Hai Kurjibhai Sojitra",
+    "bank_name": "Kotak Mahindra Bank",
+    "address": "Matru Krupa , 1St Floor, Sub Plot No. 4 To 6/4, Raj Laxmi Avenue Part-B, Street No.1, Nr- Morbi Road Railway Crossing, Morbi Road, Rajkot, Gujarat - 360003. Type Of Possession:-Physical Province/State : Gujarat City/Town : Rajkot Area/Town : Morbi",
+    "reserve_price": 1447400,
+    "dimensions": "",
+    "emd": 144740,
+    "possession": "Physical",
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Morbi",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": 360003,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 21,
+    "state_id": 7,
+    "city_id": 1160,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "462346",
+      "Branch Name": "Regional Office : Ahmedabad"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

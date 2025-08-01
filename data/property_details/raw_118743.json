@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118743,
+    "borrower_name": "M/S. Shubham Enterprises",
+    "bank_name": "Bank of Baroda",
+    "address": "16) Jalaram Apartment, Flat No. 8/202, First Floor, Survey No. 1189/1, New Survey No. 477, Mauje Hami, Vadodara",
+    "reserve_price": 1655000,
+    "dimensions": "BUA 65.77 Sq.Mtrs.",
+    "emd": 165500,
+    "possession": null,
+    "auction_date": "2025-03-24T18:30:00.000Z",
+    "application_deadline": "2025-03-22T18:30:00.000Z",
+    "locality": "Vadodara",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=22.3071588, 73.1812187",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Alkapuri (E.Dena) Branch Mob:",
+    "ao_mobile": "9152940749",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

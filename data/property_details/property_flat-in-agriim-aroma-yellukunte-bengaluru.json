@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 306, 3rd Floor, Agriim Aroma, Yellukunte, Bengaluru",
+    "name": "Flat in Agriim Aroma, Yellukunte, Bengaluru",
+    "application_date": "2025-09-01T18:30:00.000Z",
+    "date": "2025-09-02T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 31,
+    "built_up_area": null,
+    "total_area": "1,170 SFT SBA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "location": "Yellukunte",
+    "estimated_discount": "20",
+    "emd": 610000,
+    "market_value": 8000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47180,
+    "latitude": "12.90146797040466",
+    "longitude": "77.6347998408932",
+    "min_increment": null,
+    "reserve_price": 6100000,
+    "description": null,
+    "slug": "flat-in-agriim-aroma-yellukunte-bengaluru",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "Symbolic",
+    "borrower_name": "Mr. Brojendro Singh KSH",
+    "amenities": "Along with UDS-407 SFT | Near by D-Mart | Close to KLM Fashion Mall | Near by Nano Hospitals",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Agriim Aroma, Yellukunte - Best Price",
+    "seo_keyword": "Flat in Agriim Aroma, Yellukunte, Bengaluru",
+    "title_h1": "Buy Flat in Agriim Aroma, Yellukunte, Bengaluru",
+    "seo_description": "Purchase a fantastic flat in Agriim Aroma, Yellukunte, Bengaluru. This property offers excellent features and a prime location. Explore your dream home now before it is too late. Call now to schedule a visit and secure your property today!",
+    "created_at": "2025-07-30T22:13:30.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T05:22:31.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47180/1753939351329_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47180/1753939351329_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

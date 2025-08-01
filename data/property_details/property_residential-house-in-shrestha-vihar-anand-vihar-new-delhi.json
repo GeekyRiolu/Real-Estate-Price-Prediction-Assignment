@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No 29, Shrestha Vihar, Anand Vihar, New Delhi",
+    "name": "Residential House in Shrestha Vihar, Anand Vihar, New Delhi",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-06T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 31,
+    "built_up_area": null,
+    "total_area": "190 Sq.Yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "location": "Anand Vihar",
+    "estimated_discount": "20",
+    "emd": 7270000,
+    "market_value": 87240000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38341,
+    "latitude": "28.65824332974273",
+    "longitude": "77.31909179836991",
+    "min_increment": null,
+    "reserve_price": 72700000,
+    "description": null,
+    "slug": "residential-house-in-shrestha-vihar-anand-vihar-new-delhi",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "ANURAG SHARMA",
+    "amenities": "Close to GD Goenka Public School - Best School in East Delhi | Close by Bal Bharati Public School\u2013Brij Vihar | Close by Max Super Speciality Hospital, Vaishali | Near Max Super Speciality Hospital, Patparganj",
+    "nearby_locations": null,
+    "seo_title": "Residential House for sale in New Delhi - Best Price",
+    "seo_keyword": "Residential House in Shrestha Vihar, Anand Vihar, New Delhi",
+    "title_h1": "Buy Residential House in Shrestha Vihar, Anand Vihar, New Delhi",
+    "seo_description": "Discover the perfect Residential House in Shrestha Vihar, Anand Vihar, New Delhi. This property features great potential and is available for sale. Seize the opportunity and call now to schedule a visit before it's gone. Don't miss out!",
+    "created_at": "2025-07-01T21:34:18.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-02T07:27:51.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38341/1751441271220_House1.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38341/1751441271308_House1.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

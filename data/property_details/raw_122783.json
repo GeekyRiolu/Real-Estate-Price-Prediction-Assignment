@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122783,
+    "borrower_name": "Anil Pundlik Jadhav",
+    "bank_name": "Aadhar Housing Finance Ltd",
+    "address": "Description All That Part  and  Parcel Of Property Bearing, S No. 163 \u0397 No. 9 F No.5 Ground Floor B Wing Aai Saheb Nagri Nr Shree Poetry Farm Nr Daya Patil Chawl Kongaon Village Road Kongaon, Thane, Maharashtra, 421311 Boundaries: East-Open Space, West- Open Space, North-Open Space, South-Open Space Province/State : Maharashtra City/Town : Thane Area/Town : Kongaon",
+    "reserve_price": 545400,
+    "dimensions": "",
+    "emd": 54540,
+    "possession": null,
+    "auction_date": "2025-04-17T18:30:00.000Z",
+    "application_deadline": "2025-04-15T18:30:00.000Z",
+    "locality": "Kongaon",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421311,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 156,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479247",
+      "Branch Name": "Corporate Office, Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

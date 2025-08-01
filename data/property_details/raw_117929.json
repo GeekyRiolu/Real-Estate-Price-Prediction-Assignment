@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 117929,
+    "borrower_name": "Mr Amrik Singh",
+    "bank_name": "Union Bank of India",
+    "address": "Security: Residentia  belonging to Mr. Amrik Singh(Owner of the Property), Situated at House No. 82, Jhampur Tehsil  and  Distt. SAS Nagar, Measuring 76 Sq. yards area comprised in Khata No. 258/292, Khasra No. 25//5(8-0)'s 5/320 share measuring 0-2.1/2 Marlas, Hadbast No. 22, Tehsil  and  Distt. SAS Nagar, Mohali and bounded by: East : 20 Wide Rasta, West: Plot of Sh. Sukhdev Singh, North Plot of Sh. Sukhdev Singh, South: Plot of Sh. Sukhdev Singh. (Type of Possession: Symbolic Possession) Province/State :  Punjab City/Town :  SAS Nagar Area/Town :  Jhampur.",
+    "reserve_price": 1150000,
+    "dimensions": "76 Sq. yards",
+    "emd": 115000,
+    "possession": "Symbolic",
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Sas Nagar",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 20,
+    "city_id": 3431,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

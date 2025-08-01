@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122502,
+    "borrower_name": "Mr Pranav Associates",
+    "bank_name": "DCB Bank",
+    "address": "All The Piece And Parcel Of Property Bearing Municipal Assessment No. 1421/1365-1366 (Old No. 964/803) Situated At Chandramoulishwara Road, Kr Nagar Town, Mysuru. Measuring East To West 40 Feet  and  North To South 100 Feet Bounded On The: East By: Property Of Ys Jagadish Westby:Property Of Sn. Jagadguru Yoganandeshwara Matta, North By Chandramouliswara Road, South By : Conservancy Province/State : Karnataka City/Town : Mysuru Area/Town : Kr Nagar",
+    "reserve_price": 10250000,
+    "dimensions": "",
+    "emd": 1025000,
+    "possession": null,
+    "auction_date": "2025-04-01T18:30:00.000Z",
+    "application_deadline": "2025-03-30T18:30:00.000Z",
+    "locality": "Kr Nagar",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 155,
+    "state_id": 11,
+    "city_id": 3539,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472929",
+      "Branch Name": "Benguluru"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

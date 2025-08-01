@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 120036,
+    "borrower_name": "Divya Sardhara",
+    "bank_name": "ICICI Home Finance",
+    "address": "Property Is Situated At Plot No 20,21,22 And 23, Natural City, Khasra No 360/1, 360/2,360/3, P.H.No 60, Ward No 63, Shyama Prasad Mukarjee Ward, Gram Batangan, Tehsil And District Raipur, Cg. 493222",
+    "reserve_price": 44550000,
+    "dimensions": "Land 5500 Sq.Ft, Built Up 11000",
+    "emd": 4455000,
+    "possession": null,
+    "auction_date": "2025-03-17T18:30:00.000Z",
+    "application_deadline": "2025-03-15T18:30:00.000Z",
+    "locality": "Raipur",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "pincode": 493222,
+    "latlong": "maps.google.com/maps?q=21.213833,81.614917",
+    "property_type": "Residential House/Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 40,
+    "state_id": 5,
+    "city_id": 833,
+    "property_type_id": 3,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": "Raipur",
+      "REGION": "Mpcg",
+      "Property Webside Link": "",
+      "Latest Inspection Date  and  Time of Property": "11Th Mar,'25 11Am - 3Pm"
+    },
+    "ao_name": "Vishal Kakkar",
+    "ao_mobile": "9981313000",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Property No. 31/61, Ground,1st, 2nd Floor, 2nd Main Road, Vyalikaval, Bengaluru",
+    "name": "Independent House in Vyalikaval, Bengaluru",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-29T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 135,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Independent House",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "location": "Vyalikaval",
+    "estimated_discount": "20",
+    "emd": 10404500,
+    "market_value": 124854000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46431,
+    "latitude": "13.004048",
+    "longitude": "77.57556199999999",
+    "min_increment": null,
+    "reserve_price": 104045000,
+    "description": null,
+    "slug": "independent-house-in-vyalikaval-bengaluru",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 29,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "MR. AMPALLI CHANGAMRAJU TYAGARAJU @ MR. A C TYAGARAJU",
+    "amenities": "Close to Apollo Hospital Seshadripuram | Near Manipal Hospital Yeshwanthpur | Nearby Venkat International Public School | Close by Indira Gandhi Musical Fountain Park",
+    "nearby_locations": null,
+    "seo_title": "Independent House for sale in Vyalikaval - Best Price",
+    "seo_keyword": "Independent House in Vyalikaval, Bengaluru",
+    "title_h1": "Buy Independent House in Vyalikaval, Bengaluru",
+    "seo_description": "Find a beautiful Independent House for sale in Vyalikaval, Bengaluru. The property features a spacious layout and desirable location. You can explore the neighborhood, assess the property value, and find your dream home. Call now to schedule a visit and seize this opportunity before it\u2019s gone!",
+    "created_at": "2025-07-26T21:56:53.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T10:05:59.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "SMFG India Credit Company",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46431/1753783559180_House3.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46431/1753783559180_House3.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

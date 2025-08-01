@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118335,
+    "borrower_name": "Shri Surendra Singh",
+    "bank_name": "Punjab National Bank",
+    "address": "Flat no. 20, G-2, Ground Floor, Plot No. B-1/111, Dilshand Garden Extn. II, Bhopura, Ghaziabad",
+    "reserve_price": 1258000,
+    "dimensions": "37.16 sq Mtrs",
+    "emd": 125800,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Bhopura",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": 201005,
+    "latlong": "maps.google.com/maps?q=28.6820286, 77.3230984",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 26,
+    "city_id": 3280,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

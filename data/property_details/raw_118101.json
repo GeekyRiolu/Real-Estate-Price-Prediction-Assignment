@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118101,
+    "borrower_name": "M/S. Mahavir Cashew Industries",
+    "bank_name": "Union Bank of India",
+    "address": "c) All that piece and parcel of residential Flat, Comprising of Flat No. B  203  and  B 204, in the building Sahyadri Tower CHSL, near Poddar School, Chincholi Road, upper Govind Nagar, Malad East, Mumbal 400097, admeasuring Carpet Area for Flat-B-203 549 Sq. ft.  and  Fiat B-204 524 Sq. ft. totalling to 1073 Sq.  Province/State :  Maharashtra City/Town :  Mumbai Area/Town :  Malad East",
+    "reserve_price": 25828000,
+    "dimensions": "549 Sq. ft",
+    "emd": 2582800,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Malad",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": 400097,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 3743,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

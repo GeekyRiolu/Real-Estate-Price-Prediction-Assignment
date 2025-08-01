@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No S-1, Second Floor, Flat No F-1, First Floor, Commercial Basement Floor, Ground Floor, Plot No 16, Sector 5, Tha, Rajendra Nagar, Ghaziabad",
+    "name": "Residential Flat in Sector 5, Tha, Rajendra Nagar, Ghaziabad",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-12T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 63,
+    "built_up_area": null,
+    "total_area": "1,700 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "location": "Rajendra Nagar",
+    "estimated_discount": "20",
+    "emd": 4812890,
+    "market_value": 57754680,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39615,
+    "latitude": "28.6796478",
+    "longitude": "77.3567607",
+    "min_increment": null,
+    "reserve_price": 48128900,
+    "description": null,
+    "slug": "Residential-Flat-in-Sector-5-Tha",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "SD Empire Edtech Private Limited",
+    "amenities": "Close to Swami Nand Lal Jee Hospital Pvt Ltd | Near Bal Bharati Public School\u2013Brij Vihar | Close to PNN Mohan Public School | Close to Atlanta Mediworld Multispeciality Hospital | Close by Anubhav Genius Academy",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Ghaziabad - Best Price",
+    "seo_keyword": "Residential Flat in Sector 5, Tha, Rajendra Nagar, Ghaziabad",
+    "title_h1": "Buy Residential Flat for sale in Sector 5, Tha, Rajendra Nagar, Ghaziabad",
+    "seo_description": "Find a beautiful Residential Flat for sale in Sector 5, Tha, Rajendra Nagar, Ghaziabad. This flat offers comfortable living with easy access to local amenities. Contact us today to get the best deal and arrange a viewing. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-07T21:37:09.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-08T10:33:00.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "UGRO Capital",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39615/1751970780408_Flat or Apartment.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39615/1751970780262_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

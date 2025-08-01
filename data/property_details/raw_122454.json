@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122454,
+    "borrower_name": "Mr Thimmappa B V",
+    "bank_name": "Indian Bank",
+    "address": "Residential Buidling: All That Piece And Parcel Of Northern Portion Of Residential Site No 38, Khatha No 40/1405/109 Formed In Survey No 109/1 Situated At Karivobanahalli Village, Yeshwanthapura Hobli, Bangalore North Taluk Converted For Residential Purposed Vide Conversion Orde No Aln(N) Sr 86/12-13 Dated 01.03.2013 Issued By Deputy Commissioner Bangalore District, Bangalore Presently Coming Under Bbmp Limits Ward No 40, Bangalore And Bounded On The :East By: Site No 35, West By: Road, North By: Site No 37, South By Southern Portion Of Site No 38, Measuring East To West: 40-00 Feet, North To South: 15-00 Feet. Totally Measuring An Extent Of 600-00 Sq. Feet Of Land Province/State : Karnataka City/Town : Bengaluru Area/Town : Yeshwanathapura",
+    "reserve_price": 3185000,
+    "dimensions": "00 Sq. Feet",
+    "emd": 318500,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Yeshwanathapura",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 6,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477104",
+      "Branch Name": "Hosur"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

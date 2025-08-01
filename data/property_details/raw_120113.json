@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 120113,
+    "borrower_name": "Anwar Gulam Mohiddin Hamdule",
+    "bank_name": "ICICI Home Finance",
+    "address": "F No 201, Municipal House No 254000437 On First Floor Soha Residency, Mouje Khed Tal Khed, Dist Ratnagiri",
+    "reserve_price": 2497500,
+    "dimensions": "Built Up 925 Sq.Ft",
+    "emd": 249750,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Ratnagiri",
+    "city": "Ratnagiri",
+    "state": "Maharashtra",
+    "pincode": 254000,
+    "latlong": "maps.google.com/maps?q=17.7258,73.398458",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 40,
+    "state_id": 14,
+    "city_id": 2672,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": "Ratnagiri",
+      "REGION": "South Maharashtra",
+      "Property Webside Link": "",
+      "Latest Inspection Date  and  Time of Property": "4Th Mar,'25 11Am - 3Pm"
+    },
+    "ao_name": "Anand Aiwale",
+    "ao_mobile": "9975508458",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

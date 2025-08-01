@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122506,
+    "borrower_name": "Mr. Jagadish S",
+    "bank_name": "LIC Housing Finance Limited",
+    "address": "All That Piece And Parcel Of Immovable Residential Property Bearing Site No.2. Situated In Converted Sy No.51 Of Shettihalli Village, Yeshwanthpura Hobli, Bangalore North Taluk, Now Presently Comes Under The Jurisdiction Of Bruhat Bangalore Mahanagarapalikelimits, Measuring East To West 54 Feet And North To South 73 Feet, Totally Measuring 4672 Square Feet And Bounded On: East By: 30 Feet Wide Road West By: Property Bearing Sy No.50 North By: 50 Feet Wide Road South By: Site No.5 And, All That Piece And Parcel Of Immovable Residential Property Bearing Site No.5, Khatha No.1/05, Situated In Converted Sy No.51 Of Shettihalli Vilage, Yeshwanthpura Hobli, Bangalore North Taluk, Now Presently Comes Under The Jurisdiction Of Bruhat Bangalore Mahanagara Palike Limits, Measuring East To West 70 Feet And North To South 35 Feet, Totally Measuring 2450 Square Feet And Bounded On: East By: 30 Feet Wide Read Westby: Property Bearing Sy No.50 Belonging To Mr.S.Jagadish North By: Remaining 7 Guntas Of Land In Sy No.51 South By: Site No.4 Province/State : Karnataka City/Town : Bengaluru Area/Town : Yeshwanthpur",
+    "reserve_price": 57500000,
+    "dimensions": "",
+    "emd": 5750000,
+    "possession": null,
+    "auction_date": "2025-03-31T18:30:00.000Z",
+    "application_deadline": "2025-03-29T18:30:00.000Z",
+    "locality": "Yeshwanthpur",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 44,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477344",
+      "Branch Name": "Bengaluru"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

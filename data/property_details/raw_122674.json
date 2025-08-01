@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122674,
+    "borrower_name": "M/S. Vamsika Projects",
+    "bank_name": "Union Bank of India",
+    "address": "Doct No.903/2017, Dated 09.03.2017 Owned By Mr. Gandham Surya Lakshmi) Open Vacant Site Situated In East Godavari District, Pithapuram, Pithapuram Mandal, Pithapuram Municipality Area, Pithapuram Sub-Registry, Havng Patta No. 1265, Plot No.9, Sy No.740/8 And Sy No. 747/7, With Nearest Dr No.4-4-14 Admeasuring To An Extent Of 123 Sq Yds, Out Of Total Extent Of 4840 Sq Yds Within The Following Boundaries Belongs To Mr. Viswanadhula Surya Prasanna. Boundaries: East: Property Of V. Surya Prasanna, South: 30 Feet Wide Road. West: Property Of A. Veera Venkata Siva Prasad, North: Open Site Of Chellaboyina Satyavathi. Province/State : Andhra Pradesh City/Town : East Godavari Area/Town : Pithapuram",
+    "reserve_price": 627300,
+    "dimensions": "123 Sq Yds",
+    "emd": 62730,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Pithapuram",
+    "city": "Goragommi",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 3490,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "466400",
+      "Branch Name": "Asset Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

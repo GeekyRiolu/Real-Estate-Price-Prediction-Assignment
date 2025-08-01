@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122161,
+    "borrower_name": "Mrs. Khakhriya Madhuben Zaverbhai",
+    "bank_name": "Union Bank of India",
+    "address": "Property No. 14: All That Piece And Parcel Of: Plot No. 82/B Adm. Area 70.52 Sq. Meters Of Housing Society Known And Named As 'Sakar Residency' Situated On Land Bearing Rev. Block No. 286/B/2 (Old Survey Nos. 207/1,212 And 213) Of Moje Village Mulad: Taluka Olpad Dist Surat. Bounded As Under: North: Society Road, South By: Plot No. 99/B, East: Plot No. 83/B, West By: Plot No. 81/B Province/State : Gujarat City/Town : Surat Area/Town : Olpad",
+    "reserve_price": 906000,
+    "dimensions": "",
+    "emd": 90600,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Olpad",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 7,
+    "city_id": 4123,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478263",
+      "Branch Name": "Asset Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

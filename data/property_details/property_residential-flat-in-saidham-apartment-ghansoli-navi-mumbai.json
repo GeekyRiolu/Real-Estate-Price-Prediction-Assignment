@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 304, 3rd Floor, B Wing, Saidham Apartment, Samartha Nagar, Ghansoli, Navi Mumbai",
+    "name": "Residential Flat in Saidham Apartment, Ghansoli, Navi Mumbai",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-18T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 80,
+    "built_up_area": "345 sq ft",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "location": "Ghansoli",
+    "estimated_discount": "20",
+    "emd": 135500,
+    "market_value": 1626000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40240,
+    "latitude": "19.1242311",
+    "longitude": "72.9794943",
+    "min_increment": null,
+    "reserve_price": 1355000,
+    "description": null,
+    "slug": "residential-flat-in-saidham-apartment-ghansoli-navi-mumbai",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Nitin Gulab Benake",
+    "amenities": "Within 10 mins drive to NEW BOMBAY CITY SCHOOL, CBSE | Within 10 mins drive to Lt. Shree Annasaheb Patil Garden Sec. 4 Ghansoli | Just a 4 min drive to Credence Care Hospital | Within 10 mins drive to ZUDIO \u2013 Ghansoli, Navi Mumbai",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Ghansoli - Best Price",
+    "seo_keyword": "Residential Flat in Saidham Apartment, Ghansoli, Navi Mumbai",
+    "title_h1": "Buy Residential Flat in Saidham Apartment, Ghansoli, Navi Mumbai",
+    "seo_description": "Discover a comfortable residential flat for sale in Saidham Apartment, located in Samartha Nagar, Ghansoli, Navi Mumbai. This property offers convenient living spaces. Contact us now to find out more about this excellent opportunity and schedule a viewing today. Call now to schedule a visit.",
+    "created_at": "2025-07-10T01:17:16.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-10T07:26:00.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "Ujjivan Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40240/1752132360894_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40240/1752132361025_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

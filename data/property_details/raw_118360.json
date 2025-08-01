@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118360,
+    "borrower_name": "Mr. Umesh Kumar Mandal",
+    "bank_name": "Tata Capital Housing Finance Limited",
+    "address": "Flat No 1603, 16th Floor, Tower-Trance, Plot No. GH-16 E, Rhythm Ccounty, Sector-1, Greater Noida West, Gautam Buddh Nagar",
+    "reserve_price": 3235503,
+    "dimensions": "1280 Sq. Ft.",
+    "emd": 323550,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Greater Noida",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "pincode": 201308,
+    "latlong": "maps.google.com/maps?q=28.5543959, 77.4444726",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 54,
+    "state_id": 26,
+    "city_id": 3099,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

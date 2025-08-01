@@ -1,0 +1,72 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "City Survey No. 924, Mahavir Kapad Market, Behind Kapasiya Bazar, Old Railway Station Road, Railwaypura, Ahmedabad",
+    "name": "Commercial Shop in Mahavir Market, Railwaypura, Ahmedabad",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 2,
+    "built_up_area": "46.82 Sq.Mtrs",
+    "total_area": "23.41 Sq.Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "location": "Railwaypura",
+    "estimated_discount": "20",
+    "emd": 220000,
+    "market_value": 3300000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 29113,
+    "latitude": "23.019163522099",
+    "longitude": "72.601235440294",
+    "min_increment": null,
+    "reserve_price": 2200000,
+    "description": "null",
+    "slug": "commercial-shop-in-mahavir-market-railwaypura-ahmedabad",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": null,
+    "possession": "Physical",
+    "borrower_name": "M/s. Neeru Cotton Pvt. Ltd",
+    "amenities": "Near by Sumel Business Park 1 | Close to Ghantakarn Mahavir Market | Close to New Cloth Market, Sarangpur",
+    "nearby_locations": null,
+    "seo_title": "Shop for Sale in Mahavir Market, Railwaypura, Ahmedabad",
+    "seo_keyword": "Commercial Shop for Sale in Mahavir Market, Railwaypura, Ahmedabad",
+    "title_h1": "Commercial Shop for Sale in Mahavir Market, Railwaypura, Ahmedabad",
+    "seo_description": "Buy a commercial shop in Mahavir Market, Railwaypura. Prime business location in Ahmedabad.",
+    "created_at": "2025-04-25T13:35:21.000Z",
+    "created_by": 1411,
+    "updated_at": "2025-07-21T06:52:51.000Z",
+    "modified_by": null,
+    "created_by_name": "prajapati prasad",
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "video": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/29113/Commercial_propid_237873_BKIDNEENRU_368927.mp4"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/29113/Commercial_propid_237873_BKIDNEENRU_368926.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/29113/Commercial_propid_237873_BKIDNEENRU_368923.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/29113/Commercial_propid_237873_BKIDNEENRU_368924.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/29113/Commercial_propid_237873_BKIDNEENRU_368921.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/29113/Commercial_propid_237873_BKIDNEENRU_368922.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/29113/Commercial_propid_237873_BKIDNEENRU_368925.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/2024/08/media/1722591381_0372ad534819bf68.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/uploads/2022/01/bg-1.jpg"
+    ]
+  }
+}

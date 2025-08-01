@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118784,
+    "borrower_name": "Jyotika Hardik Valand",
+    "bank_name": "Bank of Baroda",
+    "address": "Sr/Lot No 1, Flat No. 32, 3rd Floor,  Pushpak Apartment , R.S. No. 291/2, T.P. Scheme No. 1, FP No-10, Sama, Vadodara, Gujarat",
+    "reserve_price": 2100000,
+    "dimensions": "61.98 sqr. mtr. (667 sqr. ft.) BUA, 37.47 sqr. mtr. (414 sqr. ft.) Undivided Land, Total 1560 sq mtr.",
+    "emd": 210000,
+    "possession": "Symbolic",
+    "auction_date": "2025-03-19T18:30:00.000Z",
+    "application_deadline": "2025-03-17T18:30:00.000Z",
+    "locality": "Sama Savali Road",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=22.3458971, 73.2042823",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Authorized Officer On Tel No. ,  M",
+    "ao_mobile": "2225229 / 2363351 / 9828124555",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No G1-157, Riico Industrial Area, Gudli, Udaipur",
+    "name": "Factory Land and Building in Gudli, Udaipur",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": null,
+    "total_area": "1,099 Sq.Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Industrial Plant/Factory/Shed",
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "location": "Gudli",
+    "estimated_discount": "20",
+    "emd": 1180000,
+    "market_value": 14160000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39701,
+    "latitude": "24.645466912365627",
+    "longitude": "73.83455699291399",
+    "min_increment": null,
+    "reserve_price": 11800000,
+    "description": null,
+    "slug": "factory-land-and-building-in-gudli-udaipur",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 23,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "M/s Kishan Polymers",
+    "amenities": "Near Hindustan Petroleum Corporation Limited | Close by Karni kripa parking yard | Close by Ganeriwala Warehouse | Close to Divyamaan minerals | Nearby Hari Priya Filling Station",
+    "nearby_locations": null,
+    "seo_title": "Factory Land for Sale in Gudli, Udaipur - Best Price",
+    "seo_keyword": "Factory Land and Building in Gudli, Udaipur",
+    "title_h1": "Buy Factory Land and Building in Gudli, Udaipur",
+    "seo_description": "Find the perfect Factory Land and Building in Gudli, Udaipur. The property offers great potential for your business needs. Explore the details, location, and investment benefits. Call now to schedule a visit and secure this great investment opportunity before it's gone.",
+    "created_at": "2025-07-08T00:22:08.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-08T06:11:28.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39701/1751955088383_Industrial Plant.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39701/1751955088234_Industrial Plant.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

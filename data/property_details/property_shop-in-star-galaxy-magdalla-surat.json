@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "428LAP16374454",
+    "address": "Shop No 1, Ground Floor, Star Galaxy, Magdalla, Surat",
+    "name": "Shop in Star Galaxy, Magdalla, Surat",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-18T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 165,
+    "built_up_area": null,
+    "total_area": "25.42 Sq Mtrs BUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Magdalla",
+    "estimated_discount": "20",
+    "emd": 197280,
+    "market_value": 3400000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40169,
+    "latitude": "21.13559599432883",
+    "longitude": "72.76579719045277",
+    "min_increment": null,
+    "reserve_price": 1972800,
+    "description": null,
+    "slug": "shop-in-star-galaxy-magdalla-surat",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752215438616!6m8!1m7!1sZlh4piuALCpfvOvfS6ytPA!2m2!1d21.13586813275204!2d72.76617813045023!3f204.59521421043902!4f11.478472155735503!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 16,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Hareshbhai Laljibhai Kathiriya",
+    "amenities": "Within 10 mins drive to State Bank of India DUMAS ROAD BRANCH SURAT | ~10 mins walk to Westfield Square | Within 10 mins drive to SMART VALET PARKING | Within 10 mins drive to IDFC FIRST Bank - Surat, Vesu Branch",
+    "nearby_locations": null,
+    "seo_title": "Shop for sale in Star Galaxy, Surat - Best Price",
+    "seo_keyword": "Shop in Star Galaxy, Magdalla, Surat",
+    "title_h1": "Buy Shop in Star Galaxy, Magdalla, Surat",
+    "seo_description": "Discover prime shop spaces for sale in Star Galaxy, Magdalla, Surat. Invest in a strategic location with high foot traffic. Find the perfect shop to grow your business. Call now to schedule a visit and seize this opportunity before it's gone.",
+    "created_at": "2025-07-09T22:17:41.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T06:33:21.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Bajaj Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40169/1752215601555_Screenshot 2025-07-11 120111.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40169/1752215601647_Screenshot 2025-07-11 120111.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122846,
+    "borrower_name": "Mr Sanjay Baban Dhamne",
+    "bank_name": "Canara Bank",
+    "address": "Description Flat No 06 Area Admeasuring 66.82 Sq Mitrs (Built-Up) On The First Floor In The Building Known As  Sumangal Residency  Constructed On On All That Piece And Parcel Of Non-Agricultural Land Bearing Plot No 95,96,103 And 104 Each Admeasing 216.00 Sq Mtrs Totally Admeasuring 864.00 Sq Mirs Out Of Survey No 156A Situated At Village Igatpuri Taluka Igatpuri And District Nashik Within The Limits Of Igatouri Municiapal Council And Within Sub Registration District Nashik, The Boundaries Of Property Are As Follows: East-Colony Road West-Flat No 05 South-Flat No 07 North-Colony Road Province/State : Maharashtra City/Town : Nashik Area/Town : Igatpuri",
+    "reserve_price": 1654000,
+    "dimensions": "216.00 Sq Mtrs",
+    "emd": 165400,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Igatpuri",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 14,
+    "city_id": 2639,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "466533",
+      "Branch Name": "Regional Office Nashik"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

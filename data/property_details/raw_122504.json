@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122504,
+    "borrower_name": "Mr Srinivasa N",
+    "bank_name": "DCB Bank",
+    "address": "All That Piece And Parcel Of The Rcc House Property Situated At Property Bearing No.498/336/1, Holding Unique No.152200 202910100144 As Per Form No.09 And 11-A, Situated At Hanaguduvillage Hanagudu Gramapanchayath, Hunsur Taluk, Mysuru District And The Same Is Measuring 55.74 Sq. Mtrs And Bounded On East By: Property Of Abdul Nazer Sab West By: Road North By: Remaining Portion Of Naganayaka South By: Galli And Property Of Nagaraju Province/State : Karnataka City/Town : Mysuru Area/Town : Hunsur",
+    "reserve_price": 1390000,
+    "dimensions": "55.74 Sq. Mtrs",
+    "emd": 139000,
+    "possession": null,
+    "auction_date": "2025-04-01T18:30:00.000Z",
+    "application_deadline": "2025-03-30T18:30:00.000Z",
+    "locality": "Hunsur",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": 100144,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 155,
+    "state_id": 11,
+    "city_id": 3539,
+    "property_type_id": 29,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472934",
+      "Branch Name": "Benguluru"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118376,
+    "borrower_name": "M/S Gk Exim",
+    "bank_name": "Punjab National Bank",
+    "address": "SR NO 2, Shop, MC no. 4956, Sadar Bazar, Bathinda.",
+    "reserve_price": 12800000,
+    "dimensions": "90 Sq yards",
+    "emd": 1280000,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Sas Nagar",
+    "city": "Sahibzada Ajit Singh Nagar",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=30.2111935, 74.9352312",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 20,
+    "city_id": 3431,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

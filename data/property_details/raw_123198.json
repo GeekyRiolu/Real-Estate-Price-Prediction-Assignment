@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123198,
+    "borrower_name": "B Narmada",
+    "bank_name": "Bajaj Housing Finance Limited",
+    "address": "Description Description Of The Immovable Property: Schedule-1 All That Piece And Parcel Of Land Situated At Flat No.F1, First Floor, Vasantham Apartments, S. No.10, Old No.54, New Door No.34, Ponnangianru Street, Chennai-600049, In Malligalcheri Village, Comprised In Paimash No.359, T.S.No.10, Block No.2, As Per Patta Old Survey No.10/1 Part, T.S.No. 10/3, Measuring An Extent Of As Patta 1150 Sq.Ft., As Per Actual Measurement 1080Sq.Ft., And 3 Feet Wide Common Way, Of Perviously Perambur - Purasawalkam Taluk, Now Ayanavaram Taluk, Within Corporation Of Chennai Limits And An Undivided Share Of 191 Sq.Ft., Of Land From And Out Of The Land Described Herein Above Mentioned And Bounded On The: North By: 3 Feet Common Passage, South By: 6.5 Feet Passage, East By: Ponnanginaru Street, West By: Land And House Owned By Mrs. Leela Rajan. Schedule-2: 191 Sq.Ft., Undivided Share Of Land More Fully Described In The Schedule-1 Mentioned Land Together With Flat, Measuring An Extent Of 560 Sq.Ft Plinth Area, Including Common Area Etc., Bearing In Flat No.F1, First Floor, Vasantham Apartments, S. No. 10, Old No.54, New Door No.34, Ponnanginaru Street, Chennai-600049 Province/State : Tamil Nadu City/Town : Chennai Area/Town : Ayanavaram",
+    "reserve_price": 2957000,
+    "dimensions": "1150 Sq.Ft.",
+    "emd": 295700,
+    "possession": null,
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Ayanavaram",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": 600049,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 28,
+    "state_id": 23,
+    "city_id": 2936,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478650",
+      "Branch Name": "Corporate Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

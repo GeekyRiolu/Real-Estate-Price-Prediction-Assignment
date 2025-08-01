@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118534,
+    "borrower_name": "M/S Jldm Textiles Industries Pvt Ltd",
+    "bank_name": "Canara Bank",
+    "address": "Property No-1 Vacant Site, D No 579, Tirumala Gardens, Near NH-16, Ward No. 15, Block No. 17, Guntur Corporation, Guntur",
+    "reserve_price": 7000000,
+    "dimensions": "605 Sq Yards",
+    "emd": 700000,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Tirumala Garden",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=16.3066525, 80.4365402",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Branch, Canara Bank, Ph No.",
+    "ao_mobile": "8331015700",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

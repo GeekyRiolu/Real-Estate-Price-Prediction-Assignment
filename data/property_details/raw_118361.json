@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118361,
+    "borrower_name": "Mr. Ravi Vaish",
+    "bank_name": "Tata Capital Housing Finance Limited",
+    "address": "Flat No. 2005, 20th Floor, Tower TRANCE, Building Name RHYTHM CCOUNTY, Plot No. GH-16E, Sector-01, Greater Noida West, Gautam Buddh Nagar, Noida",
+    "reserve_price": 3132000,
+    "dimensions": "1080 Sq. Ft",
+    "emd": 313200,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Greater Noida",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=28.5543959, 77.4444726",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 54,
+    "state_id": 26,
+    "city_id": 3099,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 401, 4th Floor, Moreshwar Heights, Bolinj, Virar(W), Palghar",
+    "name": "Flat in Moreshwar Heights, Virar(W), Palghar",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-04T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 24,
+    "built_up_area": null,
+    "total_area": "31 Sq.Mtr CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Virar",
+    "estimated_discount": "20",
+    "emd": 293400,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38041,
+    "latitude": "19.463803881508667",
+    "longitude": "72.80921857889818",
+    "min_increment": null,
+    "reserve_price": 2934000,
+    "description": null,
+    "slug": "flat-in-moreshwar-heights-virarw-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Anil Janardhan Ghutukade",
+    "amenities": "Just a 3 min drive to D-Mart | 7 mins walk to Grand Galleria | Within 10 mins drive to Riddhi Vinayak Multispeciality Hospital",
+    "nearby_locations": null,
+    "seo_title": "Flat for sale in Moreshwar Heights - Best Price",
+    "seo_keyword": "Flat in Moreshwar Heights, Virar(W), Palghar",
+    "title_h1": "Buy Flat in Moreshwar Heights, Virar(W), Palghar",
+    "seo_description": "Explore a beautiful flat in Moreshwar Heights, Virar(W), Palghar. This property offers comfortable living and great investment potential. Schedule a visit today and discover your future home. Call now before it's gone!",
+    "created_at": "2025-06-30T00:14:22.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-02T09:52:21.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Yes Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38041/1751449941033_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38041/1751449941202_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

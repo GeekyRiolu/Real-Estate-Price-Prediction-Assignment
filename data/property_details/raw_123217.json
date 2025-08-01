@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123217,
+    "borrower_name": "Mr. Veerashekar.M",
+    "bank_name": "Canara Bank",
+    "address": "Description Description Of The Property: Property In The Name Of Mr.M.Veerashekar: All That Piece And Parcel Of 582 Sq.Ft Undivided Share Of Land In All That Piece And Parcel Of Land Measuring An Extent Of 5016 Sq.Ft Comprised In Old Survey Nos. 125/2 Part  and  125/3A1A1, Ts No.108, Block No.23 Of Tiruvanmiyur Village, Mylapore-Triplicane Taluk Situated At Old Door No. 2  and  3, Kalashetra Road, Tiruvanmiyar, Chennai District, In All Measuring 5016 Square Feet Together With Pent House And Terrace Constructed There On Measuring 2311 Sq.Ft Bearing Flat No.S1 In The Second Floor Along With The Proportionate Common Area Of The Building Known As  Land Marvel  And With Amenities There On, Lying Within The Registration District Of South Chennai And Sub Registration District Of Saidapet. North By Town Survey No.96, South By: Block No.27 (Road), East By: Town Survey No. 109, West By: Town Survey No. 127/1 Province/State : Tamil Nadu City/Town : Chennai Area/Town : Tiruvanmiyur,",
+    "reserve_price": 12466000,
+    "dimensions": "582 Sq.Ft",
+    "emd": 1246600,
+    "possession": null,
+    "auction_date": "2025-04-02T18:30:00.000Z",
+    "application_deadline": "2025-03-31T18:30:00.000Z",
+    "locality": "Tiruvanmiyur,",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 23,
+    "city_id": 2936,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "473350",
+      "Branch Name": "Asset Recovery Management Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

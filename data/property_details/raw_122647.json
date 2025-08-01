@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122647,
+    "borrower_name": "Nagulapalli Eswararao",
+    "bank_name": "Indian Bank",
+    "address": "Schedule: A: All That Piece And Parcel Of Property Situated In Guntur District, Pedakakani Registration Sub District, Within Koppuravurugrama Panchayat Area Koppuravuru Village In D.No.26, Ac.3-18 Cents, D. No.27 Ac.2-55 Cents, D.No.28/1, Ac.0-66.1/2 Cents, D.No.30/1, Ac.4-90 Cents, In Total Of Four Numbers As Single Piece Of Land Of An Extent Of Ac. 11-29.1/2 Cent And D.No.26, Ac.1-06 Cents In Total Ac. 12-35.1/2 Cents As Per V.G.T.M.Uda File No. E2/120/2014, Lp.No. 19/2014/Gnt Plan Plot No.61 An Extent Of 550 Sq.Yds, Plot No.62 An Extent Of 220 Sq.Yds, Plot No.63 An Extent Of 220 Sq.Yds, Plot No.64 An Extent Of 220 Sq.Yds Plot No.77 An Extent Of 240 Sq.Yds Plot No.78 An Extent Of 240 Sq.Yds, Plot No. 79 An Extent Of 240 Sq.Yds And Plot No.80 An Extent Of 600 Sq.Yds In Total An Extent Of 2530 Sq.Yds In Which Constructed Of  Capital Sqare , A-Block, Is Being Bounded By:East: 40 Feet Wide Road, South: Site Relating To Plot No.S. 76, 65, West: 40 Feet Wide Road, North: 40 Feet Wide Road. Schedule-B:: An Undivided And Unspecified Share Measuring 59 Sq Yards In Total Extent Of 2530 Sq Yards Of Site Along With One Three Bed Room Flat Bearing No.501, Located In Fourth Floor Of 'Capital Square , A-Block With A Total Area Of 1650 Sq Ft (Including Plinth  and  Common Areas And One Car Parking Area) Which Was Allotted In The Entire Construction For The Above Mentioned Share Of Site Is Being Bounded By:East: Open To Sky, South: Open To Sky, West: Common Corridor, North: Open To Sky Province/State : Andhra Pradesh City/Town : Guntur Area/Town : Koppuravuru",
+    "reserve_price": 4410000,
+    "dimensions": "550 Sq.Yds",
+    "emd": 441000,
+    "possession": null,
+    "auction_date": "2025-04-20T18:30:00.000Z",
+    "application_deadline": "2025-04-18T18:30:00.000Z",
+    "locality": "Koppuravuru",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 6,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474895",
+      "Branch Name": "Vijayawada"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 418, Block A, 4th Floor, G.C. Roy Chowdhury Tower Phase I, Feeder Road, Kamarhati, Kolkata",
+    "name": "Residential Flat in GC Roy Chowdhury Tower Phase I, Kamarhati, Kolkata",
+    "application_date": "2025-08-12T18:30:00.000Z",
+    "date": "2025-08-13T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 56,
+    "built_up_area": null,
+    "total_area": "958 SFT SBA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "location": "Rathtala",
+    "estimated_discount": "20",
+    "emd": 316140,
+    "market_value": 3793680,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39336,
+    "latitude": "22.6635981",
+    "longitude": "88.3764181",
+    "min_increment": null,
+    "reserve_price": 3161400,
+    "description": null,
+    "slug": "residential-flat-in-gc-roy-chowdhury-tower-phase-i-kamarhati-kolkata",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "SANJEEV KUMAR JAISWAL, MADHURI JAISWAL & MA TARA TARANI ENTERPRISES",
+    "amenities": "Close to Techno India Group Public Schools-Ariadaha | Nearby Swami Vivekanada Park | Near St. Luminous School | Close by More Supermarket Uttarpara | Close to Kamala Ray Hospital",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Kolkata - Best Price",
+    "seo_keyword": "Residential Flat in GC Roy Chowdhury Tower Phase I, Kamarhati, Kolkata",
+    "title_h1": "Buy Residential Flat in GC Roy Chowdhury Tower Phase I, Kamarhati, Kolkata",
+    "seo_description": "Discover a fantastic residential flat in GC Roy Chowdhury Tower Phase I, Kamarhati, Kolkata. This property offers comfortable living spaces. Contact us today for details about this prime real estate and schedule a visit before it's gone. Call now!",
+    "created_at": "2025-07-05T01:15:44.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-05T10:21:56.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Aditya Birla Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39336/1751710916474_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39336/1751710916592_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

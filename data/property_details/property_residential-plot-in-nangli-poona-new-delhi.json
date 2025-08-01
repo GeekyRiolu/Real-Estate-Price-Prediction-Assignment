@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No 20/22 And 20/23 Nangli Poona, New Delhi",
+    "name": "Residential Plot in Nangli Poona, New Delhi",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 69,
+    "built_up_area": null,
+    "total_area": "1,200 Sq.yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "location": "Nangli Puna",
+    "estimated_discount": "20",
+    "emd": 2040000,
+    "market_value": 24480000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 36810,
+    "latitude": "28.7715569",
+    "longitude": "77.14608480000001",
+    "min_increment": null,
+    "reserve_price": 20400000,
+    "description": null,
+    "slug": "residential-plot-in-nangli-poona-new-delhi",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "M/S KALI TRADERS",
+    "amenities": "Close to Government Boys Senior Secondary School | Nearby Patliputra Nursing Home | Close to Devraji Narayan public school | Near Ekta Hospital | Nearby Shivani public school CBSE school",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Nangli Poona - Best Price",
+    "seo_keyword": "Residential Plot in Nangli Poona, New Delhi",
+    "title_h1": "Buy Residential Plot in Nangli Poona, New Delhi",
+    "seo_description": "Find a prime Residential Plot in Nangli Poona, New Delhi. You can purchase this property and build your dream home. Don't miss this chance to invest. Call now to schedule a visit and secure your future property.",
+    "created_at": "2025-06-23T21:49:32.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-06-24T12:22:19.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Debt Recovery Tribunal",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/36810/1750767739572_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/36810/1750767739738_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

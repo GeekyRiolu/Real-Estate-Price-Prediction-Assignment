@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118532,
+    "borrower_name": "M/S. Chatla Gas Agency",
+    "bank_name": "State Bank of India",
+    "address": "Property mortgaged to the Bank vide Regd. Sale Deed No. 740/2017, Dt. 20.03.2017  and  Regd. Rectification Deed Doc No. 1266/2021, Dt. 17.05.2021. In the name of Sri Chatla Srikar, S/O Jagjivan Ram.  D.No.203, Kurnuthala Grama Panchayat, Vatticherukuru Mandal, Prathipadu Sub District, Guntur District, Andhra Pradesh.  Chatla Gas Agency LPG Godown. Bounded By: East - Cheruvukatta (Tank Boundary), South - Remaining Property Of Vendor, West - Remaining Property Of Vendor, North - Poramboka.",
+    "reserve_price": 2569000,
+    "dimensions": "Ac.0.23 Cents Or 1113.20 Sq.Yds Or 930.75 Sq.Mts",
+    "emd": 256900,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Prathipadu",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 10,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Sri K.S.H Sastry Mobile No.",
+    "ao_mobile": "89784 / 80704",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122473,
+    "borrower_name": "Mr. Muralidhar N",
+    "bank_name": "Canara Bank",
+    "address": "Property 2: All That Piece And Parcel Of Property Bearing Boa Site No.72, Situated At 80 Feet Road, 4Th H Block, Banasankari 6Th Stage, Subramanyapura Post, Bengaluru 560061, Measuring East To West 12 Meters, North To South 18 Meters, Totally Measuring 2324 Sq Feet Property In The Name Of Mrs. Roopa, Bounded By: East: Site No.73 West: Site No.71 North: Private Property South: Road Province/State : Karnataka City/Town : Bengaluru Area/Town : Jayanagar",
+    "reserve_price": 29000000,
+    "dimensions": "2324 Sq Feet",
+    "emd": 2900000,
+    "possession": null,
+    "auction_date": "2025-04-04T18:30:00.000Z",
+    "application_deadline": "2025-04-02T18:30:00.000Z",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": 560061,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "476526",
+      "Branch Name": "Banglore"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

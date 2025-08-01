@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122412,
+    "borrower_name": "Dwaraka Traders",
+    "bank_name": "Protium Finance Limited",
+    "address": "All That Piece And Parcel Of Land Property Bearing Site No. 10, Municipal No. 10, Assessment No. 2/1, Pid No. 100-590-10 Measuring East To West (33+31)/2Ft And North To South 37\u00bd Ft., In All 1200 Sq.Ft Situated At Anajanamurthy Compound Lottegollahalli Kasaba Hobli, Bangalore, North Taluka Bangalore And Bounded On: East By Site Belonging To Mr. Anjanamurthy, West By: 30 Feet Road, North By House Property Belonging To Lakshmamma, South By: House Property Belonging To Gopal Province/State : Karnataka City/Town : Bengaluru Area/Town : Kasaba Hobli",
+    "reserve_price": 16500000,
+    "dimensions": "1200 Sq.Ft",
+    "emd": 1650000,
+    "possession": null,
+    "auction_date": "2025-04-18T18:30:00.000Z",
+    "application_deadline": "2025-04-16T18:30:00.000Z",
+    "locality": "Kasaba Hobli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 153,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "475805",
+      "Branch Name": "Registered Office: Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122507,
+    "borrower_name": "Mrs. Essymol",
+    "bank_name": "State Bank of India",
+    "address": "All That Part And Parcel Of Property Admeasuring 12 Cents Of Land And Building Comprised In Re Sy No. 87/9-P In Chowannur Village, Thalappilly Taluk, Thrissur Dist, In The Name Of Late Sri. Appukunjan By Way Of Will No. 128/1986 Dated 29.09.1986 Of Kunnamkulam Sro, Bounded By: East: Property Of Koothoor Samu, West: Tar Road (Ayyappath Road) North: Property Of Koolhoor Samu, South: Municipal Tar Road. Province/State : Kerala City/Town : Thrissur Area/Town : Thalappilly",
+    "reserve_price": 6700000,
+    "dimensions": "",
+    "emd": 670000,
+    "possession": null,
+    "auction_date": "2025-04-29T18:30:00.000Z",
+    "application_deadline": "2025-04-27T18:30:00.000Z",
+    "locality": "Thalappilly",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 10,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477620",
+      "Branch Name": "Stressed Assets Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 303, 3rd Floor, Bldg No 5, Sai Complex, Boisar Road, Palghar",
+    "name": "Residential Flat in Sai Complex, Boisar, Palghar",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 13,
+    "built_up_area": null,
+    "total_area": "498.043 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Boisar",
+    "estimated_discount": "20",
+    "emd": 156444,
+    "market_value": 2933325,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 25743,
+    "latitude": "19.798368414124",
+    "longitude": "72.761143453807",
+    "min_increment": null,
+    "reserve_price": 1564440,
+    "description": "null",
+    "slug": "residential-flat-in-csai-complex-boisar-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Swanand Pandurang Vengurlekar",
+    "amenities": "1.3 km to Sanskruti World School and Junior College Boisar | 1.4 km to Adhikari Lifeline Hospital Nagzari | 4.0 km to Navrang Kirana Store | 4.9 km to D Mart",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Boisar - Best Price",
+    "seo_keyword": "Residential Flat in Sai Complex, Boisar, Palghar",
+    "title_h1": "Buy Residential Flat in Sai Complex for Sale",
+    "seo_description": "Find a great Residential Flat in Sai Complex, Boisar, Palghar. This property offers comfortable living spaces, good amenities, and convenient location. Contact us now to explore the features and benefits, and call now to schedule a visit before it's gone!",
+    "created_at": "2025-02-27T13:19:00.000Z",
+    "created_by": 1411,
+    "updated_at": "2025-07-07T11:33:07.000Z",
+    "modified_by": 1411,
+    "created_by_name": "prajapati prasad",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Axis Bank",
+    "price_drop": 391110,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/2024/08/media/1722504241_bed705a24d8e25a2.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/uploads/2022/01/bg-1.jpg"
+    ]
+  }
+}

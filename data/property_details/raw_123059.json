@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123059,
+    "borrower_name": "Mr. Gurpal Singh",
+    "bank_name": "HDFC Bank",
+    "address": "Description Commercial Space/Shop Bearing No. 5. Admeasuring Covered Area 25.56 Sq.Mtrs (275 Sq.Ft) And Super Area 36.31 Sq.Mtrs (390.70 Sq.Ft) Along With All Areas Appurtenant Thereto, In The Projectknown As Ashberry Homes-Crescent Parc, Situated In Village, Gt Road Bye Pass, Amritsar-143001 With Undivided And Impartible Proportionate Share In The Land Underneath The Building And Undivided Proportionate Share In The Common Areas And Facilities Of The Said Building And Undivided Proportionate Share In The Common Areas And Facilities Of The Said Building, Registered In The Favour Of Mr Gurpal Singh S/O Mr. Satpal Singh And Mrs Gurmeet Kaur W/Omr. Gurpal Singh Vide Sale Deed Dated 18.05.18 Bearing Vasika No. 1573. Province/State : Punjab City/Town : Amritsar Area/Town : G.T Road",
+    "reserve_price": 1800000,
+    "dimensions": "25.56 Sq.Mtrs",
+    "emd": 180000,
+    "possession": null,
+    "auction_date": "2025-04-14T18:30:00.000Z",
+    "application_deadline": "2025-04-12T18:30:00.000Z",
+    "locality": "G.T Road",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "pincode": 143001,
+    "latlong": null,
+    "property_type": "Commercial Shop/Retail Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 20,
+    "city_id": 3405,
+    "property_type_id": 16,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474344",
+      "Branch Name": "Reg Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

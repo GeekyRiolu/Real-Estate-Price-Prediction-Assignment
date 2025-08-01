@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 117984,
+    "borrower_name": "Mr. Vijay Pal Singh",
+    "bank_name": "Canara Bank",
+    "address": "Residential House/Fiat no. 1/171-8, (EWS) IInd Floor, Kamna, Sector-1, Vaishali, Ghaziabad and admeasuring area 28.56 Sq meter with boundaries as: East House no 1/170-8 West: House nol/172-8 North 20 ft wide road at Ground Floor South House no l/178-8 (This property is in Symbolic possession of the Bank) Province/State :  Uttar Pradesh City/Town :  Ghaziabad Area/Town :  Vaishali",
+    "reserve_price": 1443000,
+    "dimensions": "28.56 Sq meter",
+    "emd": 144300,
+    "possession": "Symbolic",
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Vaishali",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 26,
+    "city_id": 3280,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

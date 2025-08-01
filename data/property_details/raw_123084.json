@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123084,
+    "borrower_name": "Mr Sunil Kumar",
+    "bank_name": "DCB Bank",
+    "address": "Description Wasika 507 #1374/A Near Mk Araya Girls School, Maleria Street, Nabha, Punjab-147201 Province/State : Punjab City/Town : Patiala Area/Town : Nabha",
+    "reserve_price": 4000000,
+    "dimensions": "",
+    "emd": 400000,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Nabha",
+    "city": "Patiala",
+    "state": "Punjab",
+    "pincode": 147201,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 155,
+    "state_id": 20,
+    "city_id": 2806,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474920",
+      "Branch Name": "New Delhi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122496,
+    "borrower_name": "Mr B Malyadri Reddy",
+    "bank_name": "DCB Bank",
+    "address": "All That Part And Parcel Of The Immovable Property Bearing Western Portion Of The Site No 13, Formed In Sy.No 5, Converted Vide No. Aln/40/1937-38 Dated 10.08.1937 Situated At Kammmagondanahalli Village, Yeshwanthpur Hobli, Bangalore North Taluk And Bounded On East By Remaining Eastem Portion Of The Same Property Today The Vendor Has Sold To Ramu, Measuring East To West 29 Feet, And North To South 40Ft West By Private Property Of Mrs. Gajalakshmamma In Sy. No.05, North By: 25 Feet Road South By Sile No. 11 Belongs To S.Subbarayudu Measuring East To West 29 Feet And North To South 40 Feet, In All Measuring 1160 Sq. Feet Province/State : Karnataka City/Town : Bengaluru Area/Town : Yeshwanthpur",
+    "reserve_price": 5000000,
+    "dimensions": "1160 Sq. Feet",
+    "emd": 500000,
+    "possession": null,
+    "auction_date": "2025-04-01T18:30:00.000Z",
+    "application_deadline": "2025-03-30T18:30:00.000Z",
+    "locality": "Yeshwanthpur",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 155,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472926",
+      "Branch Name": "Benguluru"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

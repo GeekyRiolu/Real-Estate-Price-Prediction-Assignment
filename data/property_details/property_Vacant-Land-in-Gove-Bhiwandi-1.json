@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "No. 92, Hissa No. 8, patra shed thereon consisting Ground Floor  Village-Gove, Taluka Bhiwandi, THANE",
+    "name": "Vacant Land in Gove, Bhiwandi, Thane",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 9,
+    "built_up_area": "1200 Sq. Ft",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Bhiwandi",
+    "estimated_discount": "20",
+    "emd": 2550000,
+    "market_value": 30600000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 44849,
+    "latitude": "19.2843068",
+    "longitude": "73.0727414",
+    "min_increment": 10,
+    "reserve_price": 25500000,
+    "description": null,
+    "slug": "Vacant-Land-in-Gove-Bhiwandi-1",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Manoj Jiwatram Lalwani",
+    "amenities": "Close to Varaladevi Park | Nearby Reliance SMART Point U033 | Close to Dhange Hospital | Nearby Rainbow Multispeciality Hospital",
+    "nearby_locations": null,
+    "seo_title": "Vacant Land for sale in Bhiwandi - Best Price",
+    "seo_keyword": "Vacant Land in Gove, Bhiwandi, Thane",
+    "title_h1": "Buy Vacant Land in Gove, Bhiwandi, Thane",
+    "seo_description": "Purchase vacant land in Bhiwandi, Thane. This prime land offers excellent investment potential for future development. Explore the benefits of ownership, and invest wisely today. Call now to schedule a visit and secure your plot before it's gone.",
+    "created_at": "2025-07-23T01:42:44.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T11:14:00.000Z",
+    "modified_by": 2267,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "rakhi yadav",
+    "favorite": 0,
+    "bank_name": "Punjab National Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/44849/1753787640254_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/44849/1753787640254_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

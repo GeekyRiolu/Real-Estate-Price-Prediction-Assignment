@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Municipal No 308, Rajmahal Vilas, 2a Stage, HIG House, Sanjayanagara, Bengaluru",
+    "name": "Residential Floor in Raj Mahal Vilas, 2A Stage, Bengaluru",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 9,
+    "built_up_area": null,
+    "total_area": "297.28 Sq.Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Builder Floor",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "location": "Sanjayanagara",
+    "estimated_discount": "20",
+    "emd": 2890000,
+    "market_value": 34680000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39941,
+    "latitude": "13.03469060916538",
+    "longitude": "77.57263200354316",
+    "min_increment": null,
+    "reserve_price": 28900000,
+    "description": null,
+    "slug": "residential-floor-in-raj-mahal-vilas-2a-stage-bengaluru",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 5,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "CN Santhosh",
+    "amenities": "One Car Parking In Ground Floor | Near Ramaiah Memorial Hospital | Close by Siddhartha Public School | Near Vidya Samskruthi School Malleswaram | Nearby Bangalore Baptist Hospital",
+    "nearby_locations": null,
+    "seo_title": "Residential Floor for sale in Bengaluru \u2013 Best Price",
+    "seo_keyword": "Residential Floor in Raj Mahal Vilas, 2A Stage, Bengaluru",
+    "title_h1": "Buy Residential Floor in Raj Mahal Vilas, 2A Stage, Bengaluru",
+    "seo_description": "Find a prime Residential Floor for sale in Raj Mahal Vilas, 2A Stage, Bengaluru. Discover spacious living areas and excellent location benefits. Don't miss out on this chance to acquire your dream property. Call now to schedule a visit and make it yours!",
+    "created_at": "2025-07-08T21:45:54.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-09T11:13:43.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Punjab National Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39941/1752059623892_Residential Floor_3.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39941/1752059624012_Residential Floor_3.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

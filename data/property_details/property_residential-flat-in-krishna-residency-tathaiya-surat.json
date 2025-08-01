@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "21630000002610",
+    "address": "Flat No 403, 4th Floor, Krishna Residency, Tathaiya, Surat",
+    "name": "Residential Flat in Krishna Residency, Tathaiya, Surat",
+    "application_date": "2025-09-07T18:30:00.000Z",
+    "date": "2025-09-09T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "317.17 SFT BUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Tathaiya",
+    "estimated_discount": "20",
+    "emd": 55000,
+    "market_value": 850000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47161,
+    "latitude": "21.153340406582643",
+    "longitude": "72.98383363019235",
+    "min_increment": null,
+    "reserve_price": 550000,
+    "description": null,
+    "slug": "residential-flat-in-krishna-residency-tathaiya-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Kamal Champalal Ghiya",
+    "amenities": "Just a 5 min drive to Mount Litera Zee School | Best School, Boarding School, Co Ed School, Secondary School, Sports School | Within 10 mins drive to Sanjivani Hospital | Within 10 mins drive to Dhiraj Sons The Mega Store | Within 10 mins drive to GreenAura",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Surat - Best Price",
+    "seo_keyword": "Residential Flat in Krishna Residency, Tathaiya, Surat",
+    "title_h1": "Buy Residential Flat in Krishna Residency, Tathaiya, Surat",
+    "seo_description": "Find a beautiful residential flat in Krishna Residency, Tathaiya, Surat. This property offers comfortable living with excellent features. Don't miss this opportunity; call now to schedule a visit and make it yours today.",
+    "created_at": "2025-07-30T22:02:44.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T07:18:03.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47161/1753946283315_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47161/1753946283315_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

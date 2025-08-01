@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 409, 4th Floor, Survey No.26, Deved, Panvel",
+    "name": "Residential Flat in Deved, Panvel, Raigad",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-18T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 80,
+    "built_up_area": "365 Sq ft",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Raigad",
+    "state": "Maharashtra",
+    "location": "Panvel",
+    "estimated_discount": "20",
+    "emd": 112200,
+    "market_value": 1346400,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40236,
+    "latitude": "18.9921791",
+    "longitude": "73.1311477",
+    "min_increment": null,
+    "reserve_price": 1122000,
+    "description": null,
+    "slug": "residential-flat-in-deved-panvel-raigad",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Gorakh Dyandev Sonawane",
+    "amenities": "Near Cidco Park | Nearby Shantiniketan Public School | Close to Shopping Panvel | Close to Veer Hospital & ICU - Best ICU and Multi-specialist in Panvel | Close by DMart New Panvel",
+    "nearby_locations": null,
+    "seo_title": "Buy Residential Flat for sale in Deved - Best Price!",
+    "seo_keyword": "Residential Flat in Deved, Panvel, Raigad",
+    "title_h1": "Buy Residential Flat in Deved, Panvel, Raigad",
+    "seo_description": "Discover a fantastic Residential Flat for sale in Deved, Panvel. This property offers comfortable living spaces. Find your dream home with convenient features and a prime location. Call now to schedule a visit and don't miss this opportunity!",
+    "created_at": "2025-07-10T01:17:05.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T11:21:37.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "Ujjivan Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40236/1752232897551_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40236/1752232897638_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

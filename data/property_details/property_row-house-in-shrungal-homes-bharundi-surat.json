@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "21630000015875",
+    "address": "Plot No 239, Shrungal Homes, Bharundi, Surat",
+    "name": "Row House in Shrungal Homes, Bharundi, Surat",
+    "application_date": "2025-09-07T18:30:00.000Z",
+    "date": "2025-09-09T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "107.37 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Bharundi",
+    "estimated_discount": "20",
+    "emd": 125000,
+    "market_value": 2000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47165,
+    "latitude": "21.361142060376324",
+    "longitude": "72.87185123270251",
+    "min_increment": null,
+    "reserve_price": 1250000,
+    "description": null,
+    "slug": "row-house-in-shrungal-homes-bharundi-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Ajay Surendra Sunar",
+    "amenities": "Within 10 mins drive to Shree Gurukrupa Vidhya Sankul | Within 10 mins drive to Payal Clinic Sayan | Within 10 mins drive to Shivji Temple | Within 10 mins drive to Tulsi Corporation",
+    "nearby_locations": null,
+    "seo_title": "Row House for sale in Bharundi - Best Price",
+    "seo_keyword": "Row House in Shrungal Homes, Bharundi, Surat",
+    "title_h1": "Buy Row House in Shrungal Homes, Bharundi, Surat",
+    "seo_description": "Discover a beautiful row house in Shrungal Homes, Bharundi, Surat. You can purchase this property with excellent features and a prime location. Call now to schedule a visit and make this house your home before someone else does!",
+    "created_at": "2025-07-30T22:02:57.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T06:39:22.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47165/1753943962600_Row House.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47165/1753943962600_Row House.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

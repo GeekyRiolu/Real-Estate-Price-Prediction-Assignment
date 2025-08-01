@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118523,
+    "borrower_name": "Mr. Kolagani Yedukondalu",
+    "bank_name": "Tata Capital Housing Finance Limited",
+    "address": "Krishna District, Jaggaiahpet Sub-Registrar, Subbai Gudem Grama Panchayat And Village Situated In R. S. No. 35/2A1A, 35/2A1B, 35/2C1, Layout Was Approved By Apcrda Vijayawada Vide L.P.No.53/2016, Layout Plan Plot No. 207 Admeasuring 248.75 Sq. Yds, Being Bounded By East: Plot No. 208 South: Plot No. 206 West: 40-0 Ft Wide Road North: Others Property. Within The Said Boundaries An Extent Of 248.75 Sq. Yds Or 207.97 Sq.Mts, Of Vacant Site Along With Easements And Rights Annexed To It. Province/State : Andhra Pradesh City/Town : Krishna Area/Town : Jaggaiahpet",
+    "reserve_price": 500000,
+    "dimensions": "248.75 Sq. Yds",
+    "emd": 50000,
+    "possession": null,
+    "auction_date": "2025-03-11T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Jaggaiahpet",
+    "city": "Jaggaiahpet",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 54,
+    "state_id": 1,
+    "city_id": 101,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Mobile No :",
+    "ao_mobile": "9160005011",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

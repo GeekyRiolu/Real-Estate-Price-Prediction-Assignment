@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No.FF-03, Front LHS, Plot No B-81, Rail Vihar Sahkari Awas Samiti Ltd, Sadulladad, Ghaziabad",
+    "name": "Residential Flat in Rail Vihar Sahkari Awas Samiti Ltd, Ghaziabad",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 128,
+    "built_up_area": null,
+    "total_area": "576 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "location": "Sadulladad",
+    "estimated_discount": "20",
+    "emd": 193000,
+    "market_value": 2316000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46082,
+    "latitude": "28.7438982",
+    "longitude": "77.2741467",
+    "min_increment": null,
+    "reserve_price": 1930000,
+    "description": null,
+    "slug": "residential-flat-in-rail-vihar-sahkari-awas-samiti-ltd-ghaziabad",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Nisha Fahimuddin, Mr. Fahimuddin F",
+    "amenities": "Close to Choudhary Multispeciality Hospital | Nearby Khanna Nagar Park 1 | Nearby Gopal Hospital | Close by Das Universal Academy School | Near Lal Bagh B Block Park",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Ghaziabad - Best Price",
+    "seo_keyword": "Residential Flat in Rail Vihar Sahkari Awas Samiti Ltd, Ghaziabad",
+    "title_h1": "Buy Residential Flat in Rail Vihar Sahkari Awas Samiti Ltd, Ghaziabad",
+    "seo_description": "Find a great residential flat in Rail Vihar Sahkari Awas Samiti Ltd, Ghaziabad, offering comfortable living. This property is perfect for families seeking a new home. Call now to schedule a visit and explore your future home before it's gone!",
+    "created_at": "2025-07-25T21:36:03.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-28T07:13:52.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Hinduja Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46082/1753686832893_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46082/1753686832893_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122508,
+    "borrower_name": "Mrs. Essymol",
+    "bank_name": "State Bank of India",
+    "address": "All That Part And Parcel Of Property Admeasuring 79 Cents Of Land In Sy No. 48/5, Block No.12 In Chowannur Village, Thalappilly Taluk, Thrissur District As Per Gift Deed No.2548/2003 Dated 02.12.2003 Of Kunnamkulam Sro In The Name Of Essymol And Wince. Bounded By: East: Property Of Cherukutty  and  Simon, West: Municipal Tar Road  and  Nadavazhy North: Property Of Ezhuthupurakka Surendran, South: Property Of Appukunjan. Item No 3: All That Part And Parcel Of Property Admeasuring 90 Cents Of Land In Sy No.48/6, In Chowannur Village, Thalappilly Taluk, Thrissur District As Per Partition Deed No. 1895/1984 Dated 09.11.1984 Of Kunnamkulam Sro In The Name Of Appukunjan. Bounded By: East: Property Of Koothala Pavutty  and  Dr. Varghese, West: Municipal Tar Road  and  Nadavazhy, North: Property Of Wince Pulikottil And Essymol Wince, South: Municipal Tar Road Province/State : Kerala City/Town : Thrissur Area/Town : Thalappilly",
+    "reserve_price": 19500000,
+    "dimensions": "",
+    "emd": 1950000,
+    "possession": null,
+    "auction_date": "2025-04-29T18:30:00.000Z",
+    "application_deadline": "2025-04-27T18:30:00.000Z",
+    "locality": "Thalappilly",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 10,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477621",
+      "Branch Name": "Stressed Assets Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "id": 121891,
+    "borrower_name": "Mr. VIJAY HARIBHAU LONKAR",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "Flat No 301, Floor No. 3, Wing B, Building 3, admeasuring 402 Sq. Ft. with terrace of Carpet Area 402 Sq. Ft., Mahim Garden, Mahim Kelwe Road, Palghar West, Maharashtra-401404 ( Area ad Measuring 369 Sq. Ft. and Super Built Up Area ad Measuring 554 Sq. Ft.)",
+    "reserve_price": 944000,
+    "dimensions": "admeasuring 402  Sq. Ft., Super Built Up Area ad Measuring 554 Sq. Ft.",
+    "emd": null,
+    "possession": "Physical",
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-10T18:30:00.000Z",
+    "locality": "Palghar",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": "IL10182988",
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 14,
+    "city_id": 3330,
+    "property_type_id": 1,
+    "created_at": "2025-03-27T14:20:45.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Type": "15 days",
+      "Location": "VIRAR",
+      "Outsanding": "3728495",
+      "Inspection date": "2025/04/09",
+      "Publication Date": "2025/03/27",
+      "Publication approval date": "2025/03/26"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

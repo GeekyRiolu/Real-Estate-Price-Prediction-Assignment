@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118887,
+    "borrower_name": "Jignesh Manharlal Patel",
+    "bank_name": "SMFG India Credit Company",
+    "address": "Plot No. 63, City Survey No. 4406 Paiki, Sheet No. 190, City Survey Ward No. 2, Gondal, Rajkot.  East-Plot No. 64, West-Plot No. 62, North-Other's Property, South-Road",
+    "reserve_price": 2900000,
+    "dimensions": "89-13 Sq. Mt.",
+    "emd": 290000,
+    "possession": null,
+    "auction_date": "2025-03-06T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Gondal",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=21.9750678, 70.7962121",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 135,
+    "state_id": 7,
+    "city_id": 1160,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No : Mr. Virendra Singh Chundawat  + ) Pinkesh Patel +",
+    "ao_mobile": "919727760153 / 918655767532",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

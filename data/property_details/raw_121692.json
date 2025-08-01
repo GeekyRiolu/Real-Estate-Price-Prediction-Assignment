@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "id": 121692,
+    "borrower_name": "Mr. AJAY RAMESHWAR DAYAL YADAV",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "PLOT NO-140, ANJANI HOMES - 2, OLPAD SAYAN ROAD, NEAR ATODARA CHOKDI, ATODARA, OLPAD, SURAT - 394130\u201d AREA ADMEASURING (IN SQ. FT.): Property Type: Land_Area, Saleable_Area, Super_Built_Up_Area Property Area: 432.00, 792.00, 274.00(Built up area 360.00 sq. ft )",
+    "reserve_price": 1122000,
+    "dimensions": "0",
+    "emd": null,
+    "possession": "Physical",
+    "auction_date": "2025-04-22T18:30:00.000Z",
+    "application_deadline": "2025-04-20T18:30:00.000Z",
+    "locality": "Anjani",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": "IL10509360",
+    "receive_date": "2025-03-19T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 7,
+    "city_id": 4123,
+    "property_type_id": 2,
+    "created_at": "2025-03-21T08:53:47.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Type": "30 Days",
+      "Location": "SURAT-RING ROAD",
+      "Outstanding": "1488702",
+      "Inspection date": "2025/04/17",
+      "Publication Date": "2025/03/20",
+      "Publication approval date": "2025/03/19"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

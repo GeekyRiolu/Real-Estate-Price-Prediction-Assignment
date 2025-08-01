@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "House No. 206/41, Bagh Sher Jung, Dhyori Agha Meer Khan Marg, Subhash Marg, Lucknow",
+    "name": "Independent House in Bagh Sher Jung, Dhyori Agha Meer Khan Marg, Lucknow",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 13,
+    "built_up_area": null,
+    "total_area": "1,924 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "location": "Wazirganj",
+    "estimated_discount": "20",
+    "emd": 3060000,
+    "market_value": 36720000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46244,
+    "latitude": "26.8554265",
+    "longitude": "80.9162731",
+    "min_increment": null,
+    "reserve_price": 30600000,
+    "description": null,
+    "slug": "independent-house-in-bagh-sher-jung-dhyori-agha-meer-khan-marg-lucknow",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "Pawan Kumar Bansal",
+    "amenities": "Near Queen Marys Hospital | Nearby Kolkata Mart - Lucknow | Close to Hanuman Setu Mandir | Close to K.K. Hospital, Lucknow",
+    "nearby_locations": null,
+    "seo_title": "Independent House for sale in Lucknow - Best Price",
+    "seo_keyword": "Independent House in Bagh Sher Jung, Dhyori Agha Meer Khan Marg, Lucknow",
+    "title_h1": "Buy Independent House in Bagh Sher Jung, Dhyori Agha Meer Khan Marg, Lucknow",
+    "seo_description": "Find an Independent House in Bagh Sher Jung, Lucknow for sale. This property features spacious rooms, a convenient location, and desirable features. Don't miss out; call now to schedule a viewing and secure your dream home before it's gone. Act quickly!",
+    "created_at": "2025-07-26T08:03:11.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T13:22:09.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Axis Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46244/1753795329286_House3.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46244/1753795329286_House3.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

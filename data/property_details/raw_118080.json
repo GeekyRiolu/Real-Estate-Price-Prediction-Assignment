@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118080,
+    "borrower_name": "Mr. Ashish Kumar Singh",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "All that part  and  parcel of the property bearing Built Up 3rd Floor Front Side With Roof Terrace Rights of Property Bearing No E-168, out of Khasra No 15/11/2 Situated In The Revenue Estate Of Village Matiala, Area A Abadi Known As Mansa Ram Park, Uttam Nagar, New Delhi, 110059. Area Adm. (In Sq. FL): Property Type: Built Up Area, Carpet Area Property Area: 450.00, 382.00 Province/State :  Delhi City/Town :  New Delhi Area/Town :  Uttam Nagar",
+    "reserve_price": 1157000,
+    "dimensions": null,
+    "emd": 115700,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Uttam Nagar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110059,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

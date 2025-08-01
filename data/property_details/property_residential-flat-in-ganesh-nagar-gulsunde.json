@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 16, Ground Floor, Ganesh Nagar, Gulsunde, Panvel",
+    "name": "Residential Flat in Ganesh Nagar, Gulsunde, Panvel",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-18T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 80,
+    "built_up_area": "310 Sq ft",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Panvel",
+    "state": "Maharashtra",
+    "location": "Gulsunde",
+    "estimated_discount": "20",
+    "emd": 90000,
+    "market_value": 1080000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40238,
+    "latitude": "18.8789822",
+    "longitude": "73.15487499999999",
+    "min_increment": null,
+    "reserve_price": 900000,
+    "description": null,
+    "slug": "residential-flat-in-ganesh-nagar-gulsunde",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Kunjan Atmaram Bhagat",
+    "amenities": "Near Srushti farm Gulsunde | Close to Primary School Waveghar | Nearby Dr.Patil Hospital Rasayani",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for Sale in Panvel - Best Price!",
+    "seo_keyword": "Residential Flat in Ganesh Nagar, Gulsunde, Panvel",
+    "title_h1": "Buy Residential Flat in Ganesh Nagar, Gulsunde, Panvel",
+    "seo_description": "Explore this residential flat for sale located in Ganesh Nagar, Gulsunde, Panvel. This property offers a great living space and is conveniently located. Don't miss out on this opportunity; call now to schedule a viewing before it's gone!",
+    "created_at": "2025-07-10T01:17:10.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T11:06:37.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "Ujjivan Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40238/1752231997874_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40238/1752231997977_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

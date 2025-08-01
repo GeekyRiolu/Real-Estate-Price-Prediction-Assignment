@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 119368,
+    "borrower_name": "Mrs.Asha Ramachandran",
+    "bank_name": "Indian Overseas Bank",
+    "address": "Residential Building, Survey No. 344/5, Block No. 19, Manakkunnam, Kanayannur, Ernakulam",
+    "reserve_price": 4660000,
+    "dimensions": "1.45 Ares",
+    "emd": 466000,
+    "possession": null,
+    "auction_date": "2025-03-06T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Kanayannur Taluk",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=10.0024153, 76.3062488",
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 7,
+    "state_id": 12,
+    "city_id": 2280,
+    "property_type_id": 33,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No:,",
+    "ao_mobile": "2377658 / 2376949",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

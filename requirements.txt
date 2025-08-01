@@ -1,0 +1,47 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning Models
+xgboost
+lightgbm
+catboost
+
+# Natural Language Processing (NLP)
+spacy
+transformers
+torch
+beautifulsoup4
+
+# Image Analysis (Bonus)
+Pillow
+tensorflow
+torchvision
+
+# Web Framework (Deployment)
+fastapi
+uvicorn
+
+# Model Persistence
+joblib
+pickle
+
+# Experiment Tracking
+mlflow
+dvc
+
+# Workflow Orchestration
+apache-airflow
+prefect
+dagster
+
+# For reading config files
+python-dotenv
+
+# For geocoding
+geopy 

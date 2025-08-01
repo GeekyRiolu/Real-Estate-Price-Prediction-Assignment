@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": {
+    "id": 121823,
+    "borrower_name": "Mr Mishra Manoj R  and  Mrs Mishra Priya R  and  M/S E Click Computers (Represented Through Its Proprietor Mr Mishra Manoj)",
+    "bank_name": "HDFC Bank",
+    "address": "Flat No 009, Ground Floor, Happinest Palghar Project 1, Building No 9, Plot 1  and  2, Survey No 158+183P+183P, Nandore Village,Palghar [East], District Palghar \u2013 401404Admeasuring 391 Sq. Ft. Carpet Area Which Is Equivalent To 36.35 Sq. Mtrs. Carpet Area Or Thereabouts.",
+    "reserve_price": 1681000,
+    "dimensions": "391 Sq. Ft",
+    "emd": 168100,
+    "possession": "Physical",
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Palghar",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "pincode": 401404,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 14,
+    "city_id": 3330,
+    "property_type_id": 1,
+    "created_at": "2025-03-26T11:35:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Current Status": "Open for Private Treaty"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No.303, 3rd Floor, B Wing, Building No.7, Spring Leaf, Kandivali(E), Mumbai",
+    "name": "Flat in Spring Leaf, Kandivali(E), Mumbai",
+    "application_date": "2025-08-06T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 2,
+    "built_up_area": "850 SFT BUA",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "location": "Kandivali",
+    "estimated_discount": "20",
+    "emd": 1500000,
+    "market_value": 20000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39420,
+    "latitude": "19.19654890744924",
+    "longitude": "72.87078761615646",
+    "min_increment": null,
+    "reserve_price": 15000000,
+    "description": null,
+    "slug": "flat-in-spring-leaf-kandivalie-mumbai",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751867871110!6m8!1m7!1sgGsiau4Z8V7KK2iXPma6aA!2m2!1d19.19721530832637!2d72.87002871620416!3f109.27891869815038!4f29.730871450694508!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Mr. Shailesh Kamalashankar Mishra",
+    "amenities": "Just a 4 min drive to D-Mart | Within 10 mins drive to Oberoi Mall | Within 10 mins drive to Mumbai Public School | Within 10 mins drive to Lifeline Medicare Hospitals",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Spring Leaf - Best Price",
+    "seo_keyword": "Flat in Spring Leaf, Kandivali(E), Mumbai",
+    "title_h1": "Buy Flat in Spring Leaf, Kandivali(E), Mumbai",
+    "seo_description": "Find a beautiful flat in Spring Leaf, Kandivali(E), Mumbai. Explore modern amenities and well-designed spaces. Discover a prime location with excellent connectivity. Call now to schedule a visit and secure your dream home before it's gone!",
+    "created_at": "2025-07-05T12:22:03.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-07T06:01:38.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39420/1751868098435_SPRING LEAF.png"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39420/1751868098350_SPRING LEAF.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

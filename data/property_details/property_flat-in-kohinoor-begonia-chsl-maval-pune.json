@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 202, 2nd Floor, Bldg No. B 1, Kohinoor Begonia CHSL, Maval, Pune",
+    "name": "Flat in Kohinoor Begonia CHSL, Maval, Pune",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-27T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "44 Sq.Mtr",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "location": "Maval",
+    "estimated_discount": "20",
+    "emd": 192400,
+    "market_value": 3000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 45924,
+    "latitude": "18.74631614596936",
+    "longitude": "73.68068103200598",
+    "min_increment": null,
+    "reserve_price": 1924000,
+    "description": null,
+    "slug": "flat-in-kohinoor-begonia-chsl-maval-pune",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753440248738!6m8!1m7!1scna1L8WIJpTlsWBDI3KTKA!2m2!1d18.74631614596935!2d73.68123088486524!3f288.2132670304861!4f3.0254553798370836!5f0.401153390412406\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Arjun Dilip Patil",
+    "amenities": "5 mins walk to D-mart | Just a 4 min drive to DY Patil High School | Within 10 mins drive to Aansh Plaza | Just a 10 min drive to Sevadham Hospital",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Kohinoor Begonia CHSL - Best Price!",
+    "seo_keyword": "Flat in Kohinoor Begonia CHSL, Maval, Pune",
+    "title_h1": "Buy Flat in Kohinoor Begonia CHSL, Maval, Pune",
+    "seo_description": "Find a fantastic flat in Kohinoor Begonia CHSL, Maval, Pune, for comfortable living. Discover modern amenities and excellent connectivity options. These properties are in high demand. Call now to schedule a visit and secure your dream home before it\u2019s gone.",
+    "created_at": "2025-07-25T03:39:06.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-25T10:49:29.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/45924/1753440569159_kohinoor.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/45924/1753440569159_kohinoor.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

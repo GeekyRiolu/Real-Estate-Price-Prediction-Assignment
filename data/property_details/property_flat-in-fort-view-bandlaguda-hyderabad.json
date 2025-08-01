@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 303, 3rd Floor, Block No 3, Fort View, Bandlaguda, Hyderabad",
+    "name": "Flat in Fort View, Bandlaguda, Hyderabad",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": "1,470 SFT",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "location": "Bandlaguda",
+    "estimated_discount": "20",
+    "emd": 625000,
+    "market_value": 10000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46434,
+    "latitude": "17.36968693434536",
+    "longitude": "78.3912658944798",
+    "min_increment": null,
+    "reserve_price": 6250000,
+    "description": null,
+    "slug": "flat-in-fort-view-bandlaguda-hyderabad",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753867846252!6m8!1m7!1s4Bg6vXqlHXOP8RuTSAxv9Q!2m2!1d17.36943350447005!2d78.39122432024313!3f20.31180048323905!4f12.17726764612!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr.Yadagiri Prasad Mandulla & Mrs.Tangadapally Sumalatha",
+    "amenities": "Along with UDS-64 Sq.yards | Along with One Car Parking-100 SFT | Within 10 mins drive to Rex Super Speciality Hospital | Within 10 mins drive to Pallavi International School | Within 10 mins drive to Mantra Mall",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Fort View, Bandlaguda - Best Price",
+    "seo_keyword": "Flat in Fort View, Bandlaguda, Hyderabad",
+    "title_h1": "Buy Flat in Fort View, Bandlaguda, Hyderabad",
+    "seo_description": "Find a perfect flat in Fort View, Bandlaguda, Hyderabad. This property offers comfortable living with excellent amenities and convenient access. Explore spacious rooms and make it your new home. Call now to schedule a visit and seize this opportunity before it's gone!",
+    "created_at": "2025-07-26T21:58:41.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T09:39:05.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46434/1753868345472_Fort view.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46434/1753868345472_Fort view.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

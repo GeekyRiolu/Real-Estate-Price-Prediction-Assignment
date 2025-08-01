@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122103,
+    "borrower_name": "Rajputana Natural Juice",
+    "bank_name": "Protium Finance Limited",
+    "address": "A. Immoveable Properties: An Immovable Constructed Commercial Property Being Shop No. 03, Scheme Name Madhumalti Complex Having Built Up Area 13.47 Sq. Mtrs  and  11.61 Sq. Mtrs Fotal Area Adm 25.08 Sq Mirs And Total Super Builtup Area Adm 30.94 Sq. Mtrs  and  Undivided Shares Of Proportionate Land Area Adm 15.68 Sq. Mtrs And Rs No. 911/1, Tp Scheme Ro. 3, Fp No. 247 Situated At Mouj\u0435 Village Bapod Ta: Vadodara  and  Dist Vadodara Bounded By East: Shop No. 4, West: Margin Space, North: Margin Space, South: Shop No. 2 Province/State : Gujarat City/Town : Vadodara Area/Town : Bapod",
+    "reserve_price": 6000000,
+    "dimensions": "13.47 Sq. Mtrs",
+    "emd": 600000,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Bapod",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Commercial Shop/Retail Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 153,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 16,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478238",
+      "Branch Name": "Registered Office: Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

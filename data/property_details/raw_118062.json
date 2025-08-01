@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118062,
+    "borrower_name": "Mr. Suman Mishra",
+    "bank_name": "Union Bank of India",
+    "address": "Residential flat no 104, 3rd floor without roof rights out of property bearing no CD-46, built on plot no-46, along with proportionate, indivisible  and  impartial ownership rights of the underneath land measuring 64 sq. yds with one small car parking on stilt floor out of khasra no.15/1/2, situated in area of village Mirzapur, Delhi State, Known as Mahavir Enclave, New Delhi-110045 in the name of Mr. Suman Mishra s/o Mr. KN Mishra  and  Mrs. Shikha Mishra w/o Mr. Suman Mishra bounded as: North- Gali, South- Entry/road, East Property No-CD-47, West-Property No-CD-45 Province/State :  Delhi City/Town :  New Delhi Area/Town :  Mirzapur",
+    "reserve_price": 1722000,
+    "dimensions": "64 sq. yds",
+    "emd": 172200,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Mahavir Enclave",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110045,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

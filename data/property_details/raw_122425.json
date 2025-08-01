@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122425,
+    "borrower_name": "Sri. Srinivas. M",
+    "bank_name": "Bank of Baroda",
+    "address": "Schedule Property: Item No.1 (Owner: Smt. Lakshmamma): All That Piece And The Parcel Of The Residential Property Bearing Site No.5, Earlier Assessment No.40/5A, Present Khatha No.318/40/5A/05, Situated At Hennur Village, Kasaba Hobli, Bengaluru North, Measuring East To West 30 Feet And North To South 40 Feet, Totally Measuring 1,200 Square Feet, Along With The Building Constructed Thereon And Bounded On The East By Site No.6 Of Smt. R. Papamma, West By: Shaneshwaraswamy Temple, North By: Private Property, South By: Road. Province/State : Karnataka City/Town : Bengaluru Area/Town : Kasaba Hobli",
+    "reserve_price": 14616045,
+    "dimensions": "",
+    "emd": 1461605,
+    "possession": null,
+    "auction_date": "2025-04-14T18:30:00.000Z",
+    "application_deadline": "2025-04-12T18:30:00.000Z",
+    "locality": "Kasaba Hobli",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479191",
+      "Branch Name": "Regional Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

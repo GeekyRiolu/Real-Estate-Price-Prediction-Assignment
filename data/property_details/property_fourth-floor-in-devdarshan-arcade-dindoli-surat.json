@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "HE01RHE00000035014",
+    "address": "Hall on 4th Floor, Devdarshan Arcade, Dindoli, Surat",
+    "name": "Fourth Floor in Devdarshan Arcade, Dindoli, Surat",
+    "application_date": "2025-08-11T18:30:00.000Z",
+    "date": "2025-08-12T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 31,
+    "built_up_area": null,
+    "total_area": "325.36 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Dindoli",
+    "estimated_discount": "20",
+    "emd": 1021500,
+    "market_value": 17000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40219,
+    "latitude": "21.15713514311555",
+    "longitude": "72.86099592439541",
+    "min_increment": null,
+    "reserve_price": 10215000,
+    "description": null,
+    "slug": "fourth-floor-in-devdarshan-arcade-dindoli-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Abdulhamid Vajirbhai Vajirwala",
+    "amenities": "Just a 4 min drive to Daily Mart Super Market | Just a 5 min drive to Rangeela Park | ~8 mins walk to Baba Memorial Hospital | Within 10 mins drive to Radheyshyam English School",
+    "nearby_locations": null,
+    "seo_title": "4th Floor for sale in Surat \u2013 Call Now",
+    "seo_keyword": "Fourth Floor in Devdarshan Arcade, Dindoli, Surat",
+    "title_h1": "Buy Fourth Floor in Devdarshan Arcade, Dindoli, Surat",
+    "seo_description": "Discover the 4th Floor property for sale in Devdarshan Arcade, Dindoli, Surat. This property offers a great opportunity for your needs. The space is available for sale, and you should call now to schedule a visit and explore your options today.",
+    "created_at": "2025-07-10T01:09:40.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T06:14:45.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40219/1752214485093_unnamed (27).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40219/1752214485210_unnamed (27).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

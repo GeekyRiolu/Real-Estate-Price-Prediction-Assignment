@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No.403, 4th Floor, Apex Love, Karanjade, Navi Mumbai",
+    "name": "Flat in Apex Love, Karanjade, Navi Mumbai",
+    "application_date": "2025-09-01T18:30:00.000Z",
+    "date": "2025-09-02T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "23 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "location": "Karanjade",
+    "estimated_discount": "20",
+    "emd": 275000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46914,
+    "latitude": "18.980351894458558",
+    "longitude": "73.09449337128301",
+    "min_increment": null,
+    "reserve_price": 2750000,
+    "description": null,
+    "slug": "flat-in-apex-love-karanjade-navi-mumbai",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753851213785!6m8!1m7!1suZIfRW9sFDTOm0rIoS4mnw!2m2!1d18.98022380733522!2d73.0944618553294!3f187.8385326919!4f14.878371410781895!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Vishal Kalidas Gagra",
+    "amenities": "Just a 2 min drive to D-Mart | Within 10 mins drive to New Horizon Public School | Within 10 mins drive to Phoenix Multispeciality Hospital | Within 10 mins drive to ONGC Shopping Complex",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat for sale in Karanjade - Best Price",
+    "seo_keyword": "Flat in Apex Love, Karanjade, Navi Mumbai",
+    "title_h1": "Buy Flat in Apex Love, Karanjade, Navi Mumbai",
+    "seo_description": "Discover a fantastic Flat in Apex Love, located in Karanjade, Navi Mumbai. This property offers comfortable living spaces. View this apartment and find the home you've always wanted. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-29T09:06:54.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T04:57:20.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46914/1753851440109_unnamed (6).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46914/1753851440109_unnamed (6).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

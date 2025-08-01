@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Khata No. 58/98, Khasra No. 231/109/89, Khata No. 55/95, Khasra No. 231/109/89, Bhogpur, Kalka,Panchkula",
+    "name": "Residential Plot in Bhogpur, Kalka,Panchkula",
+    "application_date": "2025-08-08T18:30:00.000Z",
+    "date": "2025-08-10T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 56,
+    "built_up_area": null,
+    "total_area": "1 Biswa 13 Biswasi",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Panchkula",
+    "state": "Haryana",
+    "location": "Bhogpur",
+    "estimated_discount": "20",
+    "emd": 328900,
+    "market_value": 3946800,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39331,
+    "latitude": "30.833311",
+    "longitude": "76.9356735",
+    "min_increment": null,
+    "reserve_price": 3289000,
+    "description": null,
+    "slug": "residential-plot-in-bhogpur-kalkapanchkula",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "KHALIL AHMED & JAMEELA KHALIL",
+    "amenities": "Near Sophia Convent School | Close to MMJ Sanjivani Hospital | Near SSD SMART SCHOOL | Close to Khurana Hospital | Nearby visshwas Hospital- Trauma Centre in Pinjore",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Bhogpur \u2013 Best Price",
+    "seo_keyword": "Residential Plot in Bhogpur, Kalka,Panchkula",
+    "title_h1": "Buy Residential Plot in Bhogpur, Kalka, Panchkula",
+    "seo_description": "Discover a prime Residential Plot in Bhogpur, Kalka, Panchkula. You can buy this property for building your dream home. This plot offers great investment potential in a developing area. Call now to schedule a visit and secure your plot today before they are all gone!",
+    "created_at": "2025-07-05T01:10:38.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-10T12:40:59.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Aditya Birla Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39331/1752151259818_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39331/1752151259971_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

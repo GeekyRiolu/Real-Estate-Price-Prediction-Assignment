@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118512,
+    "borrower_name": "M/S. Sri Venkateswara Agencies",
+    "bank_name": "ICICI Bank",
+    "address": "Property-3 Commercial Shop No.9, Plot No. 9, Door No. 11-399/9, Assmt No. 1951, In D No. 43/E, B.K Complex, Sai Nagar, Beside Sai Baba Temple, Opposite To Dream Home, Sattenapalli Road, Narasaraopet, Palnadu District, Vijayawada",
+    "reserve_price": 6500000,
+    "dimensions": "230.37 Sq.Yds",
+    "emd": 650000,
+    "possession": null,
+    "auction_date": "2025-03-11T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Palnadu",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Commercial Shop/Retail Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 1,
+    "city_id": 282,
+    "property_type_id": 16,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Phone No. .",
+    "ao_mobile": "8008999536 / 9326713629",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

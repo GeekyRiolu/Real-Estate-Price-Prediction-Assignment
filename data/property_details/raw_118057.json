@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118057,
+    "borrower_name": "M/S Shagun Sales Inc",
+    "bank_name": "Canara Bank",
+    "address": "All the part and parcel of the property comprised of EMT of portion of built up property bearing No. C-38 and known as C-38B, Land area measuring 100 Sq Yards with all its roofiterrace rights, out of Khasra No. 85/3  and  8, Block C Village Hastsal Colony Known as Mitap Nagar, Block C. Uttam Nagar, New Delhi 110059 in the name of Smt. Anju Lata Sharma w/o Late Ved Prakash Sharma. Bounded as underEast: Road 24 FL West: Road 20 Ft North: Property No. C-39 South: Portion of Property No. C-38 Province/State :  Delhi City/Town :  New Delhi Area/Town :  Uttam Nagar",
+    "reserve_price": 27200000,
+    "dimensions": "100 Sq Yards",
+    "emd": 2720000,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Uttam Nagar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110059,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 33,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

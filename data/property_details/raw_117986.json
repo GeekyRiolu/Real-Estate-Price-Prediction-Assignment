@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 117986,
+    "borrower_name": "M/S P. K. Plastic Industries",
+    "bank_name": "Canara Bank",
+    "address": "Residential Property/ Plot Khasra No.-276, situated at Village-Ghukna, Pargana-Loni, Tehsil  and  Distt-Ghaziabad and also The Constructions and Super structures to be built and already built thereon, together with all rights of easements of all kinds appurtenant thereton in name of Mrs. Usha W/o Mr. Pramod Kumar Yadav. Admeasuring Area: 93 Sq Yardie 77.75 Sq. Meter Boundaries of the Property as under:- East: Road 10 Feet West: Property of Mrs. Beena etc North Road 10 feet South: Plot of seller (This property is in Symbolic possession of the Bank) Province/State :  Uttar Pradesh City/Town :  Ghaziabad Area/Town :  Loni",
+    "reserve_price": 2450000,
+    "dimensions": "93 Sq Yard",
+    "emd": 245000,
+    "possession": "Symbolic",
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Pargana",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 26,
+    "city_id": 3280,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

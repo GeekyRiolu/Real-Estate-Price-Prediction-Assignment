@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "LBSUR00005523573",
+    "address": "Flat No. 104, 1st Floor, Radhe Krishna Palace-2, Kamrej, Surat",
+    "name": "Flat in Radhe Krishna Palace-2, Kamrej, Surat",
+    "application_date": "2025-08-07T18:30:00.000Z",
+    "date": "2025-08-10T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": "467.63 SFT",
+    "total_area": "780.87 SFT SBUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Kamrej",
+    "estimated_discount": "20",
+    "emd": 64000,
+    "market_value": 768000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39563,
+    "latitude": "21.182632418348565",
+    "longitude": "72.93176770326329",
+    "min_increment": null,
+    "reserve_price": 640000,
+    "description": null,
+    "slug": "flat-in-radhe-krishna-palace-2-kamrej-surat",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751868964997!6m8!1m7!1sFcRbCv7PEmAbCinPGcbNhQ!2m2!1d21.18272870609165!2d72.93178111430784!3f190.97524474826687!4f13.333881476804734!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mehulbhai Mehta",
+    "amenities": "Just a 5 min drive to N.D Kothari English School | Within 10 mins drive to Punit Orthopaedic Hospital | Within 10 mins drive to Vidhata Shopping Center | Within 10 mins drive to Zudio",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Radhe Krishna Palace-2 \u2013 Best Price",
+    "seo_keyword": "Flat in Radhe Krishna Palace-2, Kamrej, Surat",
+    "title_h1": "Buy Flat in Radhe Krishna Palace-2, Kamrej, Surat",
+    "seo_description": "Find your perfect flat in Radhe Krishna Palace-2, Kamrej, Surat. This property offers a great investment opportunity. Explore spacious living and modern amenities. Call now to schedule a visit and secure your dream home before it\u2019s gone.",
+    "created_at": "2025-07-07T00:09:34.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-07T06:19:30.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39563/1751869170489_Screenshot 2025-07-07 114639.png"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39563/1751869170323_Screenshot 2025-07-07 114639.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "LBRAJ00005531318",
+    "address": "Flat No 302, 3rd Floor, Building C, R K Dreamland-2, Rohidaspra, Rajkot",
+    "name": "Flat in R K Dreamland, Rohidaspra, Rajkot",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-04T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "61.49 Sq Mtrs BUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "location": "Rohidaspra",
+    "estimated_discount": "20",
+    "emd": 255000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 37648,
+    "latitude": "22.321688953344047",
+    "longitude": "70.82059787684858",
+    "min_increment": null,
+    "reserve_price": 2550000,
+    "description": null,
+    "slug": "flat-in-r-k-dreamland-rohidaspra-rajkot",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751266794117!6m8!1m7!1sBT6k0JRMqXvP1-2WfxFfkw!2m2!1d22.32175563612493!2d70.82070114189162!3f222.4270981403597!4f26.3840830379459!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Ganatra Dhairya Shaileshbhai",
+    "amenities": "Just a 4 min drive to Gokul Hospital | Just a 4 min drive to BOMBAY SUPER SEEDS MALL | Just a 4 min drive to D Mart | Within 10 mins drive to Little Star English School",
+    "nearby_locations": null,
+    "seo_title": "Flat for sale in Rohidaspra - Best Price!",
+    "seo_keyword": "Flat in R K Dreamland, Rohidaspra, Rajkot",
+    "title_h1": "Buy Flat in R K Dreamland, Rohidaspra, Rajkot",
+    "seo_description": "Find a fantastic flat in R K Dreamland, Rohidaspra, Rajkot. This property offers comfortable living and is ideally located. We offer amazing deals on this property. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-06-28T06:55:11.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-06-30T07:03:08.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/37648/1751266988797_Screenshot 2025-06-30 123026.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/37648/1751266988956_Screenshot 2025-06-30 123026.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123237,
+    "borrower_name": "Men Cluster",
+    "bank_name": "Protium Finance Limited",
+    "address": "Description A. Immoveable Properties: All The Part Of House Bearing Municipall No. 13 - 5 - 618/4 Admeasuring 200 Sq. Yard Situated At Mustaidpura, Tappachbutra, Karwan, Hyderabad, T.S. (Ptin No. 1071316626) And Bound By North: Neighbour'S House South: Road East: Neighbour'S House West: Part Of House Province/State : Telangana City/Town : Hyderabad Area/Town : Mustaidpura",
+    "reserve_price": 3500000,
+    "dimensions": "200 Sq. Yard",
+    "emd": 350000,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Mustaidpura",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": 107131,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 153,
+    "state_id": 24,
+    "city_id": 3286,
+    "property_type_id": 29,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474605",
+      "Branch Name": "Registered Office: Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

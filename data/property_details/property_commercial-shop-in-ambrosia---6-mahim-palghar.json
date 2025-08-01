@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No. 03, Ground Floor, Building-B, Ambrosia - 6, Mahim, Palghar",
+    "name": "Commercial Shop in Ambrosia - 6, Mahim, Palghar",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-05T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "320 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Mahim",
+    "estimated_discount": "20",
+    "emd": 250000,
+    "market_value": 3610000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 24816,
+    "latitude": "19.6895682",
+    "longitude": "72.7558492",
+    "min_increment": null,
+    "reserve_price": 2500000,
+    "description": "null",
+    "slug": "commercial-shop-in-ambrosia---6-mahim-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": null,
+    "possession": "Physical",
+    "borrower_name": "Laxmi Super Market",
+    "amenities": "Close to Sundaram Central School Palghar (CBSE School) | Near by Rajshree Hospital (Hospital) | Close to C mart (D-Mart) | Near by Jay bajarang bali tempo sarvice, chintupada,palghar (Mall)",
+    "nearby_locations": null,
+    "seo_title": "Shop for Sale - Mahim, Palghar | Ambrosia 6",
+    "seo_keyword": "Shop for sale Mahim Palghar, Ambrosia 6 commercial space Palghar",
+    "title_h1": "Commercial Shop in Ambrosia - 6, Mahim, Palghar",
+    "seo_description": "Ground floor shop in Ambrosia 6, Mahim, Palghar.  Ideal commercial space in a prime residential area.  Building B, Shop No. 03.  Contact for details.",
+    "created_at": "2025-02-17T12:25:31.000Z",
+    "created_by": 1626,
+    "updated_at": "2025-07-08T08:49:23.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Harshit Gupta",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 1240000,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/2025/01/media/1736247989_3e36aed48fc77a4d.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/2025/01/media/1736247989_3e36aed48fc77a4d.jpg"
+    ]
+  }
+}

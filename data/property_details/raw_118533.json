@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118533,
+    "borrower_name": "Late Mr. Ramisetty Bollaiah",
+    "bank_name": "Bank of Baroda",
+    "address": "Flat No 502 (or F-2), 4th Floor, Srinivasa Towers, Prakash Nagar, 60 Feet Road, Old Door No 12-13-160, Present Door No 13-1-1/A, Old Survey No 315/A, T.S. No 1553/6, Block No 2/26, Old Assessment No 488, New Assessment No 1024022078, Plot No.3, Narasaraopet Municipal Area, Narasaraopet Sub District, Narasaraopet Registration District, Palinadu District, Guntur.",
+    "reserve_price": 2548000,
+    "dimensions": "1510 Sq.Ft (Including Common Area)",
+    "emd": 254800,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Narasaraopet",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": 897751,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Tel No: , Mobile:",
+    "ao_mobile": "08647 / 220576 / 8977513909",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

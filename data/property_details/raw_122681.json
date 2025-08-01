@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122681,
+    "borrower_name": "M/S Sai Teja Agencies",
+    "bank_name": "Indian Bank",
+    "address": "Residential Plot At Guntur Dt, D No 1215 And 1215/1, Near Bypass Road Nh-5 Ponnur Guntur Dist A.P. Admeasuring 228.Sq Yards Plot No.13 Mortgaged By No. 4 Of You And With All Appurtenances There In Property Is Being Bounded By: East: 30 Feet Wide Road 33'-04 , South: Land Of Mokkapati Nirmala 61'-06 , West: Plot No 36,33'04 , North: Plot No 14, 61'06  Province/State : Andhra Pradesh City/Town : Guntur Area/Town : Ponnuru",
+    "reserve_price": 1641000,
+    "dimensions": "228.Sq Yards",
+    "emd": 164100,
+    "possession": null,
+    "auction_date": "2025-04-09T18:30:00.000Z",
+    "application_deadline": "2025-04-07T18:30:00.000Z",
+    "locality": "Ponnuru",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 6,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "463964",
+      "Branch Name": "Ponnur Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118375,
+    "borrower_name": "M/S Viva Collage Mal",
+    "bank_name": "Punjab National Bank",
+    "address": "0001, LGF-7  and  8, Viva Collage Mall, GT Road, Jalandhar. Leased to M/s Ninety-Nine General Retail Pvt Ltd. Owned by M/s Collage Estates Pvt Ltd.",
+    "reserve_price": 26989000,
+    "dimensions": "4907.77 Sq Feet",
+    "emd": 2698900,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Neral",
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "pincode": 664201,
+    "latlong": "maps.google.com/maps?q=31.2876958, 75.6647141",
+    "property_type": "Commercial Shop/Retail Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 20,
+    "city_id": 3288,
+    "property_type_id": 16,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

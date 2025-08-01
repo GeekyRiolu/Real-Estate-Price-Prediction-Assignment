@@ -1,0 +1,72 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 123, 1st Floor, Raj Complex, Chalthan, Surat",
+    "name": "Flat in Raj Complex, Chalthan, Surat",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-08T05:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 2,
+    "built_up_area": null,
+    "total_area": "540 SFT BUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Chalthan",
+    "estimated_discount": "20",
+    "emd": 43000,
+    "market_value": 6500000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39496,
+    "latitude": "21.154316823546505",
+    "longitude": "72.95986513746249",
+    "min_increment": null,
+    "reserve_price": 425000,
+    "description": null,
+    "slug": "flat-in-raj-complex-chalthan-surat",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751865070188!6m8!1m7!1sZWplvH3_ul3cYRSlZRnGGA!2m2!1d21.15430806843685!2d72.960176273696!3f259.24467663794013!4f7.3792067268459505!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "M/s Jenam Creation",
+    "amenities": "Just a 2 min drive to Global Indian International School, Surat Campus | Just a 2 min drive to Sanjivani Hospital | Just a 3 min drive to Dhiraj Sons The Mega Store | Just a 5 min drive to Shree Nivas National Park",
+    "nearby_locations": null,
+    "seo_title": "Apartment for sale in Chalthan - Best Price",
+    "seo_keyword": "Flat in Raj Complex, Chalthan, Surat",
+    "title_h1": "Buy Flat in Raj Complex, Chalthan, Surat",
+    "seo_description": "Find a fantastic flat in Raj Complex, Chalthan, Surat. You can purchase a new home with us. We offer modern features, quality construction, and great value. Call now to schedule a visit before it's gone. Don't miss out on your dream home!",
+    "created_at": "2025-07-05T22:04:05.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-07T05:15:09.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Bank of India",
+    "price_drop": 585000,
+    "is_price_history_consistent": true,
+    "video": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39496/Residential_propid_190329_BKID2920JENAM_376128.mp4"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39496/Residential_propid_190329_BKID2920JENAM_376126.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39496/Residential_propid_190329_BKID2920JENAM_376127.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39496/Residential_propid_190329_BKID2920JENAM_376124.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39496/Residential_propid_190329_BKID2920JENAM_376125.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39496/Residential_propid_190329_BKID2920JENAM_376122.jpg",
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39496/Residential_propid_190329_BKID2920JENAM_376123.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/39496/1751865309688_Screenshot 2025-07-07 104034.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39496/1751865309862_Screenshot 2025-07-07 104034.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

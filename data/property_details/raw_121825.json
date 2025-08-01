@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": {
+    "id": 121825,
+    "borrower_name": "Mr Achalkhamb Ratnakar Anna  and  Mrs Achalkhamb Laxmi Ratnakar",
+    "bank_name": "HDFC Bank",
+    "address": "Flat No 603, 6Th Floor, B Wing, \u201cVishwajeet Manor\u201d, Survey No 57/4, Village Katrap, Kulgaon, Badlapur [East], District Thane \u2013421501Admeasuring 327 Sq. Ft. Carpet Area Which Is Equivalent To 30.45 Sq. Mtrs. Carpet Area Or Thereabouts.",
+    "reserve_price": 2595000,
+    "dimensions": "327 Sq. Ft",
+    "emd": 259500,
+    "possession": "Physical",
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Badlapur",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421501,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-26T11:35:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Current Status": "Open for Private Treaty"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

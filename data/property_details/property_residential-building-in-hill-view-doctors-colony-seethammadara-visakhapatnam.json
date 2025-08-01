@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Door No 50-1-50, Asst. No 46500/17, Hill View Doctors Colony, Seethammadara, Visakhapatnam",
+    "name": "Residential Building in Hill View Doctors Colony, Seethammadara, Visakhapatnam",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": "360 Sq.yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "location": "Seethammadara",
+    "estimated_discount": "20",
+    "emd": 4600000,
+    "market_value": 60000000,
+    "trending": 1,
+    "private_treaty": 0,
+    "id": 16086,
+    "latitude": "17.746972403801",
+    "longitude": "83.313860811054",
+    "min_increment": null,
+    "reserve_price": 46000000,
+    "description": "null",
+    "slug": "residential-building-in-hill-view-doctors-colony-seethammadara-visakhapatnam",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1721378846598!6m8!1m7!1spgMu_ZwI2BbfA-l_uAFVtw!2m2!1d17.74681402053019!2d83.31383398896565!3f241.0884767598226!4f7.705867531604227!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 3,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Maruthi Constructions",
+    "amenities": "Config- Ground Floor + First Floor + Second Floor + Third Floor | 1 km from The Presidential School | 2 km from CMR Central Mall | 2 km from Rajiv Gandhi Indoor Stadium",
+    "nearby_locations": null,
+    "seo_title": "Residential Building in Hill View Doctors Colony, Seethammadara, Visakhapatnam",
+    "seo_keyword": "residential building in hill view doctors colony seethammadara visakhapatnam",
+    "title_h1": "Residential Building in Hill View Doctors Colony, Seethammadara, Visakhapatnam",
+    "seo_description": "Buy Properties from Banks and Financial Institutions. Search from an Increasing Pool of Various Types of Properties at Discounted Prices.",
+    "created_at": "2024-07-19T12:15:05.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-07-30T11:18:37.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 17800000,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes",
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/2024/07/media/1721379683_1b5cfa7b83c0039d.jpg ",
+      " https://hecta-website.s3.ap-south-1.amazonaws.com/2024/07/media/1721379683_b562b53ae89d5a82.jpg ",
+      " https://hecta-website.s3.ap-south-1.amazonaws.com/2024/07/media/1721379683_66b1b19a41100e49.jpg ",
+      " https://hecta-website.s3.ap-south-1.amazonaws.com/2024/07/media/1721379683_7d0fc8c66edb23e4.jpg"
+    ],
+    "video": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/uploads/2024/Videos/01/WhatsApp+Video+2024-11-15+at+11.28.44+AM.mp4"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/uploads/2022/01/bg-1.jpg"
+    ]
+  }
+}

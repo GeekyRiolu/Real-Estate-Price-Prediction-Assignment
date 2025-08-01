@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122250,
+    "borrower_name": "M/S. Jay Ambe Super Store",
+    "bank_name": "Tata Capital Financial Services Limited",
+    "address": "Property No. 1: All Rights, Title And Interest In Non-Agriculture Property Bearing Revenue Survey No. 11/1+ 36/1, Sub-Division No.2. Block No. 60 And Revenue Survey No. 11/1+ 36/2, Sub Division No. 2, G106361057 Block No. 59 After Merger New Block No. 59/8/2 Paiki Sub Plot No. 2, Admeasuring 1736.53 Sq.Mtr. T.P. Scheme No. 59. F.P. No. 57, Admeasuring 1612.13 Sq.Mtr. Constructed Building Which Is Known And Named As  Radha Kishan Residency  Paiki Ground Floor Shop No. 5 Having Built Up Area Admeasuring 259.35 Sq.Ft. Le. 24.10 Sq.Mtr. And Carpet Area Admeasuring 231.57 Sq.Ft. Ie. 21.52 Sq.Mtr. Of Moje Village: Pardi-Kande, Taluka: Choriyashi Dist: Surat. Bounded As Under: Towards North: Shop No.4; Towards South: Shop No.6: Towards East: O.T.S Side: Towards West: Road Side Province/State : Gujarat City/Town : Surat Area/Town : Choryasi",
+    "reserve_price": 2655000,
+    "dimensions": "1736.53 Sq.Mtr",
+    "emd": 265500,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Choryasi",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pincode": 106361,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 53,
+    "state_id": 7,
+    "city_id": 4123,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "458167",
+      "Branch Name": "Surat"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

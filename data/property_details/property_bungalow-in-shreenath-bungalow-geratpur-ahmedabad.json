@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Bungalow No. 15, Shreenath Bungalow, Geratpur, Ahmedabad",
+    "name": "Bungalow in Shreenath Bungalow, Geratpur, Ahmedabad",
+    "application_date": "2025-08-04T18:30:00.000Z",
+    "date": "2025-08-05T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "location": "Geratpur",
+    "estimated_discount": "20",
+    "emd": 307000,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38390,
+    "latitude": "22.920080420949883",
+    "longitude": "72.65096047806229",
+    "min_increment": null,
+    "reserve_price": 3070000,
+    "description": null,
+    "slug": "bungalow-in-shreenath-bungalow-geratpur-ahmedabad",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751441402426!6m8!1m7!1syfr04SIiSzDDL3qRFlBgOw!2m2!1d22.91985841789755!2d72.65198776474357!3f291.38943227790713!4f8.873263104062588!5f1.6545195411998912\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 3,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Khatik Radhika Bhupendra",
+    "amenities": "2 min ride to Geratpur Railway Station | Within 10 mins drive to Dhaval General Hospital | Within 10 mins drive to Anand Niketan School",
+    "nearby_locations": null,
+    "seo_title": "Bungalow for sale in Geratpur \u2013 Best Price",
+    "seo_keyword": "Bungalow in Shreenath Bungalow, Geratpur, Ahmedabad",
+    "title_h1": "Buy Bungalow in Shreenath Bungalow, Geratpur, Ahmedabad",
+    "seo_description": "Explore a beautiful bungalow for sale in Shreenath Bungalow, Geratpur, Ahmedabad. This property offers spacious living areas and is ideally located. View the property now and discover its potential. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-02T00:11:16.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-02T07:33:37.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38390/1751441617282_bungalow.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38390/1751441617507_bungalow.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

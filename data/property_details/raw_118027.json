@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118027,
+    "borrower_name": "M/S Central Medical Agencies",
+    "bank_name": "Canara Bank",
+    "address": "Godown no. LGF 9 A situated at A R Centre Building, B N Verma Road, Ward Rani Laxmi Bai, Aminabad Lucknow. Area 36.71 Sq.mt. Bounded as:- East: Godown no. LGF 10A, West: Godown no. LGF 9B, North: Passage, South: Open Province/State :  Uttar Pradesh City/Town :  Lucknow Area/Town :  Aminabad",
+    "reserve_price": 1873000,
+    "dimensions": "36.71 Sq.mt",
+    "emd": 187300,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Lucknow",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Industrial warehouse/Godown",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 26,
+    "city_id": 3088,
+    "property_type_id": 25,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

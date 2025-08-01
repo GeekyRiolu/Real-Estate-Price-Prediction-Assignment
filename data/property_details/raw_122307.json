@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122307,
+    "borrower_name": "M/S Elite Steel Products",
+    "bank_name": "Canara Bank",
+    "address": "Sl No 1 All Piece And Parcel Of Land And Building Measuring 1 Kanal 14 Marla Which Is 34/1002 Part Of Total Land Measuring Kitte 10 Rakba 50 Kanal 2 Marla Comprised In Khewat No-167, Khatoni No-221, Murba Killa No- 84//9/2,10/1 Situated At Village Theri Baba Sawan Singh, Tehsil And District Sirsa, Haryana In The Name Of Sh.Sonu S/O Sh. Hans Raj. Province/State : Haryana City/Town : Sirsa Area/Town : Theri Baba Sawan Singh",
+    "reserve_price": 3900000,
+    "dimensions": "",
+    "emd": 390000,
+    "possession": null,
+    "auction_date": "2025-04-14T18:30:00.000Z",
+    "application_deadline": "2025-04-12T18:30:00.000Z",
+    "locality": "Theri Baba Sawan Singh",
+    "city": "Sirsa",
+    "state": "Haryana",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 8,
+    "city_id": 1366,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478545",
+      "Branch Name": "Arm Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

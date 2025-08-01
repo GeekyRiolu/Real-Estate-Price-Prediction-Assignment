@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118379,
+    "borrower_name": "Mr. Kavuri Srinivasa Rao",
+    "bank_name": "Bank of Baroda",
+    "address": "D.No 167/A, Budampadu, Guntur New Municipal Corporation Area, Guntur Sub-District, Guntur District, Andhra Pradesh",
+    "reserve_price": 2646000,
+    "dimensions": "245 Sq. Yds",
+    "emd": 264600,
+    "possession": null,
+    "auction_date": "2025-03-28T18:30:00.000Z",
+    "application_deadline": "2025-03-26T18:30:00.000Z",
+    "locality": "Budampadu",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=16.3101066, 80.4571253",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Authorised Officer Telephone No:  Mobile No:",
+    "ao_mobile": "2220084 / 8977513932",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

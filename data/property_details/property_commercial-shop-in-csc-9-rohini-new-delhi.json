@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No 39, CSC-9, First Floor, Sector 16, Rohini, New Delhi",
+    "name": "Commercial Shop in CSC-9, Rohini, New Delhi",
+    "application_date": "2025-09-07T18:30:00.000Z",
+    "date": "2025-09-08T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 158,
+    "built_up_area": null,
+    "total_area": "21 Sq.Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "location": "Naharpur",
+    "estimated_discount": "20",
+    "emd": 400000,
+    "market_value": 4800000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47150,
+    "latitude": "28.7071819",
+    "longitude": "77.1127649",
+    "min_increment": null,
+    "reserve_price": 4000000,
+    "description": null,
+    "slug": "commercial-shop-in-csc-9-rohini-new-delhi",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "Vaxicare Enterprises Private Limited",
+    "amenities": "Nearby MCD Parking Rani Bagh Market | Nearby Centre Market Traders Associates | Near Reliance SMART Superstore | Close by City Centre Rohini",
+    "nearby_locations": null,
+    "seo_title": "Commercial Shop for sale in Rohini - Best Price",
+    "seo_keyword": "Commercial Shop in CSC-9, Rohini, New Delhi",
+    "title_h1": "Buy Commercial Shop in CSC-9, Rohini, New Delhi",
+    "seo_description": "Find a prime commercial shop in CSC-9, Rohini, New Delhi. This property offers excellent investment potential for your business. Explore its features and benefits today. Call now to secure this opportunity before it's gone. Don't miss out on this valuable space!",
+    "created_at": "2025-07-30T21:38:47.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-31T07:32:47.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "IndusInd Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47150/1753947167959_Shop.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47150/1753947167959_Shop.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

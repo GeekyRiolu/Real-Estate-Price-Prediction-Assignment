@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122198,
+    "borrower_name": "M/S. Tanish Ent",
+    "bank_name": "Bajaj Finance",
+    "address": "All The Piece And Parcel Of Office Ne. Sf6, Sf/7.5F/31-2Nd Floor R.S. No 333/2/Paki/2 Cs No 240 Paiki Fp.No 84 Tp No 26 Earth Alpha Tower Alpha, Mouje Tandilja, Tal  and  Dist-Vadodara Gujarat 390007 Along With Proportionate Share In Common Areas Out Of Which Office No. Sf-11 (Area Adm 21.93 Sq. Mtr, Along With Undivided  and  Proportionate Land Adm 9.55 Sq. Mtr Bounded As: On East-Common Passage On West-Earth Africa Tower H; On North-Staircase On South-Office No. Sf/10 Province/State : Gujarat City/Town : Vadodara Area/Town : Tandalja",
+    "reserve_price": 1343430,
+    "dimensions": "21.93 Sq. Mtr",
+    "emd": 134343,
+    "possession": null,
+    "auction_date": "2025-04-09T18:30:00.000Z",
+    "application_deadline": "2025-04-07T18:30:00.000Z",
+    "locality": "Tandalja",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": 390007,
+    "latlong": null,
+    "property_type": "Commercial Office Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 107,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 10,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "468370",
+      "Branch Name": "Regd. Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

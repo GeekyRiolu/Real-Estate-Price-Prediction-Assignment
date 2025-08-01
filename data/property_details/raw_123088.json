@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123088,
+    "borrower_name": "Mr. Anmol Thor",
+    "bank_name": "Utkarsh Small Finance Bank",
+    "address": "Description All That Part And Parcel Of The Residential Property Area 300Sq Yard Or 2700Sq Ft, Comprised In Khasra No- 54//23,54//24 Khatta No-315/372,352/372, As Per Jamabani Year 2011-2012, H.B. No-72 Situated At Village- Seerah Ludhiana Tehsil  and Amp; Disst- Ludhiana Punjab-1141007, Sale Deed No-13853 Dated 12.09.2019 In Favour Of Anmol Thor Property Bounded By- East: Property Of Sunita Rani North: Street West: Other Owner South: Property Of Ganesh. Province/State : Punjab City/Town : Ludhiana Area/Town : Seera",
+    "reserve_price": 5028000,
+    "dimensions": "300Sq Yard",
+    "emd": 502800,
+    "possession": null,
+    "auction_date": "2025-04-09T18:30:00.000Z",
+    "application_deadline": "2025-04-07T18:30:00.000Z",
+    "locality": "Seera",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": 114100,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 123,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471092",
+      "Branch Name": "Varanasi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

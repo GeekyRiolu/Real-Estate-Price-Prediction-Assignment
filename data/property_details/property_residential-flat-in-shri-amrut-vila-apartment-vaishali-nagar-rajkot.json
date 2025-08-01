@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "LBRAJ00006097297, LBRAJ00006103173",
+    "address": "Flat No B-103, 1st Floor, Wing-b, Shri Amrut Vila Apartment, Vaishali Nagar, Rajkot",
+    "name": "Residential Flat in Shri Amrut Vila Apartment, Vaishali Nagar, Rajkot",
+    "application_date": "2025-09-01T18:30:00.000Z",
+    "date": "2025-09-02T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": "32.72 Sq Mtrs",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "location": "Vaishali Nagar",
+    "estimated_discount": "20",
+    "emd": 133000,
+    "market_value": 2300000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46190,
+    "latitude": "22.31717654424981",
+    "longitude": "70.80779160342604",
+    "min_increment": null,
+    "reserve_price": 1330000,
+    "description": null,
+    "slug": "residential-flat-in-shri-amrut-vila-apartment-vaishali-nagar-rajkot",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Bhatti Imran Rahimbhai",
+    "amenities": "Just a 4 min drive to Gokul Hospital | Just a 5 min drive to Little Star English School | Just a 5 min drive to D Mart | Within 10 mins drive to ANMOL SHOPPING MALL",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for Sale in Rajkot - Best Price!",
+    "seo_keyword": "Residential Flat in Shri Amrut Vila Apartment, Vaishali Nagar, Rajkot",
+    "title_h1": "Buy Residential Flat in Shri Amrut Vila Apartment, Vaishali Nagar, Rajkot",
+    "seo_description": "Find a beautiful residential flat in Shri Amrut Vila Apartment, Vaishali Nagar, Rajkot. This flat offers a comfortable living space and convenient location. Contact us now for exclusive deals and viewings; call now to schedule a visit before it's gone.",
+    "created_at": "2025-07-26T01:47:09.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T11:29:18.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46190/1753874958026_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46190/1753874958026_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

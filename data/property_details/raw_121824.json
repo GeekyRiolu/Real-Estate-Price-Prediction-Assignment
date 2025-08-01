@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": {
+    "id": 121824,
+    "borrower_name": "Mr Piwal Manojkumar Omprakash  and  Mrs Anusha Manojkumar",
+    "bank_name": "HDFC Bank",
+    "address": "Flat No 704, 7Th Floor, Building No 6, \u201cShree Ashtavinayak Vastu Prakalp\u201d, Phase Ii, Survey No 57, Badlapur-Katai Road, Belavalivillage, Badlapur East, District Thane \u2013 421503Admeasuring 546 Sq. Ft. Carpet Area Which Is Equivalent To 50.74 Sq. Mtrs. Carpet Area Or Thereabouts.",
+    "reserve_price": 2870000,
+    "dimensions": "546 Sq. Ft",
+    "emd": 287000,
+    "possession": "Physical",
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Badlapur",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421503,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-26T11:35:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Current Status": "Open for Private Treaty"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

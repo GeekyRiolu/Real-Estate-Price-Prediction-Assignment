@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122505,
+    "borrower_name": "Mr. Bya Reddy Nagaraj Reddy",
+    "bank_name": "LIC Housing Finance Limited",
+    "address": "All That Piece And Parcel Of The Land In Northern Portion Of Survey No.92/1 Of Konappana Agrahara Village, Begur Hobili, Bangalore South Taluk Duly Converted For Industrial Purpese As Per The Official Memorandum No.Aln(S)Sr136/2006-07 Dated 18-05-2011 Issued By The Special Deputy Commissioner, Bangalore District, Measuring 12,493 Square Feet Under The Administrative Jurisdiction Of Bbmp Limits, And Bounded On The East By: Land In Survey No.90 And Property Of Sri.B.N.Ashok Babu And Smt. Susheela West By: Land In Survey No.92/1 And Property Of Sri.B.N.Ashck Babu And Smt.Susheela North By: Private Property And Property Of Sri.B.N.Ashok Babu South By: Property Of Sri. B.N. Ashok Babu Province/State : Karnataka City/Town : Bengaluru Area/Town : Begur",
+    "reserve_price": 82700000,
+    "dimensions": "",
+    "emd": 8270000,
+    "possession": null,
+    "auction_date": "2025-03-31T18:30:00.000Z",
+    "application_deadline": "2025-03-29T18:30:00.000Z",
+    "locality": "Begur",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 44,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477310",
+      "Branch Name": "Bengaluru"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

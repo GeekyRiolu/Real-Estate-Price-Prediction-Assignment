@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No. 63, Mulechak, Amritsar",
+    "name": "Residential Plot in Mule Chak, Amritsar",
+    "application_date": "2025-08-29T18:30:00.000Z",
+    "date": "2025-08-31T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "97.77 Sq.yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "location": "Mulechak",
+    "estimated_discount": "20",
+    "emd": 250000,
+    "market_value": 3000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 45977,
+    "latitude": "31.5964709",
+    "longitude": "74.8653331",
+    "min_increment": null,
+    "reserve_price": 2500000,
+    "description": null,
+    "slug": "residential-plot-in-mule-chak-amritsar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "Anil Arora",
+    "amenities": "Near Amar Public school | Close to Amrit Senior Secondary School | Close to Toppers Academy | Close to Shoor A Multi Super Speciality Hospital | Close by Gurnam Nagar Park",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Amritsar - Best Price",
+    "seo_keyword": "Residential Plot in Mule Chak, Amritsar",
+    "title_h1": "Buy Residential Plot in Mule Chak, Amritsar",
+    "seo_description": "Discover a prime residential plot in Mule Chak, Amritsar. This land offers a fantastic opportunity for building your dream home or making a solid investment. Call now to schedule a viewing and explore the potential before it's gone. Don't miss this chance!",
+    "created_at": "2025-07-25T05:05:20.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T12:40:49.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/45977/1753792849160_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/45977/1753792849160_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

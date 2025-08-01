@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 403, 4th Floor, Concorde Apartments, Somajiguda, Hyderabad",
+    "name": "Flat in Concorde Apartments, Somajiguda, Hyderabad",
+    "application_date": "2025-08-01T18:30:00.000Z",
+    "date": "2025-08-03T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": null,
+    "total_area": "1,410 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "location": "Somajiguda",
+    "estimated_discount": "20",
+    "emd": 680000,
+    "market_value": 12000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 20430,
+    "latitude": "17.420032612742",
+    "longitude": "78.456587931909",
+    "min_increment": null,
+    "reserve_price": 6800000,
+    "description": "null",
+    "slug": "flat-in-concorde-apartments-somajiguda-hyderabad",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1730695496110!6m8!1m7!1sXEW2yS2Ees6D-xiPPeuupA!2m2!1d17.41989121736417!2d78.45663218835627!3f9.698626993883705!4f6.9726259597620555!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Mis Forrit Projects Private Limited",
+    "amenities": "Along with UDS-63 Sq.yards | Next to Irrum Manzil Metro Station | 0.8 km from Yashoda Hospital | 1 km from GK One Mall | 1 km from Raj Bhavan",
+    "nearby_locations": null,
+    "seo_title": "Flat for Sale in Concorde Apartments, Somajiguda, Hyderabad | 4th Floor",
+    "seo_keyword": "Flat for sale in Somajiguda Concorde Apartments Hyderabad 4th-floor apartment Hyderabad",
+    "title_h1": "Flat in Concorde Apartments, Somajiguda, Hyderabad",
+    "seo_description": "Explore a spacious 4th-floor flat at Concorde Apartments in the prime location of Somajiguda, Hyderabad. Perfect for families looking for comfort and convenience",
+    "created_at": "2024-11-04T06:00:32.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-08-01T12:17:08.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 3974000,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/2024/11/media/1730696545_7ef7ee9f59a040f5.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/uploads/2022/01/bg-1.jpg"
+    ]
+  }
+}

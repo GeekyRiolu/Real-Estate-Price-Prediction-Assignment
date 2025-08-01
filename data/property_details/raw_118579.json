@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118579,
+    "borrower_name": "M/S Sri Varalakshmi Textiles",
+    "bank_name": "Union Bank of India",
+    "address": "Property No. 1, R.S No. 174/2, D. No. 6-126/1, 6Th Ward, Main Road, Thorredu, East Godavari District, Andhra Pradesh",
+    "reserve_price": 2400000,
+    "dimensions": "177.75 Sq. Yards",
+    "emd": 240000,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Thorredu",
+    "city": "Goragommi",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=17.0819885, 81.7667903",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 3490,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Authorised Officer Chief Manager: Sri G.M.Srinivasa Rao,Ph:",
+    "ao_mobile": "08818 / 225625",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

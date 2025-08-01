@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118846,
+    "borrower_name": "Dinesh O Rajpurohit",
+    "bank_name": "Utkarsh Small Finance Bank Limited",
+    "address": "Description Of Property/Les: All That Piece  and  Parcel Of Residential Property Bearing Plot/House No.17 (Admeasuring About 401 Sq. Yards. Plot Area And Constructionthereon), In The Scheme Known As  Geeta Park  Situated On Survey No 202/1  and  202/2 Paiki, Mouje: Naroda, Taluka: Asarva, Dist  and  Sub District Ahmedabad Boundaries Bounded By-East: Survey No 203 West: Plot No 16 North: Way South: Plot No 21 Province/State : Gujarat City/Town : Ahmedabad Area/Town : Asarva",
+    "reserve_price": 9500000,
+    "dimensions": "401 Sq. Yards",
+    "emd": 950000,
+    "possession": null,
+    "auction_date": "2025-03-11T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Asarva",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 129,
+    "state_id": 7,
+    "city_id": 938,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Mr. Battise Mayur Mob.",
+    "ao_mobile": "7016155165",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

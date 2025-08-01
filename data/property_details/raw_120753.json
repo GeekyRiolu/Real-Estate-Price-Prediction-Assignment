@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 120753,
+    "borrower_name": "RAMANATHAN S",
+    "bank_name": "Bajaj Housing Finance Limited",
+    "address": "S-207 2ND FLOOR S and P LIVING SPACES BLK S NO VARIOUS S NO OF PONNIAMMAN NAGAR ROAD OF AYANAMBAKKAM VILLAGE CHENNAI 600095",
+    "reserve_price": 5000000,
+    "dimensions": "1060 sqft",
+    "emd": 500000,
+    "possession": null,
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": 600095,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 28,
+    "state_id": 23,
+    "city_id": 2936,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

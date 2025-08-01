@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "id": 121961,
+    "borrower_name": "Mr. MD MIJANUR HOQUE GAZI",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "JL NO 45 , admeasuring 1359 sq. ft., KHATIAN 1358 VILL-CHHAYANI BAMANPUKUR DAG 1363 ,North 24 Parganas,West Bengal,INDIA- 743425 (Area admeasuring 2340 sq. ft.)",
+    "reserve_price": 3248000,
+    "dimensions": "admeasuring 1359 sq. ft., admeasuring 2340 sq. ft.",
+    "emd": null,
+    "possession": "Symbolic",
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Parganas",
+    "city": "North 24 Parganas",
+    "state": "West Bengal",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": "IL10123769",
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 28,
+    "city_id": 3603,
+    "property_type_id": 2,
+    "created_at": "2025-03-27T14:44:05.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Type": "30 Days",
+      "Location": "KOLKATA",
+      "Outsanding": "1734045",
+      "Inspection date": "2025/04/21",
+      "Publication Date": "2025/03/22",
+      "Publication approval date": "2025/03/21"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

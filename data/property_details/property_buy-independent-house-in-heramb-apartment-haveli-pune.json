@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Row House No.3, Heramb Apartment, Pashan, Haveli, Pune",
+    "name": "Buy Independent House in Heramb Apartment, Haveli, Pune",
+    "application_date": "2025-08-11T18:30:00.000Z",
+    "date": "2025-08-13T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "location": null,
+    "estimated_discount": "20",
+    "emd": 1463200,
+    "market_value": 17558400,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40095,
+    "latitude": "18.549804",
+    "longitude": "73.769609",
+    "min_increment": null,
+    "reserve_price": 14632000,
+    "description": null,
+    "slug": "buy-independent-house-in-heramb-apartment-haveli-pune",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Exact",
+    "possession": "Symbolic Possession",
+    "borrower_name": "M/S. GOKUL SUGAR INDUSTRIES LTD",
+    "amenities": "~10 mins walk to Infinity International School - Preschool | Learning Centre | Primary School | Daycare In Baner | Just a 3 min drive to SURABHI SUPER MARKET | Just a 5 min drive to APPLE MULTISPECIALITY HOSPITAL",
+    "nearby_locations": null,
+    "seo_title": "Independent House for sale in Pashan \u2013 Best Price",
+    "seo_keyword": "Independent House in Heramb Apartment, Pashan, Haveli, Pune",
+    "title_h1": "Buy Independent House in Heramb Apartment, Haveli, Pune",
+    "seo_description": "Find your dream home. Buy an Independent House located in Heramb Apartment, Pashan, Haveli, Pune. This property offers a great location and promising investment opportunity. Call now to schedule a visit and explore this beautiful Independent House before it's gone.",
+    "created_at": "2025-07-09T10:51:19.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T11:11:56.000Z",
+    "modified_by": 2267,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "rakhi yadav",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40095/1752232316283_Screenshot (72).png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40095/1752232316542_Screenshot (72).png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

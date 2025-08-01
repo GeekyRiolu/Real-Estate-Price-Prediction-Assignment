@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 203, 2nd Floor, Wing-C, Type-A5, Jasmin, Yashwant Sankalp, Boisar(W), Palghar",
+    "name": "Flat in Yashwant Sankalp, Boisar(W), Palghar",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-29T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 59,
+    "built_up_area": null,
+    "total_area": "343 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Boisar",
+    "estimated_discount": "20",
+    "emd": 325000,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 41615,
+    "latitude": "19.784250854917936",
+    "longitude": "72.74800209721371",
+    "min_increment": null,
+    "reserve_price": 3247000,
+    "description": null,
+    "slug": "flat-in-yashwant-sankalp-boisarw-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Singh Reema Sanjay",
+    "amenities": "Just a 3 min drive to JSW Miyawaki Park | Just a 4 min drive to Rahul International School | Within 10 mins drive to Shinde Hospital | Within 10 mins drive to Shivkala Arcade",
+    "nearby_locations": null,
+    "seo_title": "Apartment for sale in Boisar \u2013 Best Price",
+    "seo_keyword": "Flat in Yashwant Sankalp, Boisar(W), Palghar",
+    "title_h1": "Buy Flat in Yashwant Sankalp, Boisar(W), Palghar",
+    "seo_description": "Find a beautiful flat in Yashwant Sankalp, Boisar(W), Palghar. This property offers comfortable living for you and your family. Explore this opportunity, and then Call now to schedule a visit and get the best offer. Don't miss out on this chance.",
+    "created_at": "2025-07-15T10:05:43.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-07-15T10:05:43.000Z",
+    "modified_by": null,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "Saraswat Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/41615/1752573943343_unnamed.webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/41615/1752573943411_unnamed.webp"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot 14 & 15, Mallahpur War Haiderganj, Lucknow",
+    "name": "Residential Plot in Mallahpur, Haiderganj, Lucknow",
+    "application_date": "2025-08-18T18:30:00.000Z",
+    "date": "2025-08-19T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": null,
+    "total_area": "600 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "location": "Haiderganj",
+    "estimated_discount": "20",
+    "emd": 168500,
+    "market_value": 2022000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40668,
+    "latitude": "26.847462109911262",
+    "longitude": "80.88550688401075",
+    "min_increment": null,
+    "reserve_price": 1685000,
+    "description": null,
+    "slug": "residential-plot-in-mallahpur-haiderganj-lucknow",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Merajul Haq",
+    "amenities": "Close to Seth M.R.Jaipuria School | Nearby Lucknow City Hospital | Close by City Convent School | Close by Reliance SMART Bazaar",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Lucknow - Best Price",
+    "seo_keyword": "Residential Plot in Mallahpur, Haiderganj, Lucknow",
+    "title_h1": "Buy Residential Plot in Mallahpur, Haiderganj, Lucknow",
+    "seo_description": "Discover a prime Residential Plot in Mallahpur, Haiderganj, Lucknow. The property offers a fantastic investment opportunity in a growing area. Explore this land for sale with excellent potential. Call now to schedule a visit and seize this opportunity before it's gone!",
+    "created_at": "2025-07-11T01:55:58.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T07:42:37.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40668/1752219757169_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40668/1752219757297_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

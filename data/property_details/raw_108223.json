@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 108223,
+    "borrower_name": "Mr Sanjeev Kumar",
+    "bank_name": "State Bank of India",
+    "address": "Equitable Mortgage of Immovable Properties at House No. 3323, Entire 2nd Floor, Green Fields Colony, Sector C, Sarai Khawaja, Faridabad",
+    "reserve_price": 6500000,
+    "dimensions": null,
+    "emd": 650000,
+    "possession": "Symbolic",
+    "auction_date": "2025-07-02T18:30:00.000Z",
+    "application_deadline": "2025-06-30T18:30:00.000Z",
+    "locality": "Haryana",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "pincode": 121003,
+    "latlong": "maps.google.com/maps?q=28.4791347, 77.3073133",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 10,
+    "state_id": 8,
+    "city_id": 1275,
+    "property_type_id": 29,
+    "created_at": "2025-03-04T12:25:23.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": " Stressed Asset Recovery Branch",
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118116,
+    "borrower_name": "Mr. Rahul Rajkumar Pathak",
+    "bank_name": "Union Bank of India",
+    "address": "Flat No. 302, 3rd Floor, EPITOME, Jtn, of 29th  and  16th Road, Final Plot No 11, 10 and City Survey No. F/857  and  F/858, Village Bandra, Opposite Guru Nanak Garden, Bandra (West), Murnbai- 400050, Admeasuring 1336.40 sq ft Province/State :  Maharashtra City/Town :  Mumbai Area/Town :  Bandra",
+    "reserve_price": 51300000,
+    "dimensions": "1336.40 sq ft",
+    "emd": 5130000,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Bandra",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": 400050,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 3743,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122485,
+    "borrower_name": "M/S Javeed Steels",
+    "bank_name": "Canara Bank",
+    "address": "All Part And Parcel Of Immovable Property Bearing Municipal No 301 (Old No. 21/F) Situated In Thimmaih Road, Bangalore Mahanagara Palike Ward No79, Bangalore Together With All The Construction Thereon Measuring On East 103 Feet, On West 99 Feet, On North 19 Feet And On South 22 Feet And 8 Inches, Total Extent Of The Land 2232 Sq.Ft And Bounded On The East By: Premises Bearing Old No.21/E Of Thimmaiah Road West By: Premises Bearing Old No.21 Of Thimmaiah Road North By: Thimmaiah Road South By: Conservancy. Coordinates Of The Property Latitude-12.59240N Longitude-77.36109E Province/State : Karnataka City/Town : Bengaluru Area/Town : Mahanagarapalike",
+    "reserve_price": 30764000,
+    "dimensions": "2232 Sq.Ft",
+    "emd": 3076400,
+    "possession": null,
+    "auction_date": "2025-04-03T18:30:00.000Z",
+    "application_deadline": "2025-04-01T18:30:00.000Z",
+    "locality": "Mahanagarapalike",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477859",
+      "Branch Name": "Asset Recovery Management Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No S-143, Block E, Rajajipuram, Lucknow",
+    "name": "Shop in Rajajipuram, Lucknow",
+    "application_date": "2025-08-09T18:30:00.000Z",
+    "date": "2025-08-12T05:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": null,
+    "total_area": "N/A",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "location": "Rajajipuram",
+    "estimated_discount": "20",
+    "emd": 390000,
+    "market_value": 6500000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39452,
+    "latitude": "26.840206554249622",
+    "longitude": "80.87630613224337",
+    "min_increment": null,
+    "reserve_price": 3900000,
+    "description": null,
+    "slug": "shop-in-rajajipuram-lucknow",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": "Approximate",
+    "possession": "Symbolic",
+    "borrower_name": "Sahil Chiken",
+    "amenities": "Close by Falah Mall | Near Car Parking Facility - Campbell Road | Nearby HDFC Bank | Nearby Naveen Market",
+    "nearby_locations": null,
+    "seo_title": "Shop for sale in Rajajipuram - Best Price!",
+    "seo_keyword": "Shop in Rajajipuram, Lucknow",
+    "title_h1": "Buy Shop in Rajajipuram, Lucknow",
+    "seo_description": "Find the perfect shop for sale in Rajajipuram, Lucknow. This property offers an excellent opportunity for your business. Explore the best location and amenities. Call now to schedule a visit and seize this chance before it's gone.",
+    "created_at": "2025-07-05T21:36:44.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-07T11:53:38.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes",
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39452/Commercial_propid_248299_IDIB6423202444_date_11-07-2025_372980.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/39452/1751889218277_Shop.jpg"
+    ],
+    "video": [
+      "https://hecta-website.s3.ap-south-1.amazonaws.com/property/39452/Commercial_propid_248299_IDIB6423202444_date_11-07-2025_372981.mp4"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39452/1751889218434_Shop.jpg"
+    ]
+  }
+}

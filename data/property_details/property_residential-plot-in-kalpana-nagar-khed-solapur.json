@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No 183 To 186, Kalpana Nagar, Khed, Solapur",
+    "name": "Residential Plot in Kalpana Nagar, Khed, Solapur",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 9,
+    "built_up_area": null,
+    "total_area": "371.84 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Solapur",
+    "state": "Maharashtra",
+    "location": "Khed",
+    "estimated_discount": "20",
+    "emd": 95000,
+    "market_value": 1500000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46518,
+    "latitude": "17.726577227296488",
+    "longitude": "75.86781638038444",
+    "min_increment": null,
+    "reserve_price": 950000,
+    "description": null,
+    "slug": "residential-plot-in-kalpana-nagar-khed-solapur",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Symbolic",
+    "borrower_name": "Balaji Oil Mill",
+    "amenities": "Close by Vivekanand Public School | Nearby Gurukrupa Seva Hotel | Close to D-Utsav lawns | Close by S Rajshekhar parks",
+    "nearby_locations": null,
+    "seo_title": "Buy Residential Plot for Sale \u2013 Best Price!",
+    "seo_keyword": "Residential Plot in Kalpana Nagar, Khed, Solapur",
+    "title_h1": "Buy Residential Plot in Kalpana Nagar, Khed, Solapur",
+    "seo_description": "Find a prime Residential Plot in Kalpana Nagar, Khed, Solapur. We offer plots for sale at competitive prices. Explore the potential of this property for your future home. Call now to schedule a visit and secure your plot today before it\u2019s gone!",
+    "created_at": "2025-07-27T09:33:49.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-08-01T12:29:05.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Punjab National Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46518/1754051345147_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46518/1754051345147_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

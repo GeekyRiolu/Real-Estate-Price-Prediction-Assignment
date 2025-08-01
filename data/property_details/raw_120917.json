@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 120917,
+    "borrower_name": "SURESHKUMAR M PATEL",
+    "bank_name": "Bajaj Housing Finance Limited",
+    "address": "FLAT NO D-701,7TH FLOOR, BLOCK NO D,DIVIT HILLS,SURVEY NO 783/10/3,NIKOL NARODA ROAD,VILLAGE NIKOL AHMEDABAD, 382345 ",
+    "reserve_price": 1900000,
+    "dimensions": "500 sqft",
+    "emd": 190000,
+    "possession": null,
+    "auction_date": "2025-03-16T18:30:00.000Z",
+    "application_deadline": "2025-03-14T18:30:00.000Z",
+    "locality": "Ahmedabad",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": 382345,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 28,
+    "state_id": 7,
+    "city_id": 938,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

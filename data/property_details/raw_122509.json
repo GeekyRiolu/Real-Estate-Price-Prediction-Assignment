@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122509,
+    "borrower_name": "Mr Jeemon C James",
+    "bank_name": "HDFC Bank",
+    "address": "2.03 Ares In Re Sy Block No.1, Re Sy No.185/19, Old Sy No.279/1, 279/2  and  279/3 Of Kattakambal Village, Kunnamkulam Taluk, Thrissur District And The Construction Thereon Present And Future With All Rights And Easements Appurtenant To It Covered By Sale Deed No.520/2021 Of Akkikkavu S Ro, Boundaries: East: Property Of Santhosh Dharman, North: Property Of Bindu, West: Property Of Kochu Kunjan, South: 2.40 Metres Wide Private Road  and  Property Province/State : Kerala City/Town : Thrissur Area/Town : Kattakambal",
+    "reserve_price": 1030000,
+    "dimensions": "",
+    "emd": 103000,
+    "possession": null,
+    "auction_date": "2025-04-29T18:30:00.000Z",
+    "application_deadline": "2025-04-27T18:30:00.000Z",
+    "locality": "Kattakambal",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471867",
+      "Branch Name": "Kochi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

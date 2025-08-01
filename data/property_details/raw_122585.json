@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122585,
+    "borrower_name": "Sanjay Kumar Jangbahadursing H",
+    "bank_name": "Canara Bank",
+    "address": "Flat No 304, 3Rd Floor, P Wing, Girana Building, Shree Sadguru Complex, Survey No 5/3  and  67/0, Village Vashivali, Near Parle G Farm House, Taluka Khalapur. District Raigad-410222 397.20 Sq. Ft. Carpet Area (Symbolic Possession) Province/State : Maharashtra City/Town : Raigad Area/Town : Khalapur",
+    "reserve_price": 1181075,
+    "dimensions": "397.20 Sq. Ft.",
+    "emd": 118108,
+    "possession": "Symbolic",
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Khalapur",
+    "city": "Raigad",
+    "state": "Maharashtra",
+    "pincode": 410222,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 14,
+    "city_id": 3353,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478675",
+      "Branch Name": "Recovery Section, Navi Mumbai Regional Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

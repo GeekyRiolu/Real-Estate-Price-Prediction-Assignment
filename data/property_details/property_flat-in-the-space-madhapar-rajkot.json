@@ -1,0 +1,72 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No B/302, 3rd Floor, Wing B, The Space, Madhapar, Rajkot",
+    "name": "Flat in The Space, Madhapar, Rajkot",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 24,
+    "built_up_area": "76.15 Sq Mtrs",
+    "total_area": null,
+    "carpet_area": "67.57 Sq Mttrs",
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "location": "Madhapar",
+    "estimated_discount": "20",
+    "emd": 338000,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39648,
+    "latitude": "22.33322593249376",
+    "longitude": "70.77308796753503",
+    "min_increment": null,
+    "reserve_price": 3380000,
+    "description": null,
+    "slug": "flat-in-the-space-madhapar-rajkot",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751975997468!6m8!1m7!1slHr5sXIJ5K9edNxB2hDEiQ!2m2!1d22.33297286871696!2d70.7726373564382!3f78.75136028360319!4f15.889231120653221!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Anadkat Jayeshbhai Maganbhai",
+    "amenities": "Known Encumbrances- 5,901 | Just a 3 min drive to Christ Hospital | Just a 4 min drive to INTUNE | Just a 5 min walk to D-Mart | Within 10 mins drive to Crystal Schools - Rajkot",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in The Space - Best Price",
+    "seo_keyword": "Flat in The Space, Madhapar, Rajkot",
+    "title_h1": "Buy Flat in The Space, Madhapar, Rajkot",
+    "seo_description": "Explore a stunning flat in The Space, Madhapar, Rajkot. This property offers modern living spaces and excellent features. Discover the perfect home today. Call now to schedule a visit and secure your ideal residence before it's gone.",
+    "created_at": "2025-07-07T21:58:18.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-14T11:37:05.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Yes Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "pdp_docs": [
+      "https://hecta-website.s3.amazonaws.com/pdp-docs/1752496299340_1752233969785_Document 449_2.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39648/1752494026846_1752233991132_IMG_20250711_161420.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/39648/1752494026846_1752233991132_IMG_20250711_161252.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/39648/1752494026846_1752234022845_IMG_20250711_163408.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/39648/1752494026846_1752234051180_IMG_20250711_163251.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/39648/1752494026846_1752234051180_IMG_20250711_163105.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/39648/1752494026846_1752234051180_IMG_20250711_163015.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39648/1752494027302_1752233991132_IMG_20250711_161420.jpg",
+      "https://hecta-website.s3.amazonaws.com/property/39648/1751976373532_Screenshot 2025-07-08 173048.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

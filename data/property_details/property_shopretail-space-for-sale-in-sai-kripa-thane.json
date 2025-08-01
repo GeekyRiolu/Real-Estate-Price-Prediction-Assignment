@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No 01 Sai Kripa-a Khari Thane Mira Bhayander Municipal Corporation Thane",
+    "name": "Shop/Retail Space for sale in Sai Kripa, Thane",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-06T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": "308 sq fit",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "New MHB Colony",
+    "estimated_discount": "20",
+    "emd": 527000,
+    "market_value": 6324000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38807,
+    "latitude": "19.2713484",
+    "longitude": "72.8869826",
+    "min_increment": null,
+    "reserve_price": 5270000,
+    "description": null,
+    "slug": "shopretail-space-for-sale-in-sai-kripa-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed/v1/streetview?key=AIzaSyAUITE77yYv33fokt3InIHg77SqIqmlDRI&location=19.2260729,72.8391086&heading=0&pitch=0&fov=90\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 16,
+    "location_type": "Approximate",
+    "possession": "Physical Posession",
+    "borrower_name": "M/s. Ananya Motors",
+    "amenities": "Near State Bank of India | Close to That's Your Cars | Close by Central | Close to Apna Sahakari Bank",
+    "nearby_locations": null,
+    "seo_title": "Commercial Shop for sale in Sai Kripa - Best Price!",
+    "seo_keyword": "Commercial Shop/Retail Space in Sai Kripa-a Khari Thane Maharashtra",
+    "title_h1": "Shop/Retail Space for sale in Sai Kripa, Thane",
+    "seo_description": "Browse Commercial Shop/Retail Space in Sai Kripa, Thane, Maharashtra. This property is perfect for retail businesses. Find ideal space for your business and invest in a prime location. Call now to schedule a visit and secure your future shop.",
+    "created_at": "2025-07-03T19:52:02.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-04T11:58:17.000Z",
+    "modified_by": 2267,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "rakhi yadav",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38807/1751630297519_Apparel Shop.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38807/1751630297678_Apparel Shop.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

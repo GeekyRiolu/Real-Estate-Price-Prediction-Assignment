@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 002, Ground Floor, Riddhi Siddhi Apretment, A Wing, Kopri, Vasai",
+    "name": "Residential Flat in Riddhi Siddhi Apretment, Kopri, Vasai",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-18T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 61,
+    "built_up_area": "36.24 sq mtrs",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Kopri",
+    "estimated_discount": "20",
+    "emd": 195000,
+    "market_value": 2340000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40084,
+    "latitude": "19.3533259",
+    "longitude": "72.8136739",
+    "min_increment": 50000,
+    "reserve_price": 1950000,
+    "description": null,
+    "slug": "residential-flat-in-riddhi-siddhi-apretment-kopri",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed/v1/streetview?key=AIzaSyAUITE77yYv33fokt3InIHg77SqIqmlDRI&location=19.1816553,72.9711542&heading=0&pitch=0&fov=90\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical Posession",
+    "borrower_name": "Mr. Ranndhir Jitendra Bedi",
+    "amenities": "~8 mins walk to Dattani Square Mall | ~9 mins walk to Reliance SMART Bazaar | Just a 2 min drive to Podar International School Vasai CBSE | Just a 4 min drive to Queens Park | Just a 4 min drive to Safalya Multispeciality Hospital And ICU.",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Vasai - Best Price",
+    "seo_keyword": "Residential Flat in Riddhi Siddhi Apretment, Kopri, Vasai",
+    "title_h1": "Buy Residential Flat in Riddhi Siddhi Apretment, Kopri, Vasai",
+    "seo_description": "Discover a beautiful residential flat for sale in Riddhi Siddhi Apartment, Kopri, Vasai. This flat offers comfortable living spaces. Contact us now to learn more about this great property and to arrange a viewing. Call now to schedule a visit.",
+    "created_at": "2025-07-09T10:42:28.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T11:25:20.000Z",
+    "modified_by": 2267,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "rakhi yadav",
+    "favorite": 0,
+    "bank_name": "SVC Co-Operative Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40084/1752233120022_Screenshot (73).png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40084/1752233120190_Screenshot (73).png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

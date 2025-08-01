@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122465,
+    "borrower_name": "M/S Polybond Organics Pvt Ltd",
+    "bank_name": "Canara Bank",
+    "address": "3) 1) Commercial Apartment Consisting Of Unit No 4, 4Th Floor Sub No.2/15 In The Building Known As  Narang Chambers  With Pid No. 45-47-2/15 Situated At Property No.2/3, Ward No 47. Narasimharaja Road, Bangalore 560002 Measuring Super Built Up Area Of 415Sft With Undivided Share Of 89.52Sft And Flat Bounded On North By Narasimharaja Road South By Common Passage East By Unit Sub Numbered 2/16 And West By Unit Sub Numbered 2/14 And Site Bounded At North By Narasimharaja Road South By Conservancy Lane East By Private Property And West By Kumbaragundi Property. Coordinates Of The Property Latitude-12.9635787 Longitude- 77.5843143 Province/State : Karnataka City/Town : Bengaluru Area/Town : Narasimharaja Road",
+    "reserve_price": 2873000,
+    "dimensions": "",
+    "emd": 287300,
+    "possession": null,
+    "auction_date": "2025-04-06T18:30:00.000Z",
+    "application_deadline": "2025-04-04T18:30:00.000Z",
+    "locality": "Narasimharaja Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": 584314,
+    "latlong": null,
+    "property_type": "Commercial Building/Business Center",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 14,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "476213",
+      "Branch Name": "Arm Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

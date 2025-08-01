@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118370,
+    "borrower_name": "Mr. Prem Nath",
+    "bank_name": "Punjab National Bank",
+    "address": "Equitable Mortgage of Residential House Measuring 7 Marla Situated at Village Chandpur, P.O. Salala, Distt. Hoshiarpur Registered Vide Sale Deed No. 1511 Dated 18.05.2011 Standing in the Name of Sh. Prem Nath S/o Sh. Gurditta Province/State :  Punjab City/Town :  Hoshiarpur Area/Town :  Hoshiarpur",
+    "reserve_price": 1420000,
+    "dimensions": null,
+    "emd": 142000,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Hoshiarpur",
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 20,
+    "city_id": 2811,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

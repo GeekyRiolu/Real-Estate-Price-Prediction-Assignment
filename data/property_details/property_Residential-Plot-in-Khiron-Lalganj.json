@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No 678, Khiron, Lalganj",
+    "name": "Residential Plot in Khiron, Lalganj",
+    "application_date": "2025-09-04T18:30:00.000Z",
+    "date": "2025-09-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 9,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Lalganj",
+    "state": "Bihar",
+    "location": "Khiron",
+    "estimated_discount": "20",
+    "emd": 449800,
+    "market_value": 7000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46823,
+    "latitude": "26.287022837141",
+    "longitude": "80.92363618796473",
+    "min_increment": null,
+    "reserve_price": 4498000,
+    "description": null,
+    "slug": "Residential-Plot-in-Khiron-Lalganj",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Symbolic",
+    "borrower_name": "Mr. Jafar Ahmad S/o Mr. Abdul Rafeeq",
+    "amenities": "Close to Vishnu Dental Clinic & Priyanka Herbal world | Nearby N S G M Public School | Nearby New Family Bazar 99 Bazar | Near Manish house",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Lalganj - Best Price",
+    "seo_keyword": "Residential Plot in Khiron, Lalganj",
+    "title_h1": "Buy Residential Plot in Khiron, Lalganj",
+    "seo_description": "Discover a prime Residential Plot in Khiron, Lalganj, ideal for building your dream home. This plot offers excellent investment potential. Contact us today to explore the area and secure this opportunity. Call now to schedule a visit and make it yours before it's gone.",
+    "created_at": "2025-07-29T02:09:43.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-08-01T09:56:09.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Punjab National Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46823/1754042169423_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46823/1754042169423_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

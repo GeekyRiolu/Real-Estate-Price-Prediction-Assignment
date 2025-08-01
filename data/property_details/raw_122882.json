@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122882,
+    "borrower_name": "Mr. Mohd Sabir Roushan Ali Ansari",
+    "bank_name": "ICICI Bank",
+    "address": "Description Flat No. 303, 3Rd Floor, Dreams Park Co Oporative Housing Society Building Name-Flora, (Type A-01), Sr No 87, Hissa No 2, Mamdapur, Taluka Karjat, Dist Raigad, Karjat-410201. Admeasuring An Area Of Admeasuring Area 31.29 Sq Mtr Carpet And Balcony 5.90 Sq Mtr + Open Terrace 7.20 Sq Mtr Province/State : Maharashtra City/Town : Raigad Area/Town : Karjat",
+    "reserve_price": 1250000,
+    "dimensions": "31.29 Sq Mtr",
+    "emd": 125000,
+    "possession": null,
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Karjat",
+    "city": "Raigad",
+    "state": "Maharashtra",
+    "pincode": 410201,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 14,
+    "city_id": 3353,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479277",
+      "Branch Name": "Branch Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

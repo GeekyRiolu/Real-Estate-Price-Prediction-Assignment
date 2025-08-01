@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Khewat No 2173, Khatoni No 2313, Khasra No 87/8, Ghikara Road, Puran Nagar Colony, Charkhi Dadri, Bhiwani",
+    "name": "Residential Plot in Puran Nagar Colony, Charkhi Dadri, Bhiwani",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 128,
+    "built_up_area": null,
+    "total_area": "115.27 Sq.Yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Bhiwani",
+    "state": "Haryana",
+    "location": "Charkhi Dadri",
+    "estimated_discount": "20",
+    "emd": 410378,
+    "market_value": 4924545,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 45945,
+    "latitude": "28.59862115030245",
+    "longitude": "76.27203030917357",
+    "min_increment": null,
+    "reserve_price": 4103775,
+    "description": null,
+    "slug": "residential-plot-in-puran-nagar-colony-charkhi-dadri-bhiwani",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Mr. Atul S/o Mr. Rajesh Kumar, Mrs. Geeta W/o Mr. Rajesh, Mr. Rajesh S/o Mrs. Seeta",
+    "amenities": "Nearby Cambridge SMART Play School | Close to Reliance Smart Point | Nearby Sarvodya Sr. Sec. School | Close by G K Super Speciality Hospital",
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Charkhi Dadri \u2013 Best Price",
+    "seo_keyword": "Residential Plot in Puran Nagar Colony, Charkhi Dadri, Bhiwani",
+    "title_h1": "Buy Residential Plot in Puran Nagar Colony, Charkhi Dadri, Bhiwani",
+    "seo_description": "Explore the Residential Plot in Puran Nagar Colony, Charkhi Dadri, Bhiwani. You can buy this property for building your dream home. The plot offers a great opportunity for investment. Call now to schedule a visit and secure this prime land before it's gone.",
+    "created_at": "2025-07-25T04:03:44.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-08-01T12:29:16.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Hinduja Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/45945/1754051356539_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/45945/1754051356539_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

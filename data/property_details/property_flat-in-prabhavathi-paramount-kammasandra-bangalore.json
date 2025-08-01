@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "702156711",
+    "address": "Flat no. f-6, 1st Floor, Prabhavathi Paramount, Kammasandra, Bangalore",
+    "name": "Flat in Prabhavathi Paramount, Kammasandra, Bangalore",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-05T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 15,
+    "built_up_area": null,
+    "total_area": "840 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "location": "Kammasandra",
+    "estimated_discount": "20",
+    "emd": 465000,
+    "market_value": 7000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40700,
+    "latitude": "12.834556394056824",
+    "longitude": "77.68825232209899",
+    "min_increment": null,
+    "reserve_price": 4650000,
+    "description": null,
+    "slug": "flat-in-prabhavathi-paramount-kammasandra-bangalore",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Approximate",
+    "possession": "Physical",
+    "borrower_name": "Miss Das Dipanjali",
+    "amenities": "Close to JJ HOSPITALS | Nearby SFS Academy | Close to SBR Lucky Mall | Near Dmart pickup point",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Prabhavathi Paramount - Best Price!",
+    "seo_keyword": "Flat in Prabhavathi Paramount, Kammasandra, Bangalore",
+    "title_h1": "Buy Flat in Prabhavathi Paramount, Kammasandra, Bangalore",
+    "seo_description": "Find a fantastic flat in Prabhavathi Paramount, Kammasandra, Bangalore. This property offers comfortable living with great features. Don't miss this opportunity; call now to schedule a viewing and secure your new home before it's gone.",
+    "created_at": "2025-07-11T11:58:45.000Z",
+    "created_by": 2340,
+    "updated_at": "2025-07-11T12:03:31.000Z",
+    "modified_by": 2340,
+    "created_by_name": "aman kushwah",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "HDFC Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40700/1752235125412_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40700/1752235125208_Flat or Apartment.jpg"
+    ]
+  }
+}

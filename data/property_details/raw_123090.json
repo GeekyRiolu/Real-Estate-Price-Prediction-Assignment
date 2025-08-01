@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123090,
+    "borrower_name": "Mrs. Neelamjeet Kaur",
+    "bank_name": "Canara Bank",
+    "address": "Description Sl No 20 Residential House Having Khata No. 153/318 To 319, Khasra No. 866/444(4-10-6), 855/444(0-2-14) Total 04B-13B Out Of Which 25/1860 Share Ob-1B-5B Or 61.83 Square Yards Situated At Ekta Vihar Colony, Sirhind Road, Bhadson-147202. Province/State : Punjab City/Town : Ludhiana Area/Town : Sirhind",
+    "reserve_price": 620500,
+    "dimensions": "",
+    "emd": 62050,
+    "possession": null,
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Sirhind",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": 147202,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 29,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "469792",
+      "Branch Name": "Recovery  and  Legal Section, Circle Office"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

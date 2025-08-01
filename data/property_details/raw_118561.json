@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118561,
+    "borrower_name": "M/S Svg Infraa",
+    "bank_name": "Union Bank of India",
+    "address": "Plot No. 101, Survey No. 28/1P, LP No. 9/2013, Sindhunagar Layout, Chepalauppadu, Bheemunipatnam, Visakhapatnam",
+    "reserve_price": 5000000,
+    "dimensions": "267.00 Sq. Yards",
+    "emd": 500000,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Bheemunipatnam",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=17.8888698, 83.4524802",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 285,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No:",
+    "ao_mobile": "08818 / 225625",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

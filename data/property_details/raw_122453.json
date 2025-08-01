@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122453,
+    "borrower_name": "M/S Cadryche Automation And Office Solution Private Limited",
+    "bank_name": "Canara Bank",
+    "address": "All That Piece And Parcel Of The Immovable Property Bearing Site Nos. 73,74,75,81,82,83, 84,85,86 Formed In Sy No 108 Of Nagrur Village, Dasanapura Hobli, Bangalore North Taluk-4 562123. Katha Nos, 748, 749  and  750 Sy No. 108 Standing In The Name Of Mr. V Krishna Moorthy Udupa Measuring 12000 Sq.Ft.  Coordinates Of The Property, Latitude-13.08669, Longitude- 77.42179 Province/State : Karnataka City/Town : Bengaluru Area/Town : Dasanpura",
+    "reserve_price": 30000000,
+    "dimensions": "12000 Sq.Ft.",
+    "emd": 3000000,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Dasanpura",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": 562123,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "476532",
+      "Branch Name": "Banglore"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

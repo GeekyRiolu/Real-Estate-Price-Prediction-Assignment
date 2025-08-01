@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122495,
+    "borrower_name": "Mr Murugesh R",
+    "bank_name": "DCB Bank",
+    "address": "All That Piece And Parcel Of The Western Portion Site No.07, Khata No.75/1, Situated At Hegganahalli Village Yeshwanthpura Hobli Bangalore North Taluk, Measuring 15 X 45 Ft In All Measuring 675 Sqft Now Comes Under Bbmp And Bounded On The East By Eastern Portion Site No. 07 West By: Site No.08 North By: Road South By: Site No. 14. Province/State : Karnataka City/Town : Bengaluru Area/Town : Yeshwanthpur",
+    "reserve_price": 4050000,
+    "dimensions": "675 Sqft",
+    "emd": 405000,
+    "possession": null,
+    "auction_date": "2025-04-01T18:30:00.000Z",
+    "application_deadline": "2025-03-30T18:30:00.000Z",
+    "locality": "Yeshwanthpur",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 155,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472924",
+      "Branch Name": "Benguluru"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

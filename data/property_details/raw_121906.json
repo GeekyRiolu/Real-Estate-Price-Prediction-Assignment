@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "id": 121906,
+    "borrower_name": "Mr. DEVIDAS NAMDEV SALVE",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "Row House No 9, First Floor, Situated at Survey no 252/A, Plot no 26/27, Village Nagardevale, Taluka  and  District Ahmednagar, Maharashtra, India, 414001 AREA ADMEASURING (IN SQ. FT.): Property Type: Land_Area, Built_Up_Area, Super_Built_Up_Area, Carpet_Area Property Area: 581.00, 800.00, 629.00, 484.00",
+    "reserve_price": 1600000,
+    "dimensions": "Property Type: Land_Area, Built_Up_Area, Super_Built_Up_Area, Carpet_Area Property Area: 581.00, 800.00, 629.00, 484.00",
+    "emd": null,
+    "possession": "Symbolic",
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-10T18:30:00.000Z",
+    "locality": "Ahmednagar",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Builder Floor",
+    "loan_account_number": "IL10276415",
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 5,
+    "created_at": "2025-03-27T14:20:45.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Type": "15 days",
+      "Location": "Ahmednagar",
+      "Outsanding": "1939438",
+      "Inspection date": "2025/04/09",
+      "Publication Date": "2025/03/27",
+      "Publication approval date": "2025/03/26"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

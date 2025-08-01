@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "624605503848, 624655001113",
+    "address": "Office No 814, 8th Floor, Raghuvir Textile Mall, Matavadi, Surat",
+    "name": "Office in Raghuvir Textile Mall, Matavadi, Surat",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": "1155 SFT",
+    "total_area": null,
+    "carpet_area": "1131 SFT",
+    "super_built_up_area": null,
+    "categories": "Commercial Office Space",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Matavadi",
+    "estimated_discount": "20",
+    "emd": 642000,
+    "market_value": 10000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40580,
+    "latitude": "21.197075864594723",
+    "longitude": "72.85842667615839",
+    "min_increment": null,
+    "reserve_price": 6420000,
+    "description": null,
+    "slug": "office-in-raghuvir-textile-mall-matavadi-surat",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752214659998!6m8!1m7!1sf54bZUpAMr6z8_v3biSdAQ!2m2!1d21.19723966276136!2d72.8583462098911!3f151.98788939926072!4f29.194426834753145!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 10,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Siddharth Exim",
+    "amenities": "Just a 4 min drive to UNICORN CAFE AND RESTRO | Just a 5 min drive to Somnath Restaurant | Within 10 mins drive to Yellow Peas Locho | Within 10 mins drive to Grill Bar",
+    "nearby_locations": null,
+    "seo_title": "Office for Sale in Raghuvir Textile Mall - Best Price",
+    "seo_keyword": "Office in Raghuvir Textile Mall, Matavadi, Surat",
+    "title_h1": "Buy Office in Raghuvir Textile Mall, Matavadi, Surat",
+    "seo_description": "Discover the perfect office for your business in Raghuvir Textile Mall, Matavadi, Surat. This property offers great potential in a prime location. Act quickly; prime office spaces are in high demand. Call now to schedule a visit and secure your spot.",
+    "created_at": "2025-07-10T23:41:07.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T06:22:26.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40580/1752214946697_Screenshot 2025-07-11 114808.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40580/1752214946877_Screenshot 2025-07-11 114808.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

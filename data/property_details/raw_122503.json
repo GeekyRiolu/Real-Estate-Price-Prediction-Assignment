@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122503,
+    "borrower_name": "Mr P Shivakumar",
+    "bank_name": "DCB Bank",
+    "address": "All The Piece And Parcel Of Property Bearing No. 1433/272/A Situated At Medar Beedi, Ward No. 7. Kalkunike, Hunsur Town  and  Taluk, Mysuru Dist, Measuring East To West 12.19 Mts And North To South 7.62 Mis Bounded On The: East By: Property Of Devaraju Kp, West By: Road, North By: Property Of Kari Gowda South By: Property Of Rachaiah Province/State : Karnataka City/Town : Mysuru Area/Town : Hunsur",
+    "reserve_price": 1285000,
+    "dimensions": "",
+    "emd": 128500,
+    "possession": null,
+    "auction_date": "2025-04-01T18:30:00.000Z",
+    "application_deadline": "2025-03-30T18:30:00.000Z",
+    "locality": "Hunsur",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 155,
+    "state_id": 11,
+    "city_id": 3539,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472932",
+      "Branch Name": "Benguluru"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

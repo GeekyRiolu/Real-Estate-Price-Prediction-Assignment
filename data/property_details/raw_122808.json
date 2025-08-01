@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122808,
+    "borrower_name": "Sonal Prasad Parsekar",
+    "bank_name": "Edelweiss Asset Reconstruction Company Limited",
+    "address": "Description Property Description: All That Piece And Parcel Of Bearing Flat No. 202, Admeasuring About 250 Sq. Fts I.E. 23.23 Sq. Mtrs (Built Up) Total Area Donar Herein Have Agreed To Give His 50% Share I.E. 11.61 Sq. Mtrs Area On The Fourth Floor Of The Building Known As Parasnath Jain Nagar Co-Operative Housing Society Ltd, Reg No. Tna/Tna/(Hsg/(Tc)/11364/2000-2001), At B.P Cross Road, Bhayander (E), Taluka  and  District Thane A Plot Of Land Bearing Old Survey No. 137, New Survey No, 56, Hissa No. 5, In Municipal L Ward In Village Khari, Bhayander (E), Taluka  and  District Thane. Province/State : Maharashtra City/Town : Thane Area/Town : Bhayandar",
+    "reserve_price": 1200000,
+    "dimensions": "250 Sq. Ft",
+    "emd": 120000,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Bhayandar",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 66,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474342",
+      "Branch Name": "Regional Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

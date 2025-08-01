@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122510,
+    "borrower_name": "Mr Mani Saravanan",
+    "bank_name": "HDFC Bank",
+    "address": "B Schedule Property: 4.01 Ares In Sy No. 1334/4 Of Karalam Village, Mukundapuram Taluk, Thrissur District And The Building Situated Therein Together With All Rights And Easements Appurtenant To It Covered By Sale Deed No.696/2012 Of Kattur Sro Boundaries East Panchayath Road, North: Property Of Kuthupaalakkal Jagdeesh  and  Others, West: Property Of Kaarakkadan Bini  and  Others, South: Property Of Alappadan Thressia  and  Others Province/State : Kerala City/Town : Thrissur Area/Town : Mukundapuram Taluk",
+    "reserve_price": 5050000,
+    "dimensions": "",
+    "emd": 505000,
+    "possession": null,
+    "auction_date": "2025-04-29T18:30:00.000Z",
+    "application_deadline": "2025-04-27T18:30:00.000Z",
+    "locality": "Mukundapuram Taluk",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471869",
+      "Branch Name": "Kochi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

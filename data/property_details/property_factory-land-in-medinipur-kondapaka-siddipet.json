@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No 233/A, Medinipur Kondapaka, Siddipet",
+    "name": "Factory Land in Medinipur, Kondapaka, Siddipet",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-19T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": null,
+    "total_area": "1 Guntas",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Vacant Land",
+    "city": "Siddipet",
+    "state": "Telangana",
+    "location": "Kondapaka",
+    "estimated_discount": "20",
+    "emd": 747500,
+    "market_value": 8970000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39737,
+    "latitude": "18.1017996",
+    "longitude": "78.8519601",
+    "min_increment": null,
+    "reserve_price": 7475000,
+    "description": null,
+    "slug": "factory-land-in-medinipur-kondapaka-siddipet",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 36,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "M/s Athidhi Bricks",
+    "amenities": null,
+    "nearby_locations": null,
+    "seo_title": "Buy Factory Land in Medinipur \u2013 Best Price!",
+    "seo_keyword": "Factory Land in Medinipur, Kondapaka, Siddipet",
+    "title_h1": "Buy Factory Land in Medinipur, Kondapaka, Siddipet",
+    "seo_description": "Find prime Factory Land in Medinipur, Kondapaka, Siddipet, ideal for industrial use. This land offers great potential for development. Secure your investment in a growing location. Call now to schedule a visit and secure your factory land before it's gone!",
+    "created_at": "2025-07-08T01:25:43.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-08T12:10:58.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39737/1751976658531_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39737/1751976658669_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 502, A-wing, Prithvi Residency, Kamatghar, Bhiwandi, Thane",
+    "name": "Flat in Prithvi Residency, Bhiwandi, Thane",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Bhiwandi",
+    "estimated_discount": "20",
+    "emd": 68300,
+    "market_value": 10000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46352,
+    "latitude": "19.27206759903856",
+    "longitude": "73.04384171674856",
+    "min_increment": null,
+    "reserve_price": 6829000,
+    "description": null,
+    "slug": "flat-in-prithvi-residency-bhiwandi-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753781362529!6m8!1m7!1sILPvVTBR-pwyUHuRZZMZRg!2m2!1d19.27184521447911!2d73.04360288921794!3f63.33907685300515!4f25.12685278333778!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "M/s. Tanisha Fabrics",
+    "amenities": "Just a 4 min drive to Peace Park | Just a 4 min walk to Shushrusha Hospital | Within 10 mins drive to The Miracle Mall | Within 10 mins drive to Evershine English School",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Prithvi Residency, Bhiwandi \u2013 Best Price",
+    "seo_keyword": "Flat in Prithvi Residency, Bhiwandi, Thane",
+    "title_h1": "Buy Flat in Prithvi Residency, Bhiwandi, Thane",
+    "seo_description": "Explore a fantastic opportunity to buy a flat in Prithvi Residency, located in Bhiwandi, Thane. This property offers comfort and convenience. Find your dream home and call now to schedule a visit before it's too late; don't miss out!",
+    "created_at": "2025-07-26T20:12:05.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T09:32:07.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46352/1753781527459_prithvi.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46352/1753781527459_prithvi.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

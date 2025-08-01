@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118226,
+    "borrower_name": "Mr. Shubham Gautam Salve",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "All that part and parcel of the property bearing Flat No.6, Carpet area Ad. Measuring: 499 Sq.ft. Balcony area Ad.Measuring: 27 Sq.ft. Terrace area Ad.Measuring: 48 Sq.ft. Saleable area Ad. Measuring: 698 Sq.ft, Built up area: 527 Sq.ft, Floor No. 1, Wing 1, A4 Type Building, Sara Swapnangan Phase II, Sara Swapnangan A4, A5, A6 Building suitated at Gat No.93/P And 95/P, Village Gangapur Jahngir, Near Shendra Midc, Taluka Aurangabad 431001. (Area Admeasuring: 698 Sq. f.)  Province/State :  Maharashtra City/Town :  Aurangabad Area/Town :  Gangapur.",
+    "reserve_price": 1026000,
+    "dimensions": "499 Sq.ft",
+    "emd": 102600,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Uran",
+    "city": "Chhatrapati Sambhaji Nagar",
+    "state": "Bihar",
+    "pincode": 431001,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 4,
+    "city_id": 503,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

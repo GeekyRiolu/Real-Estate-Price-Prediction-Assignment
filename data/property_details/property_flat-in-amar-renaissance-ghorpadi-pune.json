@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 802, 8th Floor, Building-A, Amar Renaissance, Ghorpadi, Pune",
+    "name": "Flat in Amar Renaissance, Ghorpadi, Pune",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-27T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": "2,528 SFT CA",
+    "total_area": "3,160 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "location": "Ghorpadi",
+    "estimated_discount": "20",
+    "emd": 4293900,
+    "market_value": 55000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 45926,
+    "latitude": "18.51484161539596",
+    "longitude": "73.9017971359103",
+    "min_increment": null,
+    "reserve_price": 42939000,
+    "description": null,
+    "slug": "flat-in-amar-renaissance-ghorpadi-pune",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753440684694!6m8!1m7!1sXU9XYydPGOMTnXCoypJZxw!2m2!1d18.51570127623843!2d73.90212972983493!3f133.46276384047226!4f19.04175039387418!5f0.5291173063569152\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Mayank Barjatya",
+    "amenities": "Along with Four Covered Car Parking | Just a 3 min drive to D-Mart | Within 10 mins drive to Noble Hospitals & Research Centre | Within 10 mins drive to J. N. Petit Technical High School | Within 10 mins drive to Seasons Mall",
+    "nearby_locations": null,
+    "seo_title": "Flat for sale in Amar Renaissance \u2013 Best Price",
+    "seo_keyword": "Flat in Amar Renaissance, Ghorpadi, Pune",
+    "title_h1": "Buy Flat in Amar Renaissance, Ghorpadi, Pune",
+    "seo_description": "Find a beautiful flat in Amar Renaissance, Ghorpadi, Pune. This property offers comfortable living and is available now. Act fast, and secure your dream home. Call now to schedule a visit and make an offer!",
+    "created_at": "2025-07-25T03:39:12.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-25T11:11:44.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/45926/1753441904012_amar.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/45926/1753441904012_amar.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

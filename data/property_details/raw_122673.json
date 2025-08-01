@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122673,
+    "borrower_name": "Sri Goraka Lakshmi",
+    "bank_name": "Canara Bank",
+    "address": "An Undivided  and  Unspecified Share Of An Extent Of 34 Square Yards (28.42 Sq.Mtrs) Out Of 715.23 Square Yards Vacant Site, Together With Flat No 104 Measuring Area 1030 Square Feet (Includes Common Area) In Ground Floor Bearing Door No 4-25/31, Muncipal Assessment No. 1086053055, Electicity Service Connection No. 116515C011002369 Of Bharat Enclave Constructed In Plot Nos 7,8 And 9 Covered By Survey No 176/13 Of Madhurawada Village, Visakhapatnam Rural Mandal, With In The Limits Of Greater Visakhapatnam Muncipal Corporation Area, Visakhapatnam And Registration Sub-District Of Madhurawada And In The Registration District Of Visakhapatnam And Bounded Measurements Followed By: Site Boundries: East: 20 Feet Wide Road Beyond The Vacant Site Which Is Given By The Nallasamy Ramasamy Palanisamy And Others To The Gymc For The Purpose Of Road Widening, South: 30 Feet Wide Road, West: Land Belongs To Pilla Atchanna Patrudu And Others, North: 20 Feet Wide Road Beyond The Vacant Site Which Is Given By The Nallasamy Ramasamy Palanisamy And Others To The Gvmc For The Purpose Of Road Widening. Boundries Of Flat No 104 In Ground Floor: East: Open To Sky, South: Open To Sky, West: Corridor To Some Extent, Flat No 103 To Extent, North: Open To Sky Province/State : Andhra Pradesh City/Town : Visakhapatnam Area/Town : Madhurawada",
+    "reserve_price": 3523000,
+    "dimensions": "28.42 Sq.Mtrs",
+    "emd": 352300,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Madhurawada",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "pincode": 11002,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 1,
+    "city_id": 285,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "465020",
+      "Branch Name": "Regional Office: Visakhapatnam-I"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

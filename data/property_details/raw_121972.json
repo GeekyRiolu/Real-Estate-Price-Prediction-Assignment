@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 121972,
+    "borrower_name": "Mr. Pankaj Kapoor",
+    "bank_name": "DCB Bank",
+    "address": "All Piece And Parcel Of Half Undivided Share Of A Builtup Freehold Dda Flat Bearing No. G-38 On Ground Floor Area Measuring 24.396 Sq. Mtrs. Situated At Block G Basti Namaul Ajmeri Gate Delhi Province/State : Delhi City/Town : New Delhi Area/Town : Ajmeri Gate",
+    "reserve_price": 3930000,
+    "dimensions": "24.396 Sq. Mtrs",
+    "emd": 393000,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Ajmeri Gate",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 155,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "469096",
+      "Branch Name": "Delhi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

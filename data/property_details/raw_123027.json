@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123027,
+    "borrower_name": "Mr. Gursewak Singh",
+    "bank_name": "Hinduja Housing Finance Limited",
+    "address": "Description Khasra No.5914/1070, Khevat No.488, Khatoni No.780, Hadbast No.263, Near Gurudwara Dashmesh Darbar, Village Gill No.1, Ishar Nagar Block-C, Ludhiana-141006 Province/State : Punjab City/Town : Ludhiana Area/Town : Ishar Nagar",
+    "reserve_price": 2487645,
+    "dimensions": "",
+    "emd": 248765,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Ishar Nagar",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": 141006,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 128,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "474304",
+      "Branch Name": "Registered Office : Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

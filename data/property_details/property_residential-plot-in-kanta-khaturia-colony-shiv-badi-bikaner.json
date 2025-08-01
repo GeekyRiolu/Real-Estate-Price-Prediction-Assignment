@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "P.No. B-352-A, Kanta Khaturia Colony, Shiv Badi, Bikaner",
+    "name": "Residential Plot in Kanta Khaturia Colony, Shiv Badi, Bikaner",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-18T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 31,
+    "built_up_area": null,
+    "total_area": "1,400 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Plot",
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "location": "Shivbari",
+    "estimated_discount": "20",
+    "emd": 650000,
+    "market_value": 7800000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40607,
+    "latitude": "28.0042468",
+    "longitude": "73.3592183",
+    "min_increment": null,
+    "reserve_price": 6500000,
+    "description": null,
+    "slug": "residential-plot-in-kanta-khaturia-colony-shiv-badi-bikaner",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 2,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "Late NARENDRA KUMAR KANJANI MURLIDHAR KANJANI",
+    "amenities": null,
+    "nearby_locations": null,
+    "seo_title": "Residential Plot for sale in Bikaner \u2013 Best Price",
+    "seo_keyword": "Residential Plot in Kanta Khaturia Colony, Shiv Badi, Bikaner",
+    "title_h1": "Buy Residential Plot in Kanta Khaturia Colony, Shiv Badi, Bikaner",
+    "seo_description": "Find your dream property. Buy a Residential Plot in Kanta Khaturia Colony, Shiv Badi, Bikaner. This is a great opportunity for investment. Explore the plot details and its location, and then contact us for more information. Call now to schedule a visit.",
+    "created_at": "2025-07-11T00:04:26.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T06:14:37.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40607/1752214477491_Residential Plot.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40607/1752214477307_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

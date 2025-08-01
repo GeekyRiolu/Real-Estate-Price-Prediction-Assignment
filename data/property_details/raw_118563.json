@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118563,
+    "borrower_name": "Sri Mohammed Maqbul",
+    "bank_name": "Canara Bank",
+    "address": "An Extent Of 1132.66 Sq.Yds Or 947.02 Sq.Mts Of Site In R.S. No.259/5, Situated At Chodavaram Village, Kankipadu Mandal, Krishna District Within The Jurisdiction Of Kanikipadu Sub Registrar Office, Vijayawada East District Registrar Office Being Bounded By: East: Property Of Yamanchili Somasekhar Others, South: Property Of Gavirneni Satyanarayana, West: R  and  B Road, North: Property Of Yala Manchili Sampurnamma. In Between Above Four Boundaries An Extent Of 1132.66 Sq.Yds Or 947.02 Sq.Mts Site Undivided Joint Share Of 35 Sq Yds Or 29.26 Sq.Mts Site. B-Schedule: In The Above A-Schedule Total Site Constructed An Apartment In The Name And Style Of Eswar Towers In Which First Floor Flat No.102, Assessment No.927, Door No.6-154 Being Bounded By: East: Common Corridor, South: Open To Sky, West: Open To Sky, North: Open To Sky. In Between Four Boundaries 750 Sq.Ft Plinth Area Of Flat, 110 Sq.Ft Common Area, 84 Sq.Ft Parking Area And With All Easement Rights Therein. Province/State : Andhra Pradesh City/Town : Krishna Area/Town : Kankipadu",
+    "reserve_price": 2579000,
+    "dimensions": "1132.66 Sq.Yds",
+    "emd": 257900,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Kankipadu",
+    "city": "Kankipadu",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 1,
+    "city_id": 120,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

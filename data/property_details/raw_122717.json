@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122717,
+    "borrower_name": "Mr. Akram Malik",
+    "bank_name": "Hinduja Housing Finance Limited",
+    "address": "All That Piece And Parcel Of First Floor (Front Side) Without Terrace Rights, Measuring 50 Sq. Yds., Property Bearing No. Rz-26-A, Area Measuring 87.78 Sq. Mtrs., Out Of Khasra No. 2816/514, Gali No. 14 Tughlakabad Extn.. New Delhi-110019 (Herein Called The Said Property). Boundaries: East: Remaining Portion Of The Said Plot, West: Other'S Property, North: Other'S Property, South: Road 15 Ft. Wide Province/State : Delhi City/Town : New Delhi Area/Town : Tughlakabad Extension",
+    "reserve_price": 2126000,
+    "dimensions": "50 Sq. Yds",
+    "emd": 212600,
+    "possession": null,
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Tughlakabad Extension",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110019,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 128,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "477895",
+      "Branch Name": "Corporate Office: Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118366,
+    "borrower_name": "M/S Parag Allied Chemicals",
+    "bank_name": "Punjab National Bank",
+    "address": "003422 Ground Floor with roof/Terrace Right of Second Floor, Vishakha Enclave, Pitampura, New Delhi",
+    "reserve_price": 48885000,
+    "dimensions": "Covered area 2042.469 Sq Ft i.e. 189.75 sq mtr. Plot area 253 Sq. mtr. l.e. 302.58 sq yds",
+    "emd": 4888500,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Pitampura",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 146566,
+    "latlong": "maps.google.com/maps?q=28.7083349, 77.1438651",
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 33,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

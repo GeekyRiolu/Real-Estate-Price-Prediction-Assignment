@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No A-702, 7th Floor, Building B, Ovhal Spring, Pimple Nilakh, Pune",
+    "name": "Residential Flat in Ovhal Spring, Pimple Nilakh, Pune",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "location": "Pimple Nilakh",
+    "estimated_discount": "20",
+    "emd": 1101000,
+    "market_value": 18000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40252,
+    "latitude": "18.583864490389995",
+    "longitude": "73.78407409590727",
+    "min_increment": null,
+    "reserve_price": 11010000,
+    "description": null,
+    "slug": "residential-flat-in-ovhal-spring-pimple-nilakh-pune",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "M/S. GOKUL SUGAR INDUSTRIES LTD",
+    "amenities": "Within 10 mins drive to D-Mart | Within 10 mins drive to Manipal Hospitals | Within 10 mins drive to Sanskruti International School | Within 10 mins drive to Nexus Westend Mall",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale - Best Price!",
+    "seo_keyword": "Residential Flat in Ovhal Spring, Pimple Nilakh, Pune",
+    "title_h1": "Buy Residential Flat in Ovhal Spring for sale, Pune",
+    "seo_description": "Discover a fantastic Residential Flat in Ovhal Spring, located in Pimple Nilakh, Pune. This property offers great potential. Schedule a viewing of this attractive flat, and explore its features. Call now to arrange your visit and make an offer before it's gone!",
+    "created_at": "2025-07-10T07:03:29.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-07-10T07:03:29.000Z",
+    "modified_by": null,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40252/1752131009619_unnamed (1).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40252/1752131009707_unnamed (1).webp"
+    ]
+  }
+}

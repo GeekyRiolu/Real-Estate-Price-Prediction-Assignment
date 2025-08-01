@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118740,
+    "borrower_name": "Mis Sunchem Industries",
+    "bank_name": "Bank of Baroda",
+    "address": "13) Flat No. TF-302, 3rd Floor, Shyam Complex, Old Survey/Block No. 177 Paiki, Tp No. 5, Final Plot No. 170, Behind Meera Society, Opp. Ganesh Vadhyalaya, Hami Warasia Ring Road, Sayajipura, Vadodara",
+    "reserve_price": 978700,
+    "dimensions": "59.47 Sq Mtrs (Adm.), 37.65 Sq Mtrs (Undivided Land)",
+    "emd": 97870,
+    "possession": "Physical",
+    "auction_date": "2025-03-24T18:30:00.000Z",
+    "application_deadline": "2025-03-22T18:30:00.000Z",
+    "locality": "Sayajipura",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=22.3087822, 73.218571",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 1,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Sayajiganj Branch Mob:",
+    "ao_mobile": "9687689135",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

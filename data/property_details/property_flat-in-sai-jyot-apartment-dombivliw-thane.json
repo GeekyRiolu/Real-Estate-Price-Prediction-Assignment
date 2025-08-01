@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 21, 4th Floor, Sai Jyot Apartment, Dombivli(W), Thane",
+    "name": "Flat in Sai Jyot Apartment, Dombivli(W), Thane",
+    "application_date": "2025-08-13T18:30:00.000Z",
+    "date": "2025-08-15T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 31,
+    "built_up_area": null,
+    "total_area": "573 SFT BUA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Dombivli",
+    "estimated_discount": "20",
+    "emd": 370000,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38777,
+    "latitude": "19.22150147595611",
+    "longitude": "73.08536175351637",
+    "min_increment": null,
+    "reserve_price": 3700000,
+    "description": null,
+    "slug": "flat-in-sai-jyot-apartment-dombivliw-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751609838175!6m8!1m7!1sxMRO18B5W4WcukGCAs1rJA!2m2!1d19.22179653332633!2d73.08525178295089!3f107.63853106402533!4f16.92546819856952!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "M/s.Shree Ganesh Medical Stores",
+    "amenities": "Just a 2 min walk to Gopi Mall | Just a 3 min drive to Sparsh Multispeciality Hospital | Within 10 mins drive to Royal International School.",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Sai Jyot Apartment \u2013 Best Price",
+    "seo_keyword": "Flat in Sai Jyot Apartment, Dombivli(W), Thane",
+    "title_h1": "Buy Flat in Sai Jyot Apartment, Dombivli(W), Thane",
+    "seo_description": "Discover a beautiful flat for sale in Sai Jyot Apartment, located in Dombivli(W), Thane. This property offers comfortable living. It includes essential features and is available now. Call now to schedule a visit before it's gone!",
+    "created_at": "2025-07-03T19:43:23.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-04T06:20:14.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38777/1751610014871_SAI JYOT.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38777/1751610015025_SAI JYOT.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

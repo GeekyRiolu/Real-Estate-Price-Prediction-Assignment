@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "HOU/VA/0118/475184",
+    "address": "Flat No A1 202, Kuber Expression, Ratanpur, Vadodara",
+    "name": "Flat in Kuber Expression, Ratanpur, Vadodara",
+    "application_date": "2025-08-10T18:30:00.000Z",
+    "date": "2025-08-11T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 48,
+    "built_up_area": null,
+    "total_area": "N/A",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "location": "Ratanpur",
+    "estimated_discount": "20",
+    "emd": 232300,
+    "market_value": 3800000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39200,
+    "latitude": "22.265895854889948",
+    "longitude": "73.24942007106338",
+    "min_increment": null,
+    "reserve_price": 2323000,
+    "description": null,
+    "slug": "flat-in-kuber-expression-ratanpur-vadodara",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Prinkal Niraj Dhanurdhari",
+    "amenities": "Within 10 mins drive to Radha Multi-Speciality Hospital | Within 10 mins drive to Sapphire Global School | Within 10 mins drive to Kamla Park Shopping Complex | Within 10 mins drive to D-Mart",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat for Sale in Ratanpur - Best Price",
+    "seo_keyword": "Flat in Kuber Expression, Ratanpur, Vadodara",
+    "title_h1": "Buy Flat in Kuber Expression, Ratanpur, Vadodara",
+    "seo_description": "Purchase a beautiful flat in Kuber Expression, Ratanpur, Vadodara. It offers spacious living and convenient access. Explore this prime real estate opportunity. Call now to schedule a visit before it's gone! Don't miss out!",
+    "created_at": "2025-07-04T22:00:48.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-05T05:10:13.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "PNB Housing Finance",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39200/1751692213649_unnamed (25).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39200/1751692213760_unnamed (25).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

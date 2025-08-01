@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122858,
+    "borrower_name": "Mr.Santosh Popat Chavan",
+    "bank_name": "Union Bank of India",
+    "address": "Description Property No.1 Residential Plot Vide Cts No.259 And 250A, Muncipal No 2731 And 277/1, Measuring 543.58 Sq Ft., Situated Near Laxmi Mata Temple And New English School, Off Pune Solapur Highway, Hadapsar, Tal Havel Pune 411028 Province/State : Maharashtra City/Town : Pune Area/Town : Haveli",
+    "reserve_price": 1810000,
+    "dimensions": "543.58 Sq Ft.",
+    "emd": 181000,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Haveli",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": 411028,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479234",
+      "Branch Name": "Asset Recovery Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

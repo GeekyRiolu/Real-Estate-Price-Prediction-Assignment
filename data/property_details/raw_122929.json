@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122929,
+    "borrower_name": "Mr. Shreemantika Ashok Kumar Aich",
+    "bank_name": "ICICI Bank",
+    "address": "Description Flat No. 902, 9Th Floor, Building No A-9,  Xrbia Ambi- Phase-1 , Talegaon Midc Road, Village Ambi, Haveli, Taluka Maval, Pune-410506, Admeasuring An Area Of Carpet Area - 31.93 Sqmtr, Enclosed Balcony Area 3.68 Sq.Mtrs.  and  Attached Balcony 1.48 Sq.Mtrs  and  Open Terrace Having Area 0.00 Sq. Mtrs Province/State : Maharashtra City/Town : Pune Area/Town : Maval",
+    "reserve_price": 1850000,
+    "dimensions": "31.93 Sqmtr",
+    "emd": 185000,
+    "possession": null,
+    "auction_date": "2025-04-07T18:30:00.000Z",
+    "application_deadline": "2025-04-05T18:30:00.000Z",
+    "locality": "Maval",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": 410506,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "475473",
+      "Branch Name": "Branch Office : Pune"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

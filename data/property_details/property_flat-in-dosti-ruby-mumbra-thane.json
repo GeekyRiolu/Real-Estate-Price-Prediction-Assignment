@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 1803, 18th Floor, Dosti Ruby, Mumbra, Thane",
+    "name": "Flat in Dosti Ruby, Mumbra, Thane",
+    "application_date": "2025-08-11T18:30:00.000Z",
+    "date": "2025-08-12T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": "423 SFT",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Mumbra",
+    "estimated_discount": "20",
+    "emd": 411500,
+    "market_value": 6000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40449,
+    "latitude": "19.15362588524492",
+    "longitude": "73.03548193292187",
+    "min_increment": null,
+    "reserve_price": 4115000,
+    "description": null,
+    "slug": "flat-in-dosti-ruby-mumbra-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752235248210!6m8!1m7!1sfop-dhYNycq2_EafG3A0jg!2m2!1d19.15307862272079!2d73.034634185549!3f45.192290200719526!4f19.821744198230775!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Ms.Kiran Nandlal Yadav",
+    "amenities": "Within 5 mins drive to D-mart | Within 10 mins drive to Oxford English School | Within 10 mins drive to Akmal Jamal shopping centre",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Dosti Ruby, Mumbra for Sale - Call Now",
+    "seo_keyword": "Flat in Dosti Ruby, Mumbra, Thane",
+    "title_h1": "Buy Flat in Dosti Ruby, Mumbra, Thane",
+    "seo_description": "Find a beautiful flat in Dosti Ruby, Mumbra, Thane, available for sale. This property offers comfortable living and is located in a prime location. Call now to schedule a viewing and secure your dream home before it's gone. Don't miss this opportunity!",
+    "created_at": "2025-07-10T20:16:45.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-11T12:05:10.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40449/1752235510513_dosti.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40449/1752235510668_dosti.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

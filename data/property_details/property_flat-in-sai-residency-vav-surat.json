@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "LBSUR00005973956",
+    "address": "Flat No 101, 1st Floor, Building No D-2, Sai Residency, Vav, Surat",
+    "name": "Flat in Sai Residency, Vav, Surat",
+    "application_date": "2025-08-07T18:30:00.000Z",
+    "date": "2025-08-10T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": "59.40 Sq Mtrs",
+    "total_area": null,
+    "carpet_area": "53.14 Sq Mtrs",
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Vav",
+    "estimated_discount": "20",
+    "emd": 136000,
+    "market_value": 2300000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39562,
+    "latitude": "21.24887161574276",
+    "longitude": "72.97058834485553",
+    "min_increment": null,
+    "reserve_price": 1360000,
+    "description": null,
+    "slug": "flat-in-sai-residency-vav-surat",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751870457801!6m8!1m7!1swYhOwatXLBOrrEMVHbhthQ!2m2!1d21.24906285483254!2d72.97075464180793!3f185.0965300488027!4f6.493703085259369!5f0.702400175513155\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Ukani Rajeshbhai Rameshbhai",
+    "amenities": "Just a 3 min drive to Vasishtha | Within 10 mins drive to Jayabaa Multispeciality Hospital | Within 10 mins drive to Sahkar Nagar Shopping Center | Within 10 mins drive to Sahajanand Garden",
+    "nearby_locations": null,
+    "seo_title": "Flat for sale in Sai Residency, Vav - Best Price!",
+    "seo_keyword": "Flat in Sai Residency, Vav, Surat",
+    "title_h1": "Buy Flat in Sai Residency, Vav, Surat",
+    "seo_description": "Find your dream home with a Flat in Sai Residency, Vav, Surat. Discover comfortable living spaces with easy access to local amenities. Explore listings and find your perfect match. Call now to schedule a viewing and secure your future home before it\u2019s gone!",
+    "created_at": "2025-07-07T00:09:31.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-07T06:45:04.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39562/1751870704768_Screenshot 2025-07-07 121055.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39562/1751870704908_Screenshot 2025-07-07 121055.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

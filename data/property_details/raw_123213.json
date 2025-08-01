@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123213,
+    "borrower_name": "Smt. Divya V",
+    "bank_name": "Indian Overseas Bank",
+    "address": "Description 1145 Sq.Ft, S.No. 317/1A1 (Part), Plot No.99, Flat F1 (Road/Front Side Flat), First Floor, V.G.P Selva Nagar, 3Rd Main Road, Velacherry, Chennai-600 042. Land Bounded On The North By Plot No.88, South By 30 Feet Road, East By Plot No.98, West By Plot No. 100, Land Measuring East To West On The Northem Side-40 Feet, East To West On The Southern Side-40 Feet, North To South On The Eastern Side-75 Feet, North To South On The Westem Side-75 Feet Province/State : Tamil Nadu City/Town : Chennai Area/Town : Velachery",
+    "reserve_price": 7600000,
+    "dimensions": "1145 Sq.Ft",
+    "emd": 760000,
+    "possession": null,
+    "auction_date": "2025-04-04T18:30:00.000Z",
+    "application_deadline": "2025-04-02T18:30:00.000Z",
+    "locality": "Velachery",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 7,
+    "state_id": 23,
+    "city_id": 2936,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "466279",
+      "Branch Name": "Regional Office - Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

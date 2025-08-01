@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 120545,
+    "borrower_name": "Dhanaraj Manmath Tarde",
+    "bank_name": "ICICI Home Finance",
+    "address": "Flat No 8, 2Nd Floor, Nathkrupa Apartment, Survey No 8/ A/ 1, Mauje Wadgaon Kh Tal Haveli Dist Pune - 412114",
+    "reserve_price": 2106000,
+    "dimensions": "Built Up 385 Sq.Ft",
+    "emd": 210600,
+    "possession": null,
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Haveli",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": 412114,
+    "latlong": "maps.google.com/maps?q=18.459527,73.812782",
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 40,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": "Pune-B",
+      "REGION": "South Maharashtra",
+      "Property Webside Link": "",
+      "Latest Inspection Date  and  Time of Property": "11Th Feb,'25 11Am - 3Pm"
+    },
+    "ao_name": "Krunal Shah",
+    "ao_mobile": "9158660017",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

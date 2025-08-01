@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 105523,
+    "borrower_name": "Sivagami N",
+    "bank_name": "Equitas Small Finance Bank",
+    "address": "All That Piece And Parcel Of Vacant Land Comprised In Grama Natham Old.Survey No.317/2Part, New.Survey No.528/3 With An Extent Of 1326 Sq.Ft., Situated At Sengundram Village, Chengalpattu Taluk And Chengalpattu District, And Bounded On (North By)- Plot Belong To Mr.Natarajan (South By)- Retain Plot Belong To Mr.Sankar (East By)- 3 Feet Common Path Way (West By)- Vacant Plot Belong To Mr.Ravi@Udayakumar",
+    "reserve_price": 1071000,
+    "dimensions": "1326 Sq.Ft",
+    "emd": null,
+    "possession": "Physical",
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Chengalpattu",
+    "city": "Chengalpattu",
+    "state": "Tamil Nadu",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Vacant Land",
+    "loan_account_number": null,
+    "receive_date": "2025-02-14T18:30:00.000Z",
+    "bank_id": 122,
+    "state_id": 23,
+    "city_id": 3479,
+    "property_type_id": 36,
+    "created_at": "2025-02-15T14:16:31.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Zone": "South",
+      "Branch": "Utheramerur"
+    },
+    "ao_name": "Iqbal Alam",
+    "ao_mobile": "9958195453",
+    "ao_email": "iqbal.alam@equitasbank.com",
+    "favorite": 0
+  }
+}

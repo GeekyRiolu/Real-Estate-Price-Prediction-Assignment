@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No A/21, 2nd Floor, Vardhaman Kutir Chsl, Shankar Lane, Kandivali (W), Mumbai",
+    "name": "Residential Flat in Vardhaman Kutir Chsl, Kandivali (W), Mumbai",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-06T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 59,
+    "built_up_area": "530 Sq ft",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "location": "Kandivali(W)",
+    "estimated_discount": "20",
+    "emd": 1310000,
+    "market_value": 15720000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38333,
+    "latitude": "19.1980098",
+    "longitude": "72.8419673",
+    "min_increment": 1,
+    "reserve_price": 13100000,
+    "description": null,
+    "slug": "residential-flat-in-vardhaman-kutir-chsl-kandivali-w-mumbai",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed/v1/streetview?key=AIzaSyAUITE77yYv33fokt3InIHg77SqIqmlDRI&location=19.1977795,72.8421781&heading=0&pitch=0&fov=90\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Hem Tools Centre Pvt. Ltd.",
+    "amenities": "Just a 5 min drive to Rejoice International School | Just a 4 min walk to Adarsh Garden | Just a 5 min drive to Raghuleela Mega Mall Kandivali West | Within 10 mins drive to Phoenix Hospitals PVT.LTD.",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Mumbai - Best Price",
+    "seo_keyword": "Residential Flat in Vardhaman Kutir Chsl, Kandivali (W), Mumbai",
+    "title_h1": "Buy Residential Flat in Vardhaman Kutir Chsl, Kandivali (W), Mumbai",
+    "seo_description": "Find a fantastic residential flat for sale in Vardhaman Kutir Chs Ltd, Shankar Lane, Kandivali (w), Mumbai. This property offers comfortable living and is conveniently located. Call now to explore this amazing opportunity and schedule your viewing before it's gone!",
+    "created_at": "2025-07-01T09:18:15.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-02T04:17:12.000Z",
+    "modified_by": 2268,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Crisel Alwaris",
+    "favorite": 0,
+    "bank_name": "Saraswat Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38333/1751429832979_Screenshot (6).png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38333/1751429833141_Screenshot (6).png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

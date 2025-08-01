@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 121976,
+    "borrower_name": "Saurabh Sethi",
+    "bank_name": "Bajaj Housing Finance Limited",
+    "address": "Of The Immovable Property: At Property Bearing D 18/8 Admeasuring 62.71 Sq. Mtr. Out Of Khasra No 18/15/3 Situated In The Abdi Of Old Gobind Pura In The Area Of Village Khureji Khas, Ilaqa Shahdra Delhi 110051. East Property Of Others, West-Property Of Others. North - Road, South - Property Of Others. Province/State : Delhi City/Town : New Delhi Area/Town : Illaqa Shahdara",
+    "reserve_price": 3423480,
+    "dimensions": "62.71 Sq. Mtr",
+    "emd": 342348,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Illaqa Shahdara",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110051,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 28,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479175",
+      "Branch Name": "Corporate Office : Pune"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

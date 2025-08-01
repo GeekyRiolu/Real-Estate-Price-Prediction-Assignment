@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118058,
+    "borrower_name": "Wedika Nut Craft Private Limited",
+    "bank_name": "Union Bank of India",
+    "address": "Al the part and parod of vacant land l (including old construction) forming part of Khasra no-675/153 678/153.6777154 and 678/154 (Plot No. 11  and  12 as per MCD Partition P Plani situated in the the abad abar of Gur Ki Mandi Opposite CC Cok Home Village Ra Raipur Chaweni Delhi-110007, adresing area of 1100.50 So Yds. Approx (MCO La ayout Plan), in the name of Mis Salasantham Technobuild Pvt Ltd Boundaries as per MCD Partition plan is below: North Road, South-Passage/other property, East: Other land  and  Road, West-Otherland (Property is under Physical posseenion Province/State :  Delhi City/Town :  New Delhi Area/Town :  Raipur Chaweni",
+    "reserve_price": 157300000,
+    "dimensions": null,
+    "emd": 15730000,
+    "possession": "Physical",
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Raipur",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110007,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

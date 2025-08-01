@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No A4, First Floor, Gurukrupa Sankul-a, Next To Nirmala Lawns, Mumbai Agra Highway, Pimpalgoan (b), Niphad, Nashik Shop No A5, First Floor, Gurukrupa Sankul-a, Next To Nirmala Lawns, Mumbai Agra Highway, Pimpalgoan (b), Niphad, Nashik Shop No A8, Fir",
+    "name": "Commercial Shop in Gurukrupa Sankul-a, Pimpalgoan (b), Niphad, Nashik",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 9,
+    "built_up_area": null,
+    "total_area": "18.96 SQ MTR",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "location": null,
+    "estimated_discount": "20",
+    "emd": 85000,
+    "market_value": 1020000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 44833,
+    "latitude": "20.1696936",
+    "longitude": "73.9873189",
+    "min_increment": null,
+    "reserve_price": 850000,
+    "description": null,
+    "slug": "Commercial-Shop-in-Gurukrupa-Sankul-a-Pimpalgoan-(b)",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed/v1/streetview?key=AIzaSyAUITE77yYv33fokt3InIHg77SqIqmlDRI&location=20.1699557,73.9866077&heading=0&pitch=0&fov=90\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 16,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "M/s.SAI ENTERPRISES",
+    "amenities": "Near Patanjali Arogya Kendra | Close to Bank of Maharashtra - Pimpalgaon Branch | Close to LAXMI TRACKS CENTER | Close by Apna Super Bazar",
+    "nearby_locations": null,
+    "seo_title": "Commercial Shop for sale in Nashik - Best Price",
+    "seo_keyword": "Commercial Shop in Gurukrupa Sankul-a, Pimpalgoan (b), Niphad, Nashik",
+    "title_h1": "Buy Commercial Shop in Gurukrupa Sankul Pimpalgoan Nashik",
+    "seo_description": "Browse the Commercial Shop in Gurukrupa Sankul-a, Pimpalgoan (b), Niphad, Nashik. This property offers excellent investment potential. Find great prices. Call now to discover all of the shop details and schedule your viewing today before it's gone!",
+    "created_at": "2025-07-23T01:38:11.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-24T11:14:01.000Z",
+    "modified_by": 2267,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "rakhi yadav",
+    "favorite": 0,
+    "bank_name": "Punjab National Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/44833/1753355641345_Apparel Shop.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/44833/1753355641345_Apparel Shop.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

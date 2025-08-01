@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122826,
+    "borrower_name": "Sarita Sachin Warang",
+    "bank_name": "PNB Housing Finance",
+    "address": "Description Flat No 403, 4 Th Floor, Building No 2, Shreya 2 20 Co Operative Housing Society Ltd, Near Royal International School, Off P  and  T Colony Road Village Nandivali, Dombivali East, Thane, Maharashtra, 421201 Province/State : Maharashtra City/Town : Thane Area/Town : Nandivli Tekdi",
+    "reserve_price": 2414000,
+    "dimensions": "",
+    "emd": 241400,
+    "possession": null,
+    "auction_date": "2025-04-14T18:30:00.000Z",
+    "application_deadline": "2025-04-12T18:30:00.000Z",
+    "locality": "Nandivli Tekdi",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": 421201,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 48,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "467385",
+      "Branch Name": "Navi Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

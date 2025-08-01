@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "House No. 11-24-27/3, MV Colony, Kothawada, Warangal",
+    "name": "Independent House in MV Colony, Kothawada, Warangal",
+    "application_date": "2025-08-06T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 6,
+    "built_up_area": null,
+    "total_area": "336 Sq.yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Warangal",
+    "state": "Telangana",
+    "location": "Kothawada",
+    "estimated_discount": "20",
+    "emd": 1421200,
+    "market_value": 20000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39600,
+    "latitude": "17.99350614436082",
+    "longitude": "79.60479037424079",
+    "min_increment": null,
+    "reserve_price": 14212000,
+    "description": null,
+    "slug": "independent-house-in-mv-colony-kothawada-warangal",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1751883411450!6m8!1m7!1szxLrJOd8Vt7Pkn8_PqMf-g!2m2!1d17.99344364420694!2d79.60474209448036!3f220.75664107860817!4f2.253671954336099!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 3,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "M/S City Grand",
+    "amenities": "Just a 5 min walk to Oasis Public School | Just a 5 min drive to Reliance SMART Superstore | Just a 5 min drive to Samraksha Multi Super Specialty Hospital",
+    "nearby_locations": null,
+    "seo_title": "Independent House for sale in Warangal - Best Price",
+    "seo_keyword": "Independent House in MV Colony, Kothawada, Warangal",
+    "title_h1": "Buy Independent House in MV Colony, Kothawada, Warangal",
+    "seo_description": "Explore this Independent House in MV Colony, Kothawada, Warangal. This property offers comfortable living. Discover its features and amenities. Contact us for details and schedule a viewing. Call now to secure your dream home before it's gone.",
+    "created_at": "2025-07-07T10:23:16.000Z",
+    "created_by": 1073,
+    "updated_at": "2025-07-07T10:23:16.000Z",
+    "modified_by": null,
+    "created_by_name": "Mohd Izhar",
+    "modified_by_name": null,
+    "favorite": 0,
+    "bank_name": "Indian Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39600/1751883797093_hamakonda.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39600/1751883797146_hamakonda.png"
+    ]
+  }
+}

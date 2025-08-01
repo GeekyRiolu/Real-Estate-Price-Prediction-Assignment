@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122525,
+    "borrower_name": "Markose Ashariparambu Micheal",
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "address": "That Part  and  Parcel Of An Extent Of 2.87 Ares Of Property In Sy. No. 781/3-2 Along With Right Over Way In Kalletumkara Village, Chalakkudy Taluk, Thazhekkadu Kara, Aaloor Grama Panchayath, Kalletumkara Sub District, Thrissur District As Described In The Schedule To The Settlement Deed 844/2013 In The Name Of Jini. Boundaries Of The Property As Per Sale Deed North Property Of Naduvathra Bhaskaran  and  Property Of Sunitha: South: Private Way; East: Property Of Paruthiyezhathu Shaji: West Property Of Palakkal Manoj Boundaries As Per Location Sketch-North: Property Of Naduvathira Bhaskaran  and  Property Of Sunitha: South : Private Way: East: Property Of Paruthiyezhathu Shaji: West: Property Of Palakkal Manoj Province/State : Kerala City/Town : Thrissur Area/Town : Chalakudy",
+    "reserve_price": 1300000,
+    "dimensions": "",
+    "emd": 130000,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Chalakudy",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 31,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479619",
+      "Branch Name": "Chennai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

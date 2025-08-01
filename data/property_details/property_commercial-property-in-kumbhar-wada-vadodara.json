@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "L9001060100111312, L9001061124613281",
+    "address": "Nodh No. 3055, Kumbhar Wada, Vadodara",
+    "name": "Commercial Property in Kumbhar Wada, Vadodara",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-05T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 27,
+    "built_up_area": null,
+    "total_area": "1173 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Property",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "location": "Kumbhar Wada",
+    "estimated_discount": "20",
+    "emd": 182000,
+    "market_value": 3200000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 37391,
+    "latitude": "18.525388314224124",
+    "longitude": "73.85842390173067",
+    "min_increment": null,
+    "reserve_price": 1820000,
+    "description": null,
+    "slug": "commercial-property-in-kumbhar-wada-vadodara",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 32,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "Parmar Priteshbhai S/O Gambhirbhai",
+    "amenities": "Close to IDFC FIRST Bank - Pune, Dhole Patil Road Branch | Nearby Late. Satish Dhondiba Misal Parking | Close by Deccan Metro Station | Close to Chhatrapati Sambhaji Garden",
+    "nearby_locations": null,
+    "seo_title": "Commercial Property for sale in Vadodara \u2013 Best Price",
+    "seo_keyword": "Commercial Property in Kumbhar Wada, Vadodara",
+    "title_h1": "Buy Commercial Property in Kumbhar Wada, Vadodara",
+    "seo_description": "Explore prime commercial property in Kumbhar Wada, Vadodara, perfect for your business needs. This property offers a strategic location and excellent investment potential. Contact us today for more details, and call now to schedule a visit before it\u2019s gone!",
+    "created_at": "2025-06-26T22:24:23.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-05T08:24:41.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "AU Small Finance Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/37391/1751703881704_Residential Plot.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/37391/1751703881840_Residential Plot.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

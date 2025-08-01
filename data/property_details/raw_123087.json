@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123087,
+    "borrower_name": "M/S Harjot Trading Company",
+    "bank_name": "Punjab National Bank",
+    "address": "Description Property Measuring 04 Marla Being 6/88 Share Of 2K-4M Covered By K/K No. 949/1046 Bearing Khasra No.551 (2-4) Registered Vide Sale Deed No.495 Dated 28.05.2010 Standing In The Name Of Sh. Paramjit Kaur W/O Sh. Karamjit Singh Province/State : Punjab City/Town : Ludhiana Area/Town : Nurmahal",
+    "reserve_price": 297000,
+    "dimensions": "",
+    "emd": 29700,
+    "possession": null,
+    "auction_date": "2025-04-09T18:30:00.000Z",
+    "application_deadline": "2025-04-07T18:30:00.000Z",
+    "locality": "Nurmahal",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 20,
+    "city_id": 2805,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478143",
+      "Branch Name": "Circle Office Jalandhar"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

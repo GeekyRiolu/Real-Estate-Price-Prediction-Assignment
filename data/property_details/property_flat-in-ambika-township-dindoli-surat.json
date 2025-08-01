@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "LBSUR00003467030, LBSUR00003467029",
+    "address": "Flat No 404, 4th Floor, Building B-1, Ambika Township, Dindoli, Surat",
+    "name": "Flat in Ambika Township, Dindoli, Surat",
+    "application_date": "2025-08-07T18:30:00.000Z",
+    "date": "2025-08-10T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "73.42 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Dindoli",
+    "estimated_discount": "20",
+    "emd": 154000,
+    "market_value": 2600000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39564,
+    "latitude": "21.15232494922565",
+    "longitude": "72.87653942415945",
+    "min_increment": null,
+    "reserve_price": 1540000,
+    "description": null,
+    "slug": "flat-in-ambika-township-dindoli-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Rinkiben Sanjitkumar Patel",
+    "amenities": "Just a 3 min drive to Baba Memorial Hospital | Within 10 mins drive to Radheyshyam English School | Within 10 mins drive to Ganesh Mart | Within 10 mins drive to Midas Square",
+    "nearby_locations": null,
+    "seo_title": "Apartment for sale in Dindoli - Best Price",
+    "seo_keyword": "Flat in Ambika Township, Dindoli, Surat",
+    "title_h1": "Buy Flat in Ambika Township, Dindoli, Surat",
+    "seo_description": "Find a beautiful flat in Ambika Township, Dindoli, Surat. This property offers a great living experience, with spacious rooms and modern amenities. Secure this amazing flat now. Call now to schedule a visit and make it yours today before it's gone!",
+    "created_at": "2025-07-07T00:09:37.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-07T06:13:23.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39564/1751868803896_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39564/1751868803996_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

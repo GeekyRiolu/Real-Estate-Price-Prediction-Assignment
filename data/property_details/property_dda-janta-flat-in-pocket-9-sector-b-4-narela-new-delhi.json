@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 53, 3rd Floor, Pocket 9, Sector B4, Narela, New Delhi",
+    "name": "DDA Janta Flat in Pocket 9, Sector B-4, Narela, New Delhi",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "location": "Narela",
+    "estimated_discount": "20",
+    "emd": 47700,
+    "market_value": 572400,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46245,
+    "latitude": "28.8377163",
+    "longitude": "77.1092503",
+    "min_increment": null,
+    "reserve_price": 477000,
+    "description": null,
+    "slug": "dda-janta-flat-in-pocket-9-sector-b-4-narela-new-delhi",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Mrs. Prabha Sharma",
+    "amenities": "Just a 2 min walk to DAV Centenary Public School ,Narela | Within 10 mins drive to Samarpan Multispeciality Hospital | ~9 mins walk to Nishtha Speciality Hospital | Within 10 mins drive to Aggarwal Shopping Plaza",
+    "nearby_locations": null,
+    "seo_title": "Buy DDA Janta Flat in Narela - Best Price",
+    "seo_keyword": "DDA Janta Flat in Pocket 9, Sector B-4, Narela, New Delhi",
+    "title_h1": "Buy DDA Janta Flat in Pocket 9, Sector B-4, Narela, New Delhi",
+    "seo_description": "Purchase a DDA Janta Flat located in Pocket 9, Sector B-4, Narela, New Delhi. This property offers an affordable living option. Call now to view this property before it goes off the market; secure your future home today!",
+    "created_at": "2025-07-26T09:01:53.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-28T05:24:36.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46245/1753680276064_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46245/1753680276064_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

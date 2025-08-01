@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 1, Ground Floor, Mahadev Villa CHSL, Kalwa, Thane",
+    "name": "Flat in Mahadev Villa CHSL, Kalwa, Thane",
+    "application_date": "2025-08-06T18:30:00.000Z",
+    "date": "2025-08-07T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 2,
+    "built_up_area": null,
+    "total_area": "500 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Kalwa",
+    "estimated_discount": "20",
+    "emd": 582950,
+    "market_value": 8000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38790,
+    "latitude": "19.194269024401827",
+    "longitude": "72.98924987080316",
+    "min_increment": null,
+    "reserve_price": 5829500,
+    "description": null,
+    "slug": "flat-in-mahadev-villa-chsl-kalwa-thane",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Madhukar Nathu Gole",
+    "amenities": "Just a 4 min walk to D-Mart | Within 10 mins drive to Horizon Hospital | Within 10 mins drive to D.A.V. Public School | Within 10 mins drive to Viviana Mall",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat for Sale in Kalwa, Thane - Best Price",
+    "seo_keyword": "Flat in Mahadev Villa CHSL, Kalwa, Thane",
+    "title_h1": "Buy Flat in Mahadev Villa CHSL, Kalwa, Thane",
+    "seo_description": "Find a fantastic flat in Mahadev Villa CHSL, Kalwa, Thane. Explore property options perfect for your needs. This amazing offer provides comfortable living spaces. Call now to schedule a visit and secure your dream home. Act fast; this deal won't last!",
+    "created_at": "2025-07-03T19:46:35.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-04T07:42:30.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38790/1751614950547_mahadev villa.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38790/1751614950678_mahadev villa.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Office No S-4, 2nd Floor, Madan Mention, Adarsh Nagar, Fatahtiba Industrial Area, Govind Marg, Jaipur",
+    "name": "Office Space in Madan Mention, Adarsh Nagar, Jaipur",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-04T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 31,
+    "built_up_area": null,
+    "total_area": "N/A",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Office Space",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "location": "Adarsh Nagar",
+    "estimated_discount": "20",
+    "emd": 500000,
+    "market_value": 6000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 37713,
+    "latitude": "26.898307108563355",
+    "longitude": "75.75128621022193",
+    "min_increment": null,
+    "reserve_price": 5000000,
+    "description": null,
+    "slug": "office-space-in-madan-mention-adarsh-nagar-jaipur",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 10,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "Pooja Hardasani",
+    "amenities": "Nearby Bootleggers Restaurant in Vaishali Nagar | Close to Om Dhaba and family Restaurant | Nearby HDFC Bank Shipra Path | Close by AU Small Finance Bank",
+    "nearby_locations": null,
+    "seo_title": "Office Space for sale in Jaipur - Best Price",
+    "seo_keyword": "Office Space in Madan Mention, Adarsh Nagar, Jaipur",
+    "title_h1": "Buy Office Space in Madan Mention, Adarsh Nagar, Jaipur",
+    "seo_description": "Discover prime office space in Madan Mention, Adarsh Nagar, Jaipur. These strategic locations offer excellent opportunities for your business. Secure your ideal office space today. Call now to schedule a visit before they're gone.",
+    "created_at": "2025-06-28T07:17:17.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-02T12:01:13.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Cholamandalam Investment and Finance Company",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/37713/1751457673130_Office Space.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/37713/1751457673250_Office Space.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No V-1135, Ground Floor, Surat Textile Market, Narayan Nagar, Surat",
+    "name": "Commercial Shop in Surat Textile Market, Narayan Nagar, Surat",
+    "application_date": "2025-08-31T18:30:00.000Z",
+    "date": "2025-09-02T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 149,
+    "built_up_area": null,
+    "total_area": "22.30 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Narayan Nagar",
+    "estimated_discount": "20",
+    "emd": 1447200,
+    "market_value": 24000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47004,
+    "latitude": "21.1907682988997",
+    "longitude": "72.84303197734035",
+    "min_increment": null,
+    "reserve_price": 14472000,
+    "description": null,
+    "slug": "commercial-shop-in-surat-textile-market-narayan-nagar-surat",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753866451101!6m8!1m7!1sUxPX9CNMcLikytA7CGHAjg!2m2!1d21.19089959312542!2d72.84222195023715!3f143.5909160298405!4f-8.049538944140437!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 16,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "M/s. Ulva Exports LLP",
+    "amenities": "Just a 4 min drive to Reliance Mall | Just a 4 min drive to Reliance SMART Superstore | Within 10 mins drive to HDFC Bank | Within 10 mins drive to S.M.C Multilevel Parking",
+    "nearby_locations": null,
+    "seo_title": "Commercial Shop for sale in Surat \u2013 Best Price!",
+    "seo_keyword": "Commercial Shop in Surat Textile Market, Narayan Nagar, Surat",
+    "title_h1": "Buy Commercial Shop in Surat Textile Market, Narayan Nagar, Surat",
+    "seo_description": "Discover a prime Commercial Shop in Surat Textile Market, Surat, ideal for business ventures. It offers strategic location and high foot traffic, perfect for investment. Seize this opportunity now and call today to arrange a viewing. Don't miss out!",
+    "created_at": "2025-07-29T22:33:54.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T09:10:42.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Axis Finance",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47004/1753866642491_Screenshot 2025-07-30 143805.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47004/1753866642491_Screenshot 2025-07-30 143805.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

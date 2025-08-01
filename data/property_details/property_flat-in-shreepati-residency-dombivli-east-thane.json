@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 1601, 16th Floor, C-wing, Shreepati Residency, Dombivli East, Thane",
+    "name": "Flat in Shreepati Residency, Dombivli East, Thane",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-18T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 16,
+    "built_up_area": null,
+    "total_area": "38 Sq.Mtr CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Dombivli",
+    "estimated_discount": "20",
+    "emd": 353200,
+    "market_value": 5000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40091,
+    "latitude": "19.158823824935563",
+    "longitude": "73.06174172591584",
+    "min_increment": null,
+    "reserve_price": 3532000,
+    "description": null,
+    "slug": "flat-in-shreepati-residency-dombivli-east-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752131927063!6m8!1m7!1sjcKf4GcnPbi9YHWCgt7y-A!2m2!1d19.1590632545008!2d73.06104703380714!3f123.50614933055985!4f5.396231614177566!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Chandrakant Salekar",
+    "amenities": "Just a 4 min drive to D-mart | Just a 4 min drive to Palava Xperia Mall | Within 10 mins drive to Queens Care Hospital | Within 10 mins drive to Ira Global School | Within 10 mins drive to Promenade Park",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Shreepati Residency \u2013 Best Price",
+    "seo_keyword": "Flat in Shreepati Residency, Dombivali East, Thane",
+    "title_h1": "Buy Flat in Shreepati Residency, Dombivali East, Thane",
+    "seo_description": "Discover a fantastic flat in Shreepati Residency, located in Dombivali East, Thane. This property offers comfortable living spaces and convenient access. Explore prime real estate opportunities for your new home. Call now to schedule a visit and secure your future residence quickly before it's gone!",
+    "created_at": "2025-07-09T10:48:57.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-10T07:19:32.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "ICICI Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40091/1752131972315_SHREEE.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40091/1752131972511_SHREEE.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

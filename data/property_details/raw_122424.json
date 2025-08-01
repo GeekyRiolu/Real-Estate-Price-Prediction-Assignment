@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122424,
+    "borrower_name": "Mr. Adil Khan Durrani",
+    "bank_name": "ICICI Bank",
+    "address": "As Described In The Loan Document/Property Document Covering All That Piece And Parcel Of The Property Bearing No.763/2, Situated At Northeast Of Mahadevapura Extension, Udayagiri, Lashkar Mohalla, Mysuru, In Between Measuring, East To West: 72.00 Fts,  and  North To South: 30.00 Fts, Constructed House Having 8 Squares Of R.C.C Roofing-Mosaic Flooring  and  Thereon. North: Water Drainage South: Property No.763/3 East: Road West: Private Property. Residential 3 Floor Building With 3700 Square Feet Super Bua On 2160 Sq. Ft. Of Land. Known Encumbrances: Sale Agreement In The Name Of Mr. Syed Abbas Doc No: Mye-1-08185-2020-21 Dated: 23-12-2020 Province/State : Karnataka City/Town : Mysuru Area/Town : Lashkar Mohalla",
+    "reserve_price": 16800000,
+    "dimensions": "2160 Sq. Ft.",
+    "emd": 1680000,
+    "possession": null,
+    "auction_date": "2025-04-15T18:30:00.000Z",
+    "application_deadline": "2025-04-13T18:30:00.000Z",
+    "locality": "Lashkar Mohalla",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 11,
+    "city_id": 3539,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "473637",
+      "Branch Name": "Branch Office : Bangalore"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

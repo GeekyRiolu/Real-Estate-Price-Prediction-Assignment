@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 401, 4th Floor, Tower F, Gunatit Residency, Nr. Shree Rang Mall, Gotri, Vadodara",
+    "name": "Residential Flat in Gunatit Residency, Gotri, Vadodara",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-29T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 28,
+    "built_up_area": null,
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "location": "Chandramauleshwar Nagar",
+    "estimated_discount": "20",
+    "emd": 240000,
+    "market_value": 2880000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46715,
+    "latitude": "22.3111697",
+    "longitude": "73.1294205",
+    "min_increment": null,
+    "reserve_price": 2400000,
+    "description": null,
+    "slug": "Residential-Flat-in-Gunatit-Residency-Gotri-1",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "DIPANKAR DUTTA",
+    "amenities": null,
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Gotri - Best Price",
+    "seo_keyword": "Residential Flat in Gunatit Residency, Gotri, Vadodara",
+    "title_h1": "Buy Residential Flat in Gunatit Residency, Gotri, Vadodara",
+    "seo_description": "Find a desirable residential flat in Gunatit Residency, Gotri, Vadodara. This property offers comfortable living with access to local amenities. We offer properties for sale that fit your needs. Call now to schedule a visit and make this property yours today!",
+    "created_at": "2025-07-28T22:00:30.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T07:27:30.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Bajaj Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46715/1753774050573_Flat or Apartment.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46715/1753774050573_Flat or Apartment.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122513,
+    "borrower_name": "Mr. Venunath Vikraman",
+    "bank_name": "HDFC Bank",
+    "address": "1.62 Ares In Sy No.311/3 Of Kainoor Village, Thrissur Taluk, Thrissur District And The Construction Thereon Present And Future With All Rights Appurtenant To It Covered By Sale Deed No: 999/2015 Of Kuttanellor Sro. Boundaries - East: Property Of M.B. Binu. North: Property Of Kodery Thankamma. West: Property Of Sheena Singh, South: Private Road Province/State : Kerala City/Town : Thrissur Area/Town : Kainoor",
+    "reserve_price": 3455000,
+    "dimensions": "",
+    "emd": 345500,
+    "possession": null,
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Kainoor",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471862",
+      "Branch Name": "Kochi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

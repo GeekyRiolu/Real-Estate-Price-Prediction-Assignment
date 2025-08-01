@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118113,
+    "borrower_name": "M/S. Aashay Enterprises",
+    "bank_name": "Union Bank of India",
+    "address": "Office use premises at Ambe Ashish building, 2nd Floor, Room No.7 (opp) Dariyalal Mandir, 32, Dariasthan street, Vadgadi, Masjid Bunder West, Mumbai - 400003. Saleble area 141 Sq. Ft. Province/State :  Maharashtra City/Town :  Mumbai Area/Town :  Masjid Bandar",
+    "reserve_price": 1300000,
+    "dimensions": "141 Sq. Ft",
+    "emd": 130000,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Masjid Bunder",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": 400003,
+    "latlong": null,
+    "property_type": "Commercial Office Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 14,
+    "city_id": 3743,
+    "property_type_id": 10,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

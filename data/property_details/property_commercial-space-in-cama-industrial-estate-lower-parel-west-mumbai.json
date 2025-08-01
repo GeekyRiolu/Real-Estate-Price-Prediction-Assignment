@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Unit No. 106, 1st Floor, Cama Industrial Estate, Cama Cold Storage Building, Sun Mill Compound, Sun Mill Road, Lower Parel (W), Mumbai",
+    "name": "Commercial Space in Cama Industrial Estate, Lower Parel West, Mumbai",
+    "application_date": "2025-08-11T18:30:00.000Z",
+    "date": "2025-08-13T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": "1,020 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Co-Working Space",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "location": "Lower Parel West",
+    "estimated_discount": "20",
+    "emd": 2370000,
+    "market_value": 28440000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 39175,
+    "latitude": "19.000258",
+    "longitude": "72.8238143",
+    "min_increment": null,
+    "reserve_price": 23700000,
+    "description": null,
+    "slug": "commercial-space-in-cama-industrial-estate-lower-parel-west-mumbai",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 15,
+    "location_type": "Exact",
+    "possession": "Symbolic Possession",
+    "borrower_name": "M/S. LOK ENTERPRISES",
+    "amenities": "~9 mins walk to Achija Veg restaurant lower parel | Within 10 mins drive to Grandmama's Cafe, Dadar East | Within 10 mins drive to Great Punjab Restaurant And Bar | Within 10 mins drive to Dadar Metro",
+    "nearby_locations": null,
+    "seo_title": "Commercial Space for sale in Mumbai - Best Price",
+    "seo_keyword": "Commercial Space in Cama Industrial Estate, Lower Parel West, Mumbai",
+    "title_h1": "Buy Commercial Space in Cama Industrial Estate, Lower Parel West, Mumbai",
+    "seo_description": "Explore prime commercial space for sale in Cama Industrial Estate, Lower Parel West, Mumbai. This property offers excellent investment opportunities, and is located in a strategic location. Call now to secure your viewing and avoid missing out on this chance.",
+    "created_at": "2025-07-04T21:41:16.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-05T10:51:31.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/39175/1751712691559_Screenshot 2025-07-05 161950.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/39175/1751712691694_Screenshot 2025-07-05 161950.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

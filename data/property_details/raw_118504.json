@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118504,
+    "borrower_name": "Khadgaraju Gopala Krishnam Raju",
+    "bank_name": "Nido Home Finance Limited",
+    "address": "Plot No. 313, R.S.No 281/8, Kadakatla Area, Tadepallygudem, West Godavari",
+    "reserve_price": 3304800,
+    "dimensions": "306 Sq. Yds",
+    "emd": 330480,
+    "possession": null,
+    "auction_date": "2025-03-12T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Tadepalligudem",
+    "city": "Tadepalligudem",
+    "state": "Andhra Pradesh",
+    "pincode": 534101,
+    "latlong": "maps.google.com/maps?q=16.8072523, 81.5316033",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 46,
+    "state_id": 1,
+    "city_id": 254,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Mr. Maulik Shrimali Ph. +",
+    "ao_mobile": "6351896643 / 9173528727",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

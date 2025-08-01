@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122879,
+    "borrower_name": "Arvind Tribhuwan Dubey",
+    "bank_name": "ICICI Home Finance",
+    "address": "Description Property No. 2 - Flat No. 002 On Ground Floor In The B Wing, Of The Building No. 1, Type A, Heaven Hills Situated At Plot No. 391, Village Haloli, Manor Road, Palghar Province/State : Maharashtra City/Town : Palghar Area/Town : Haloli",
+    "reserve_price": 2037555,
+    "dimensions": "",
+    "emd": 203756,
+    "possession": null,
+    "auction_date": "2025-04-08T18:30:00.000Z",
+    "application_deadline": "2025-04-06T18:30:00.000Z",
+    "locality": "Haloli",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 40,
+    "state_id": 14,
+    "city_id": 3330,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "479042",
+      "Branch Name": "Corporate Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No 113, Block No 343, Shri Villa Residency ,Tundi, Surat",
+    "name": "Row House in Shri Villa Residency, Tundi, Surat",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": null,
+    "total_area": "40.15 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Tundi",
+    "estimated_discount": "20",
+    "emd": 73300,
+    "market_value": 1200000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46430,
+    "latitude": "21.131104960916357",
+    "longitude": "73.03394459271827",
+    "min_increment": null,
+    "reserve_price": 733000,
+    "description": null,
+    "slug": "row-house-in-shri-villa-residency-tundi-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Mr. Babu Lal Khatik",
+    "amenities": "Just a 2 min drive to Ryan International School, Bardoli, Surat - ICSE | Just a 4 min drive to Anu's Xerox & Printout | ~10 mins walk to GIRDHARI MULTISPECIALITY HOSPITAL | Within 10 mins drive to SHREE JAMBU MATA SUPER STORS",
+    "nearby_locations": null,
+    "seo_title": "Row House for sale in Tundi, Surat - Best Price",
+    "seo_keyword": "Row House in Shri Villa Residency, Tundi, Surat",
+    "title_h1": "Buy Row House in Shri Villa Residency, Tundi, Surat",
+    "seo_description": "Find your dream Row House in Shri Villa Residency, Tundi, Surat. These properties offer comfortable living spaces and desirable features. Browse our listings to find the perfect home for sale. Call now to schedule a visit and secure your future!",
+    "created_at": "2025-07-26T21:53:25.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-28T06:33:21.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46430/1753684401028_Row House.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46430/1753684401028_Row House.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

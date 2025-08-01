@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": "GRR05303M",
+    "address": "Plot No 17, Gokul Nagar, Rajkot",
+    "name": "House in Gokul Nagar, Rajkot",
+    "application_date": "2025-08-06T18:30:00.000Z",
+    "date": "2025-07-09T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 158,
+    "built_up_area": null,
+    "total_area": "53 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "location": "Gokulnagar",
+    "estimated_discount": "20",
+    "emd": 162000,
+    "market_value": 2800000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38364,
+    "latitude": "22.257593870860312",
+    "longitude": "70.79299088550736",
+    "min_increment": null,
+    "reserve_price": 1620000,
+    "description": null,
+    "slug": "house-in-gokul-nagar-rajkot",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "Physical",
+    "borrower_name": "Yakubali Mohabatali",
+    "amenities": "Near S.K.V. Rajkot | Close to AYUSHMAN MULTI-SPECIALITY HOSPITAL | Nearby SWAMINARAYAN MUKHYA MANDIR -RAMESWAR BABARIYA COLONY RAJKOT | Nearby Ramdev peer temple Hanuman temple, mata g temple shiv temple, ganesh temple, shitla mata temple, kaal bhairav temple",
+    "nearby_locations": null,
+    "seo_title": "House for sale in Gokul Nagar, Rajkot \u2013 Best Price",
+    "seo_keyword": "House in Gokul Nagar, Rajkot",
+    "title_h1": "Buy House in Gokul Nagar, Rajkot",
+    "seo_description": "Find your dream home. We offer a beautiful house for sale in Gokul Nagar, Rajkot. The property is well-maintained and ready to move in. This is a perfect opportunity, so call now to schedule a visit and make it yours before it\u2019s gone.",
+    "created_at": "2025-07-01T21:58:41.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-03T10:45:02.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "IndusInd Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38364/1751539502365_House1.jpg"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38364/1751539502273_House1.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

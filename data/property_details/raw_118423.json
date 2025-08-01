@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118423,
+    "borrower_name": "M/S. Veenus Enterprises",
+    "bank_name": "Canara Bank",
+    "address": "Guntur District, Tenali Registration District, Repalle Sub-Dist., Morlavaripalem Gram Panchayat Area, Peteru Village, In Survery No: 112/4 An Extent Of 242 Sq.Yds Out Of 484 Sq.Yds Out Of Ac.1-25 Cents Of House Site With An Semi-Finished Individual Building In The Name And Style Of  Divija  Situated By The Side Of Door No: 2-246/A Bounded By: East: Joint Path Way, South: Compound Wall Of Moria Seshagirirao, West: Road, North: Site Of Vaka Srinivas. Within The Above Boundaries An Extent Of 242 Sq. Yds Or 203 Sq.Mts Of House Site Out Of Which An Undivided Share Is 30 Sq.Yds Of Site Only. Item-2: Guntur District, Tenali Registration District, Repalle Sub-District., Morlavaripalem Gram Panchayat Area, Peteru Village: A Flat Bearing No: G1 In The Ground Floor In Divija Individual Building Which Was Constructed In The Above 1St Item Site Bounded By: East: Open To Sky, South: Open To Sky, West: Common Corridor In Between This Flat No.101 Steps And Lift, North: Open To Sky. Within The Above Boundaries A Double Bed Room Flat No: G1 In Ground Floor In An Extent Of 786 Sq.Ft., Common Area In An Extent Of 197 Sq.Ft., Total Area Of 983 Sq.Ft With Two Wheeler Parking Area, Lift Etc With All Appurtenances Therein. Province/State : Andhra Pradesh City/Town : Guntur Area/Town : Tenali",
+    "reserve_price": 1503900,
+    "dimensions": "242 Sq.Yds",
+    "emd": 150390,
+    "possession": null,
+    "auction_date": "2025-03-24T18:30:00.000Z",
+    "application_deadline": "2025-03-22T18:30:00.000Z",
+    "locality": "Tenali",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 1,
+    "city_id": 87,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No : , ,",
+    "ao_mobile": "9492758257 / 8019308696 / 8331019148",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

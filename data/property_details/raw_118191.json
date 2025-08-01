@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118191,
+    "borrower_name": "M/S Mango Farm",
+    "bank_name": "Canara Bank",
+    "address": "All that part and parcel of All that part and parcel of Unit 3 and 4 area admeasuring 172.00 sq Mtrs (Built-up) Constructed upon land Bearing Mauje Malunje Tal Igatpuri Gut No. 538 Part of admeasuring area 2000 sq. Mtr(1420.84 Sq meters towards Northen end and Entire parking area admeasuring are 400 sq Mtrs and common road area 179.16 sq mtrs) standing in the name of Mrs. Gulnaz Zahir khan Nashik within the limits of Igatpuri Municiapal Council and within Sub Registration District Nashik. Bounded as under: East: Gat no 544 (Mrs Yashod Kudwal) West: Remaining part of Gat 538 South: Common Road North: Property of Babasaheb Gaikwad Province/State :  Maharashtra City/Town :  Nashik Area/Town :  Igatpuri",
+    "reserve_price": 13500000,
+    "dimensions": "172.00 sq Mt",
+    "emd": 1350000,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Igatpuri",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 14,
+    "city_id": 2639,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

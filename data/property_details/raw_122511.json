@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122511,
+    "borrower_name": "Mr Satheesh Cheppukottile",
+    "bank_name": "HDFC Bank",
+    "address": "0.837% Of The Undivided Share Over 45.04 Ares Of Land Comprised In Re Sy Nos. 18/4, 18/5, 19/6  and  19/10 Of Iringapram Village, Chavakkad Taluk, Thrissur District And Apartment No. G7 Admeasuring 955 Sq Ft (88.75 Sq Mts) Numbered As Xxxvii/418/184 From Guruvayur Municipality, Situated On The Fourth Floor Of The Annex Iv Of Nandanam Heritage, Near Guruvayur Devaswom Quarters, Guruvayur And Proportionate Share In The Common Area And Common Facilities Of The Said Building Complex And All Rights And Easements Appurtenant To It Covered By Sale Deed No.1030/2018 Of Kottappady Sro Boundaries-East: Municipal Road  and  Nandanam Heritage Villas, North: Property Of Thrissur Builders, Saraswathy, Muraleedharan  and  Nandanam Heritage Villas, West: Private Road And Property Of Sulochana  and  Subaida Usman, South: Guruvayur Devaswom Quarters Province/State : Kerala City/Town : Thrissur Area/Town : Chavakkad",
+    "reserve_price": 2700000,
+    "dimensions": "955 Sq Ft",
+    "emd": 270000,
+    "possession": null,
+    "auction_date": "2025-04-29T18:30:00.000Z",
+    "application_deadline": "2025-04-27T18:30:00.000Z",
+    "locality": "Chavakkad",
+    "city": "Thrissur",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 12,
+    "city_id": 2504,
+    "property_type_id": 2,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471866",
+      "Branch Name": "Kochi"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

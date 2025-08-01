@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 120874,
+    "borrower_name": "CHANDRAKANT MOHANRAO GHODESWAR",
+    "bank_name": "Bajaj Housing Finance Limited",
+    "address": "FLAT NO 102,1ST FLOOR, G-WING, THARWANI\u2019S MEGHNA MONTANA, SURVEY NO 135, HISSA NO 3/A, 138/1/K AND OTHERS, VILLAGE CHIKHLOLI, AMBERNATH 42150 ",
+    "reserve_price": 2700000,
+    "dimensions": "518 sqft",
+    "emd": 270000,
+    "possession": null,
+    "auction_date": null,
+    "application_deadline": null,
+    "locality": "Ambernath",
+    "city": "Ambernath",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 28,
+    "state_id": 14,
+    "city_id": 3434,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

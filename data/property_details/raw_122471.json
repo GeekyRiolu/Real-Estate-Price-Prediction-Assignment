@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122471,
+    "borrower_name": "M/S S and G Metal Building Solutions (India) Private Limited",
+    "bank_name": "Indian Overseas Bank",
+    "address": "Of The Immovable Property : Property: Owner Name: Mr. Sri Sudhakar R Equitable Mortgage Followed By Registered Memorandum Of All That Piece And Parcel Of The Residential Property Bearing Site No. 21, Bbmp Pid No. 67-11-21, Old Ward No.67, New Ward No.151 Of Koramangala Village, Koramangala-560095, Bangalore Measuring East To West 60 Feet And North To South 55 Feet, Totally Measuring 3300 Sq. Ft. Consisting Of A Non-Residential Building Measuring Gf-2400 Sq. Ft. In The Name Of Sri Sudhakar R. The Property Is Bounded As Follows: East By: Property Of Sri Krishna Munireddy  and  Sri Gurumurthy Reddy West By: Road North By: Property Of Sri. Ramaswamyreddy' South By: Property Of Sri Jayaramareddy. Note: Both The Properties Are The Common Security For Housing Loan Account In The Joint Name Of Both The Directors Province/State : Karnataka City/Town : Bengaluru Area/Town : Koramangala",
+    "reserve_price": 63000000,
+    "dimensions": "3300 Sq. Ft.",
+    "emd": 6300000,
+    "possession": null,
+    "auction_date": "2025-04-06T18:30:00.000Z",
+    "application_deadline": "2025-04-04T18:30:00.000Z",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": 560095,
+    "latlong": null,
+    "property_type": "Land and Building",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 7,
+    "state_id": 11,
+    "city_id": 1819,
+    "property_type_id": 33,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478204",
+      "Branch Name": "Koramangala Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

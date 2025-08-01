@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118839,
+    "borrower_name": "Mr. Barot Sanjay Gopalbhai",
+    "bank_name": "HDFC Bank",
+    "address": "6) Unit-011, Royal Heritage, S No 13, Fp-19, Tp-16, Bh. Pancham Bunglows, Nr Niwas Flats, Vasna-Bhayli Road, Vadodara",
+    "reserve_price": 6300000,
+    "dimensions": "127 Sq Mtr",
+    "emd": 630000,
+    "possession": null,
+    "auction_date": "2025-03-16T18:30:00.000Z",
+    "application_deadline": "2025-03-14T18:30:00.000Z",
+    "locality": "Bhayli",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": 391410,
+    "latlong": "maps.google.com/maps?q=22.2800322, 73.1309943",
+    "property_type": "Independent House",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 100,
+    "state_id": 7,
+    "city_id": 1219,
+    "property_type_id": 29,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact Person Mr Shishir Zalat Mobile No..Or Hardik Pandya Mobile No. .",
+    "ao_mobile": "8238038189 / 7228971677",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

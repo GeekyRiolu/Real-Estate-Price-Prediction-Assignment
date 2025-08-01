@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 123225,
+    "borrower_name": "Gopathi Raju",
+    "bank_name": "Nido Home Finance Limited",
+    "address": "Description Sl No 11 Description Of The Secured Asset: All The Part And Parcel Bearing Flatno 303, 3Rd Floor, H.No 3-3-45  and  46, With An Plinth Area 900Sq Ft, Together With Undivided Share Of 20 Sq Yards Equivalent To 16.72 Sq Mtrs, Out Of Total 415 Sq. Ydrs Situated At Tailor Street, Hanamkonda Chowrastha Warangal 506001 Bounded As: North: Open To Sky And Common Corridor. South: Open To Sky East: Open To Sky West: Flat No 302 And Common Corridor Province/State : Telangana City/Town : Warangal Area/Town : Hanamkonda",
+    "reserve_price": 4204200,
+    "dimensions": "900Sq Ft",
+    "emd": 420420,
+    "possession": null,
+    "auction_date": "2025-05-05T18:30:00.000Z",
+    "application_deadline": "2025-05-03T18:30:00.000Z",
+    "locality": "Hanamkonda",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": 506001,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 46,
+    "state_id": 24,
+    "city_id": 3049,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "478521",
+      "Branch Name": "Regd.Office : Mumbai"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

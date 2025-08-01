@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 703, 7th Floor, Ruby (wing-a), Jewel Arista, Badlapur, Thane",
+    "name": "Flat in Jewel Arista, Badlapur, Thane",
+    "application_date": "2025-08-28T18:30:00.000Z",
+    "date": "2025-08-29T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 38,
+    "built_up_area": null,
+    "total_area": "643 SFT CA",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Badlapur",
+    "estimated_discount": "20",
+    "emd": 284000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46597,
+    "latitude": "19.173503134846",
+    "longitude": "73.25857509387566",
+    "min_increment": null,
+    "reserve_price": 2840000,
+    "description": null,
+    "slug": "flat-in-jewel-arista-badlapur-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753767517134!6m8!1m7!1sRi2KRH0qqoFDGp24Fv5z4w!2m2!1d19.17301441786815!2d73.25807720931792!3f30.527574753398916!4f13.634877394694257!5f1.6022087110061918\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Sneha Swapnil Tanwade",
+    "amenities": "Just a 5 min drive to D-mart | Within 10 mins drive to Shreeji Centre Mall | Within 10 mins drive to Vaishnavi Multispeciality Hospital | Within 10 mins drive to Marigold International School",
+    "nearby_locations": null,
+    "seo_title": "Buy Flat in Jewel Arista, Badlapur \u2013 Best Price",
+    "seo_keyword": "Flat in Jewel Arista, Badlapur, Thane",
+    "title_h1": "Buy Flat in Jewel Arista, Badlapur, Thane",
+    "seo_description": "Discover a beautiful flat in Jewel Arista, located in Badlapur, Thane, with modern features. This is an excellent opportunity to purchase your dream property. Call now to schedule a visit and secure your future home today! Don't miss out on this chance.",
+    "created_at": "2025-07-28T05:40:14.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-29T05:44:04.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Hero Housing Finance Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46597/1753767844533_download.jpeg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46597/1753767844533_download.jpeg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

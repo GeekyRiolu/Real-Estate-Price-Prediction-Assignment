@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "id": 121955,
+    "borrower_name": "Mr. TIRUVALLUR KUPPUSWAMY VENKATESAN",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "PLOT NO.50, NORTHERN SIDE, SURVEY NO. 515/2 IN NEW SURVEY NO.515/41B, PATTA NO. 3511, SITUATED AT NO.76, SRI VEERARAGAVA SWAMY NAGAR, THANEERKULAM VILLAGE, THIRUVALUR TALUK AND DISTRICT, TN, INDIA, 602021",
+    "reserve_price": 1673000,
+    "dimensions": "AREA ADMEASURING (IN SQ. FT.): Property Type: Land_Area, Built_Up_Area, Carpet_Area Property Area: 876.00, 623.00, 529.00",
+    "emd": null,
+    "possession": "Symbolic",
+    "auction_date": "2025-04-24T18:30:00.000Z",
+    "application_deadline": "2025-04-22T18:30:00.000Z",
+    "locality": "Thane",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": "IL10330878",
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 14,
+    "city_id": 2638,
+    "property_type_id": 2,
+    "created_at": "2025-03-27T14:20:45.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Type": "30 Days",
+      "Location": "THIRUVALLUR",
+      "Outsanding": "1103593",
+      "Inspection date": "2025/04/21",
+      "Publication Date": "2025/03/22",
+      "Publication approval date": "2025/03/21"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

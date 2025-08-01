@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118063,
+    "borrower_name": "Mr. Akhlak",
+    "bank_name": "Union Bank of India",
+    "address": "Property no 1188  and  old No 610, (without roof rights) First floor, ward no 3, Baradari, Phatak Habash Khan, Behind Novelty Cinema, Chandni Chowk Delhi 110006 in the name of Mr. Akhlak Sio Md Sameer bounded as: North-Other property, South-Entry, East-Plot No-1187, West-Plot No-1189. Province/State :  Delhi City/Town :  New Delhi Area/Town :  Chandni Chowk",
+    "reserve_price": 2575000,
+    "dimensions": null,
+    "emd": 257500,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Arad",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": 110006,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 32,
+    "city_id": 3267,
+    "property_type_id": 1,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

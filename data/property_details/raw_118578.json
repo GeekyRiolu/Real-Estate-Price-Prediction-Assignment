@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118578,
+    "borrower_name": "M/S. Mahendra Readymade",
+    "bank_name": "Union Bank of India",
+    "address": "Shop No. 126, Mgnc Complex, Dwarapudi, Mandapeta Mandal, Dr Br Ambedkar Konaseema District, Andhra Pradesh",
+    "reserve_price": 4930000,
+    "dimensions": "95.50 Sq. Yards",
+    "emd": 493000,
+    "possession": null,
+    "auction_date": "2025-03-10T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Mandapeta",
+    "city": "Goragommi",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=16.9322996, 81.9242479",
+    "property_type": "Commercial Shop/Retail Space",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 3490,
+    "property_type_id": 16,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": "Contact No:",
+    "ao_mobile": "8855289437",
+    "ao_email": null,
+    "favorite": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Khewat No 188, Khatoni No 226, Malvi, Julana, Jind",
+    "name": "Residential House in Malvi, Julana, Jind",
+    "application_date": "2025-08-27T18:30:00.000Z",
+    "date": "2025-08-30T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 11,
+    "built_up_area": null,
+    "total_area": "120 Sq.yards",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential House/Building",
+    "city": "Jind",
+    "state": "Haryana",
+    "location": "Malvi",
+    "estimated_discount": "20",
+    "emd": 125400,
+    "market_value": 1504800,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47243,
+    "latitude": "29.0980305",
+    "longitude": "76.3391259",
+    "min_increment": null,
+    "reserve_price": 1254000,
+    "description": null,
+    "slug": "residential-house-in-malvi-julana-jind",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 3,
+    "location_type": "Approximate",
+    "possession": "Symbolic Possession",
+    "borrower_name": "Smt. Babita W/o Dal Singh, Sh. Dal Singh S/o Ravi Dutt",
+    "amenities": "Near Dada Padri Kiryana Store | Close by Surgical Dressing Centre | Close to Baba Padri Temple | Near khatu shyam mandir",
+    "nearby_locations": null,
+    "seo_title": "Residential House for sale in Malvi - Best Price!",
+    "seo_keyword": "Residential House in Malvi, Julana, Jind",
+    "title_h1": "Buy Residential House in Malvi, Julana, Jind",
+    "seo_description": "Discover the perfect Residential House in Malvi, Julana, Jind. This property offers spacious living. Find it for sale, offering great value. Call now to schedule a visit before it's gone, and secure your dream home today. Don't miss out!",
+    "created_at": "2025-07-31T02:02:08.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-08-01T10:13:08.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Uco Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47243/1754043188261_House3.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47243/1754043188261_House3.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

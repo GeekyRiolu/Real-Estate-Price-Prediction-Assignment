@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Unit-3, 4, 5, Floor-1, Urban Two, Vasant Vihar, Vadodara",
+    "name": "Office Space in Urban Two, Vasant Vihar, Vadodara",
+    "application_date": "2025-09-01T18:30:00.000Z",
+    "date": "2025-09-02T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 15,
+    "built_up_area": null,
+    "total_area": "402.72 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Office Space",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "location": "Vasant Vihar",
+    "estimated_discount": "20",
+    "emd": 2955000,
+    "market_value": 50000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47202,
+    "latitude": "22.29877105067229",
+    "longitude": "73.12839403457508",
+    "min_increment": null,
+    "reserve_price": 29550000,
+    "description": null,
+    "slug": "office-space-in-urban-two-vasant-vihar-vadodara",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1754029816653!6m8!1m7!1ss3-w5A64WFcdgA1pp4DwIw!2m2!1d22.2989056789063!2d73.12831356830655!3f183.69592433739686!4f28.156152311795623!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 10,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr Hathi Arpit Malvik",
+    "amenities": "Just a 3 min drive to Pind Di Gali | Just a 4 min drive to Craveyard The Restro Cafe | Within 10 mins drive to Metro Tube Well | Within 10 mins drive to Euphoria terrace cafe & restro",
+    "nearby_locations": null,
+    "seo_title": "Office Space for Sale in Vasant Vihar \u2013 Best Price!",
+    "seo_keyword": "Office Space in Urban Two, Vasant Vihar, Vadodara",
+    "title_h1": "Buy Office Space in Urban Two, Vasant Vihar, Vadodara",
+    "seo_description": "Discover prime Office Space in Urban Two, located in Vasant Vihar, Vadodara. This property provides an excellent opportunity for your business. Contact us immediately to learn about this amazing investment. Call now to schedule a visit and secure your space today.",
+    "created_at": "2025-07-31T00:40:51.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-08-01T06:33:59.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "HDFC Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47202/1754030039301_Screenshot 2025-08-01 120302.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47202/1754030039301_Screenshot 2025-08-01 120302.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

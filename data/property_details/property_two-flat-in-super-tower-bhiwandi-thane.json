@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No 104 & 105, 1st Floor, Super Tower, Bhiwandi, Thane",
+    "name": "Two Flat in Super Tower, Bhiwandi, Thane",
+    "application_date": "2025-08-26T18:30:00.000Z",
+    "date": "2025-08-28T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 12,
+    "built_up_area": "1,381 SFT BUA",
+    "total_area": null,
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "location": "Bhiwandi",
+    "estimated_discount": "20",
+    "emd": 235000,
+    "market_value": 4000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46942,
+    "latitude": "19.297628732719858",
+    "longitude": "73.05619415012411",
+    "min_increment": null,
+    "reserve_price": 2350000,
+    "description": null,
+    "slug": "two-flat-in-super-tower-bhiwandi-thane",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1753854998522!6m8!1m7!1s3vOUeZvYXXDU2zRehgudoA!2m2!1d19.29758822858591!2d73.05604159949759!3f5.6431260493609745!4f37.00123707682238!5f0.4000000000000002\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Symbolic",
+    "borrower_name": "Mr. Farooque Abdul Sattar Dalvi & Mrs. Safinaz Farooque Dalvi.",
+    "amenities": "Config- Flat No. (706 SFT) + 105(675 SFT) | Just a 4 min drive to Nana Nani Park | Just a 4 min drive to Global International High School and Jr. College | Just a 5 min drive to Rainbow Multispeciality Hospital | 10 mins walk to The Miracle Mall",
+    "nearby_locations": null,
+    "seo_title": "Two Flat for sale in Bhiwandi - Best Price",
+    "seo_keyword": "Two Flat in Super Tower, Bhiwandi, Thane",
+    "title_h1": "Buy Two Flat in Super Tower, Bhiwandi, Thane",
+    "seo_description": "Find two flats for sale in Super Tower, Bhiwandi, Thane. This property offers comfortable living with great amenities. Contact us now to discover the best deal and schedule a viewing quickly. Call now to schedule a visit.",
+    "created_at": "2025-07-29T09:39:41.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T06:02:51.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Union Bank of India",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46942/1753855371061_SUPER.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46942/1753855371061_SUPER.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

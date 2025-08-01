@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No.33, 3rd Floor, Tower D-5, Aravali Heights, Dwarkadhis Project Sector-24, Dharuhera",
+    "name": "Residential Flat in Aravali Heights, Dwarkadhis, Dharuhera",
+    "application_date": "2025-08-17T18:30:00.000Z",
+    "date": "2025-08-19T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 21,
+    "built_up_area": null,
+    "total_area": "1,200 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Dharuhera",
+    "state": "Haryana",
+    "location": "Dharuhera",
+    "estimated_discount": "20",
+    "emd": 270000,
+    "market_value": 3240000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 40471,
+    "latitude": "28.2327501",
+    "longitude": "76.8234983",
+    "min_increment": null,
+    "reserve_price": 2700000,
+    "description": "null",
+    "slug": "residential-flat-in-aravali-heights-dwarkadhis-sector-24-gurugram",
+    "status": 1,
+    "street_view": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1752218801971!6m8!1m7!1sAkDCN76FVLHaVPVa2ZjCHg!2m2!1d28.23420902887928!2d76.82363550592332!3f252.84787686341357!4f0.3042988938654929!5f0.7147524025277556\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "N/A",
+    "borrower_name": "Mr. Rohit Kour & Mrs. Shikha Koul",
+    "amenities": "Within 10 mins drive to Dmart Store Bhiwadi | Within 10 mins drive to Sector 4 Small Heritage Park | Within 10 mins drive to Aayushman Arogya Mandir | Within 10 mins drive to Rajendra Public School | Just a 3 min drive to RPS INTERNATIONAL SCHOOL",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for sale in Dharuhera - Best Price",
+    "seo_keyword": "Residential Flat in Aravali Heights, Dwarkadhis, Dharuhera",
+    "title_h1": "Buy Residential Flat in Aravali Heights, Dwarkadhis, Dharuhera",
+    "seo_description": "Find a beautiful Residential Flat in Aravali Heights, Dwarkadhis, Dharuhera. This property offers great investment opportunities and comfortable living. We have an extensive inventory of flats; call now to schedule a visit and discover your dream home before it's gone.",
+    "created_at": "2025-07-10T21:36:31.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-15T12:29:22.000Z",
+    "modified_by": 1411,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "prajapati prasad",
+    "favorite": 0,
+    "bank_name": "Kotak Mahindra Bank",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "notice_english": [
+      "Yes"
+    ],
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/40471/1752218985762_Screenshot 2025-07-11 123703.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/40471/1752218985972_Screenshot 2025-07-11 123703.png"
+    ]
+  }
+}

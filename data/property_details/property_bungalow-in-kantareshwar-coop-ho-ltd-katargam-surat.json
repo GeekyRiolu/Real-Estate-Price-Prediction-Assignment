@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Plot No R.s. No.517/3, 518+525 & 526, Kantareshwar Co.op. Ho. Ltd. , Katargam, Surat",
+    "name": "Bungalow in Kantareshwar Co.op. Ho. Ltd., Katargam, Surat",
+    "application_date": "2025-08-31T18:30:00.000Z",
+    "date": "2025-09-02T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 149,
+    "built_up_area": null,
+    "total_area": "292.92 Sq Mtrs",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Bungalow",
+    "city": "Surat",
+    "state": "Gujarat",
+    "location": "Katargam",
+    "estimated_discount": "20",
+    "emd": 3035835,
+    "market_value": 50000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 46989,
+    "latitude": "21.228920722248684",
+    "longitude": "72.83100745433785",
+    "min_increment": null,
+    "reserve_price": 30358350,
+    "description": null,
+    "slug": "bungalow-in-kantareshwar-coop-ho-ltd-katargam-surat",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 4,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "Mr. Vikas Ashokkumar Noticewala",
+    "amenities": "Nearby Kiran Multi Super Speciality Hospital | Close to Podar International School Amroli, Surat | Close by Niru Park | Close to Mahavir Namkeens Pvt. Ltd.",
+    "nearby_locations": null,
+    "seo_title": "Bungalow for sale in Katargam - Best Price",
+    "seo_keyword": "Bungalow in Kantareshwar Co.op. Ho. Ltd., Katargam, Surat",
+    "title_h1": "Buy Bungalow in Kantareshwar Co.op. Ho. Ltd., Katargam, Surat",
+    "seo_description": "Find a beautiful bungalow in Kantareshwar Co.op. Ho. Ltd., Katargam, Surat. This property offers ample space and is ideally located. Don't miss this opportunity. Call now to schedule a visit and secure your dream home before it's gone!",
+    "created_at": "2025-07-29T22:05:10.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T10:27:51.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Axis Finance",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/46989/1753871271952_Villa_Bungalow.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/46989/1753871271952_Villa_Bungalow.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

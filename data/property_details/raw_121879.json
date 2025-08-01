@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "id": 121879,
+    "borrower_name": "Mr. SACHIN BALASAHEB SHINDE",
+    "bank_name": "IIFL Home Finance Limited",
+    "address": "Flat No 1010, Floor No. 10, BUILDING B15, Affordable Housing Scheme EWS/LIG along with convenient shopping in sector 12 by PCNTDA under PMAY, S No 56,57, 58, 61, 62, 63 Plot No A1,A2, A3, A4, B1, B2,B3,B4, Sector No 12, Tal Haveli, BHOSARI, Pune, 411026",
+    "reserve_price": 629000,
+    "dimensions": "AREA ADMEASURING (IN SQ. FT.): Property Type: Saleable_Area, Carpet_Area Property Area: 429.00, 318.00 (Area admeasuring 413 sq. ft.)",
+    "emd": null,
+    "possession": "Symbolic",
+    "auction_date": "2025-05-01T18:30:00.000Z",
+    "application_deadline": "2025-04-29T18:30:00.000Z",
+    "locality": "Bhosari",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": "IL10260956",
+    "receive_date": "2025-03-25T18:30:00.000Z",
+    "bank_id": 108,
+    "state_id": 14,
+    "city_id": 2636,
+    "property_type_id": 1,
+    "created_at": "2025-03-27T14:20:45.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Type": "30 Days",
+      "Location": "PUNE",
+      "Outsanding": "808343",
+      "Inspection date": "2025/04/28",
+      "Publication Date": "2025/03/27",
+      "Publication approval date": "2025/03/26"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

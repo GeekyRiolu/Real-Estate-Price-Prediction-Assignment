@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122672,
+    "borrower_name": "Mr Karlapalem Ravi Kiran",
+    "bank_name": "Union Bank of India",
+    "address": "Security Doc No: 2879/2013, Dt 07.11.2013. The Property Is Residential Flat No. 302, Second Floor, Maheswari Heights Apartment, Rs No. 722/2A, Gunadala Road, Near Power Grid, Nunna, Vijayawada, Andhra Pradesh Belonging To Mr Karlapalem Ravi Kiran. Boundaries Of The Flat: East: Flat No 301, South: Open To Sky, West: Common Corridor, North: Open To Sky. Boundaries Of The Apartment: East: Donka, South: Gollapudi Pumping Scheme Canal, West: Property Of Annapareddy Venkateswara Reddy Sitaravamma, North: Property Of Badisa Durga. Province/State : Andhra Pradesh City/Town : Vijayawada Area/Town : Gunadala",
+    "reserve_price": 2034000,
+    "dimensions": "",
+    "emd": 203400,
+    "possession": null,
+    "auction_date": "2025-04-10T18:30:00.000Z",
+    "application_deadline": "2025-04-08T18:30:00.000Z",
+    "locality": "Gunadala",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 12,
+    "state_id": 1,
+    "city_id": 282,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:29.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "472031",
+      "Branch Name": "Governorpet Branch"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

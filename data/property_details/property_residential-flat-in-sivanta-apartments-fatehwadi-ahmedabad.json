@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Unit No A-501, 5th Floor, Block No A, Sivanta Apartments, Fatehwadi, Ahmedabad",
+    "name": "Residential Flat in Sivanta Apartments, Fatehwadi, Ahmedabad",
+    "application_date": "2025-08-31T18:30:00.000Z",
+    "date": "2025-09-01T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 15,
+    "built_up_area": null,
+    "total_area": "151.95 Sq Mtrs SBUA",
+    "carpet_area": "85.19 Sq Mtrs",
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "location": "Fatehwadi",
+    "estimated_discount": "20",
+    "emd": 650000,
+    "market_value": 9000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 47006,
+    "latitude": "22.996666170778884",
+    "longitude": "72.51647245303164",
+    "min_increment": null,
+    "reserve_price": 6500000,
+    "description": null,
+    "slug": "residential-flat-in-sivanta-apartments-fatehwadi-ahmedabad",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Mr. Sharma Vinayak",
+    "amenities": "Just a 3 min drive to Ananda Global School - Best CBSE School in Ahmedabad | Within 10 mins drive to parekhs hospital | Within 10 mins drive to D Mart | Within 10 mins drive to Galaxy Mall office",
+    "nearby_locations": null,
+    "seo_title": "Residential Flat for Sale in Ahmedabad - Best Price!",
+    "seo_keyword": "Residential Flat in Sivanta Apartments, Fatehwadi, Ahmedabad",
+    "title_h1": "Buy Residential Flat in Sivanta Apartments, Fatehwadi, Ahmedabad",
+    "seo_description": "Explore the residential flat in Sivanta Apartments, located in Fatehwadi, Ahmedabad. Discover comfortable living in a prime location with excellent connectivity. Call now to schedule your viewing and don't miss out on this opportunity. Act fast, before it's gone!",
+    "created_at": "2025-07-29T22:47:16.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-30T10:43:01.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "HDFC Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/47006/1753872181491_Screenshot 2025-07-30 161035.png"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/47006/1753872181491_Screenshot 2025-07-30 161035.png"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

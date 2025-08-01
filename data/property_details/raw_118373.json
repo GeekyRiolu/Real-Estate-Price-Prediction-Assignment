@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118373,
+    "borrower_name": "M/Snarula Trading Corporation",
+    "bank_name": "Punjab National Bank",
+    "address": "Equitable Mortgage of Portion of H. No. W.L 227-A situated at Abadi Basti Guzan, Jalandhar, Punjab",
+    "reserve_price": 900000,
+    "dimensions": "1\u00bd Marla",
+    "emd": 90000,
+    "possession": null,
+    "auction_date": "2025-03-27T18:30:00.000Z",
+    "application_deadline": "2025-03-25T18:30:00.000Z",
+    "locality": "Uran",
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "pincode": null,
+    "latlong": "maps.google.com/maps?q=31.3258689, 75.5502324",
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 9,
+    "state_id": 20,
+    "city_id": 3288,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

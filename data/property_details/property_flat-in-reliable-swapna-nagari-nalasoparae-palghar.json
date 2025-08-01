@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Flat No. 101, 1st Floor, Building No. 15, Reliable Swapna Nagari, Nalasopara(E), Palghar",
+    "name": "Flat in Reliable Swapna Nagari, Nalasopara(E), Palghar",
+    "application_date": "2025-08-03T18:30:00.000Z",
+    "date": "2025-08-04T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 24,
+    "built_up_area": null,
+    "total_area": "30 Sq.Mtr",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Residential Flat",
+    "city": "Palghar",
+    "state": "Maharashtra",
+    "location": "Nalasopara",
+    "estimated_discount": "20",
+    "emd": 165800,
+    "market_value": 2700000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 38040,
+    "latitude": "19.449305099396085",
+    "longitude": "72.88052958530658",
+    "min_increment": null,
+    "reserve_price": 1658000,
+    "description": null,
+    "slug": "flat-in-reliable-swapna-nagari-nalasoparae-palghar",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 1,
+    "location_type": "Exact",
+    "possession": "Physical",
+    "borrower_name": "Rakesh Kumar Yadav",
+    "amenities": "Just a 4 min walk to Galaxy Hospital Multispeciality | Within 10 mins drive to Hansa International School | Within 10 mins drive to Amusement park",
+    "nearby_locations": null,
+    "seo_title": "Flat for sale in Reliable Swapna Nagari - Best Price",
+    "seo_keyword": "Flat in Reliable Swapna Nagari, Nalasopara(E), Palghar",
+    "title_h1": "Buy Flat in Reliable Swapna Nagari, Nalasopara(E), Palghar",
+    "seo_description": "Explore a fantastic flat in Reliable Swapna Nagari, Nalasopara(E), Palghar. This property offers comfortable living. This well-located flat is available for sale. Call now to schedule a visit and make it yours before it's gone.",
+    "created_at": "2025-06-30T00:14:18.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-02T09:32:31.000Z",
+    "modified_by": 1073,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "Mohd Izhar",
+    "favorite": 0,
+    "bank_name": "Yes Bank Limited",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/38040/1751448751883_unnamed (12).webp"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/38040/1751448751996_unnamed (12).webp"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

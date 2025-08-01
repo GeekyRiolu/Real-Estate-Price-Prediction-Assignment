@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "borrower_loan_account_number": null,
+    "address": "Shop No 1 To 8, 2nd Floor, Appollo Enclave, Mehsana, Ahmedabad",
+    "name": "Shops in Appollo Enclave, Mehsana",
+    "application_date": "2025-08-05T18:30:00.000Z",
+    "date": "2025-08-06T18:30:00.000Z",
+    "time_extension": null,
+    "bank_id": 69,
+    "built_up_area": null,
+    "total_area": "2500 SFT",
+    "carpet_area": null,
+    "super_built_up_area": null,
+    "categories": "Commercial Shop/Retail Space",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "location": "Mahesana",
+    "estimated_discount": "20",
+    "emd": 470000,
+    "market_value": 7000000,
+    "trending": 0,
+    "private_treaty": 0,
+    "id": 37415,
+    "latitude": "23.591812649855623",
+    "longitude": "72.37789405116233",
+    "min_increment": null,
+    "reserve_price": 4700000,
+    "description": null,
+    "slug": "shops-in-appollo-enclave-mehsana",
+    "status": 1,
+    "street_view": null,
+    "property_type_id": 16,
+    "location_type": "Approximate",
+    "possession": "N/A",
+    "borrower_name": "M/s. Harpal Sing Zala & Ors",
+    "amenities": "Near Dena Bank | Near Punjab National Bank | Nearby JANTA GARAGES | Close by Sahyog Mall",
+    "nearby_locations": null,
+    "seo_title": "Shops for sale in Appollo Enclave - Best Price",
+    "seo_keyword": "Shops in Appollo Enclave, Mehsana",
+    "title_h1": "Buy Shops in Appollo Enclave, Mehsana",
+    "seo_description": "Find prime shops for sale in Appollo Enclave, Mehsana, perfect for your business. Explore excellent opportunities and invest wisely. Discover the best deals and properties for your needs. Call now to schedule a visit and grab the best available shops!",
+    "created_at": "2025-06-27T01:33:07.000Z",
+    "created_by": 1428,
+    "updated_at": "2025-07-10T11:36:26.000Z",
+    "modified_by": 2340,
+    "created_by_name": "Automated Cataloguing",
+    "modified_by_name": "aman kushwah",
+    "favorite": 0,
+    "bank_name": "Debt Recovery Tribunal",
+    "price_drop": 0,
+    "is_price_history_consistent": true,
+    "primary_photo": [
+      "https://hecta-website.s3.amazonaws.com/property/37415/1752147386782_Shop.jpg"
+    ],
+    "seo_image": [
+      "https://hecta-website.s3.amazonaws.com/property/37415/1752147387020_Shop.jpg"
+    ],
+    "notice_english": [
+      "Yes"
+    ]
+  }
+}

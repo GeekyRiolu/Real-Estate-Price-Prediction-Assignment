@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "id": 122541,
+    "borrower_name": "Mr. M C Prakash",
+    "bank_name": "ICICI Bank",
+    "address": "2Bhk Apartment With Built Up Area Of 900 Sq Ft In Apartment No.Eo, Ground Floor, Block No.14, Star Apartments, Re Sy No. 2, Nadama Village, Kanayannur Taluk, Ernakulam District. Bounded On The North By: Property Of Star Homes South: Thodu And Property Of Kk Sasi East: River West: Property Of Bose And Municipal Road Province/State : Kerala City/Town : Ernakulam Area/Town : Kanayannur Taluk",
+    "reserve_price": 1000000,
+    "dimensions": "900 Sq Ft",
+    "emd": 100000,
+    "possession": null,
+    "auction_date": "2025-04-02T18:30:00.000Z",
+    "application_deadline": "2025-03-31T18:30:00.000Z",
+    "locality": "Kanayannur Taluk",
+    "city": "Kochi",
+    "state": "Kerala",
+    "pincode": null,
+    "latlong": null,
+    "property_type": "Residential Flat",
+    "loan_account_number": null,
+    "receive_date": "2025-03-28T18:30:00.000Z",
+    "bank_id": 16,
+    "state_id": 12,
+    "city_id": 2280,
+    "property_type_id": 1,
+    "created_at": "2025-03-29T09:14:28.000Z",
+    "created_by": null,
+    "extra_details": {
+      "Auction ID": "471923",
+      "Branch Name": "Branch Office : Cochin"
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}

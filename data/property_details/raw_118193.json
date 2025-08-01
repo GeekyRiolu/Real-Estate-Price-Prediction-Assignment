@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "data": {
+    "id": 118193,
+    "borrower_name": "Mr Sayyed Jamil Ahmad Jani",
+    "bank_name": "Canara Bank",
+    "address": "All that part and parcel of Plot No 63(P), Gat No.-133, Area Adm. 41.02 Sqr.Mtr, Near Abu Ubaida Masjid Mhalade, Tq. Malegaon, District Nashik-423203. Province/State :  Maharashtra City/Town :  Nashik Area/Town :  Malegaon",
+    "reserve_price": 550000,
+    "dimensions": null,
+    "emd": 55000,
+    "possession": null,
+    "auction_date": "2025-02-27T18:30:00.000Z",
+    "application_deadline": null,
+    "locality": "Nashik",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "pincode": 423203,
+    "latlong": null,
+    "property_type": "Residential Plot",
+    "loan_account_number": null,
+    "receive_date": "2025-03-03T18:30:00.000Z",
+    "bank_id": 4,
+    "state_id": 14,
+    "city_id": 2639,
+    "property_type_id": 2,
+    "created_at": "2025-03-19T09:10:15.000Z",
+    "created_by": null,
+    "extra_details": {
+      "BRANCH": null,
+      "REGION": null,
+      "Property Webside Link": null,
+      "Latest Inspection Date  and  Time of Property": null
+    },
+    "ao_name": null,
+    "ao_mobile": null,
+    "ao_email": null,
+    "favorite": 0
+  }
+}
